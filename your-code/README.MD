@@ -6,23 +6,18 @@
 *Data Part Time Barcelona May 2019*
 
 ## Content
-- [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-/-questions)
+- [Project Description](#project)
 - [Api](#api)
 - [Website](#website)
-- [Dataset](#dataset)
 - [Workflow](#workflow)
+- [Results](#results)
+- [Obstacles](#obstacles)
+- [Lessons Learned](#lessons)
 
-
-<a name="project-description"></a>
+<a name="project"></a>
 
 ## Project Description
-Find the best spanish players in Fortnite and some of their stats.
-
-<a name="hypotheses-/-questions"></a>
-
-## Hypotheses / Questions
-Wich are the most important stats for a Fornite solo player to be on the leaderboard.
+Find the best players in Fortnite and some of their stats.
 
 <a name="api"></a>
 
@@ -36,23 +31,43 @@ https://console.fortniteapi.com/
 
 https://fortnitetracker.com/
 
-<a name="dataset"></a>
-
-## Dataset
-
-[Dataset]() 
 
 <a name="workflow"></a>
 
 ## Workflow
 
 ### Find an API and a Website
-* Find if EPIC has a Fortnite public API
+* Find if EPIC has a Fortnite public API --> NO
 * Find non official Fortnite APIs
 * Find a Fortnite Ranking website 
 
 ### Define the info I need to retrieve
 
+### API
 
+### WEB
+
+### Cleaning and Manipulation
+
+### Dataset
+
+
+<a name="results"></a>
+
+## Results
+
+Results
+
+<a name="obstacles"></a>
+
+## Obstacles
+
+Obstacles
+
+<a name="lessons"></a>
+
+## Lessons Learned
+
+Lessons
 
 
