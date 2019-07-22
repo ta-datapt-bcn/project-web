@@ -17,4 +17,12 @@ Linking from your application and web pages to Marvel helps us understand how ap
 If a URL array is not present for an entity simply link to the Marvel.com home page (http://marvel.com) in your attribution notice.<br><br>
 
 GENERAL API INFORMATION<br><br>
-The Marvel Comics __API__ is a __RESTful__ service which provides methods for accessing specific resources at canonical URLs and for searching and filtering sets of resources by various criteria. All representations are encoded as __JSON__ objects.
+The Marvel Comics __API__ is a __RESTful__ service which provides methods for accessing specific resources at canonical URLs and for searching and filtering sets of resources by various criteria. All representations are encoded as __JSON__ objects.<br><br>
+
+## Giphy API<br>
+### developper account:
+#### https://developers.giphy.com
+Create an App<br>
+Implement Search<br>
+Incorporate Analytics<br>
+Attribution<br>
