@@ -1,0 +1,13 @@
+https://api.redtube.com/docs
+
+Sacar categorias:
+Sacar videos por categorias (100 videos?) ordenados por:
+	-Most viewed or rating
+	-Recently
+
+Miramos cuantos videos por paginas hay.
+
+**Period solo aplica si se ordenan los videos. Ordenamos por recently y sacamos un periodo determinado o ordenamos por most viewed y sacamos un numero de paginas.
+
+Calcular numero de visitas (media de todos los videos) y comparar entre las diferentes categorias
+
