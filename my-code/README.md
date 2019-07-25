@@ -1,3 +1,6 @@
+![Spotify](https://musicodiy.com/wp-content/uploads/2018/07/Spotify_Logo_feature.png "Spotify")
+
+
 # Proyecto API y Web Scrapping
 
 ## API - Spotify
