@@ -15,4 +15,12 @@ Para continuar con el hilo de artistas, utilice el listado de artistas para impo
  - Conexión con la API de Spotify.
  - Obtener el token para acceder a la API
  - No todos los artistas tienen su propia wikipedia o utilizan simbología en el link
+ 
+ 
+ ## Archivos
+ 
+- API - Spotify.ipynb
+- Web Wikipedia.ipynb
+- Resultado de la API (Spotify_v2-1.csv)
+- Resultado de API + Scrapping (Spotify_API_and_WebScrapping.csv)
 
