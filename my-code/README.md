@@ -1,4 +1,4 @@
-![Spotify](https://musicodiy.com/wp-content/uploads/2018/07/Spotify_Logo_feature.png "Spotify" =250x)
+![Spotify](https://musicodiy.com/wp-content/uploads/2018/07/Spotify_Logo_feature.png =250x)
 
 
 # Proyecto API y Web Scrapping
