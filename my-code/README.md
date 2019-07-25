@@ -1,4 +1,4 @@
-![Spotify|30%](https://musicodiy.com/wp-content/uploads/2018/07/Spotify_Logo_feature.png )
+![Spotify](https://a283c2a9332e392396a8db90-ypbhm8m6r5ycuve.netdna-ssl.com/wp-content/uploads/2016/12/spotify-e1481109745962.png)
 
 
 # Proyecto API y Web Scrapping
