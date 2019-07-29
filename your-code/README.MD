@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Best Fortnite Players 
+# Most Popular Video Games 
 *Paula Gual*
 
 *Data Part Time Barcelona May 2019*
