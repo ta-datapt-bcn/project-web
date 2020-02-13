@@ -1,0 +1,4 @@
+https://www.kaggle.com/tlegrand/pokemon-with-stats-generation-8
+https://github.com/PokeAPI/pokeapi
+https://pokeapi.co/docs/v2.html#info
+https://www.pikalytics.com/pokedex
