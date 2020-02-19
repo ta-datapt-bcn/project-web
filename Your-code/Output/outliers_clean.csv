@@ -1,0 +1,19 @@
+,Outlier,Pokémon,Type,Base Attack,Base Defense,Base HP,Base Special Attack,Base Special Defense,Base Speed,Base Stats Mean,Base Stats SD,VGC 2020 Usage %
+175,Base HP,Shedinja,"['bug', 'ghost']",90.0,45.0,1.0,30.0,30.0,40.0,39.33,26.59,0.0
+101,Base Special Defense,Stonjourner,['rock'],125.0,135.0,100.0,20.0,20.0,70.0,78.33,46.07,0.0
+33,Base Stats Mean,Butterfree,"['bug', 'flying']",45.0,50.0,60.0,901.0,80.0,70.0,65.83,15.92,5.0
+45,Base Stats Mean,Sableye,"['dark', 'ghost']",75.0,75.0,50.0,65.0,65.0,50.0,63.33,10.27,2.0
+52,Base Stats Mean,Pikachu,['electric'],55.0,404.0,35.0,50.0,505.0,90.0,53.33,17.72,1.0
+133,Base Stats Mean,Ditto,['normal'],48.0,48.0,48.0,48.0,48.0,48.0,48.0,0.0,0.0
+143,Base Stats Mean,Gothorita,['psychic'],45.0,70.0,60.0,75.0,85.0,55.0,65.0,13.23,0.0
+159,Base Stats Mean,Dottler,"['bug', 'psychic']",35.0,80.0,50.0,50.0,90.0,30.0,55.83,22.06,0.0
+161,Base Stats Mean,Delibird,"['ice', 'flying']",55.0,45.0,45.0,65.0,45.0,75.0,55.0,11.55,0.0
+167,Base Stats Mean,Clefairy,['fairy'],45.0,48.0,70.0,60.0,65.0,35.0,53.83,12.18,0.0
+168,Base Stats Mean,Riolu,['fighting'],70.0,40.0,40.0,35.0,40.0,60.0,47.5,12.83,0.0
+175,Base Stats Mean,Shedinja,"['bug', 'ghost']",90.0,45.0,1.0,30.0,30.0,40.0,39.33,26.59,0.0
+178,Base Stats Mean,Gloom,"['grass', 'poison']",65.0,70.0,60.0,85.0,75.0,40.0,65.83,13.97,0.0
+186,Base Stats Mean,Mime Jr.,"['psychic', 'fairy']",25.0,45.0,20.0,70.0,90.0,60.0,51.67,24.61,0.0
+187,Base Stats Mean,Morelull,"['grass', 'fairy']",35.0,55.0,40.0,65.0,75.0,15.0,47.5,19.95,0.0
+189,Base Stats Mean,Mawile,"['steel', 'fairy']",85.0,85.0,50.0,55.0,55.0,50.0,63.33,15.46,0.0
+193,Base Stats Mean,Cottonee,"['grass', 'fairy']",27.0,60.0,40.0,37.0,50.0,66.0,46.67,13.46,0.0
+195,Base Stats Mean,Shellos,['water'],48.0,48.0,76.0,57.0,62.0,34.0,54.17,13.09,0.0

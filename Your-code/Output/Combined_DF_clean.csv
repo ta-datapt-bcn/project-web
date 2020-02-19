@@ -1,0 +1,198 @@
+,National Dex #,Pokémon,Type,Base HP,Base Attack,Base Defense,Base Special Attack,Base Special Defense,Base Speed,Base Stats Mean,Base Stats SD,VGC 2020 Usage Rank,VGC 2020 Usage %,Competitive viability,Most frequent teammate,2nd most frequent teammate,3rd most frequent teammate
+0,468,Togekiss,"['fairy', 'flying']",85.0,50.0,95.0,120.0,115.0,80.0,90.83,23.35,1,46.0,B,"Excadrill 38.536% ['ground', 'steel']",Arcanine 35.593% ['fire'],"Dragapult 33.117% ['dragon', 'ghost']"
+1,059,Arcanine,['fire'],90.0,110.0,80.0,100.0,80.0,95.0,92.5,10.7,2,36.0,B,"Togekiss 45.687% ['fairy', 'flying']","Dragapult 30.663% ['dragon', 'ghost']","Tyranitar 28.847% ['rock', 'dark']"
+2,887,Dragapult,"['dragon', 'ghost']",88.0,120.0,75.0,100.0,75.0,142.0,100.0,24.35,3,31.0,B,"Togekiss 48.228% ['fairy', 'flying']","Excadrill 38.133% ['ground', 'steel']",Arcanine 34.788% ['fire']
+3,530,Excadrill,"['ground', 'steel']",110.0,135.0,60.0,50.0,65.0,88.0,84.67,29.95,4,30.0,B,"Togekiss 59.572% ['fairy', 'flying']","Tyranitar 47.122% ['rock', 'dark']","Dragapult 40.479% ['dragon', 'ghost']"
+4,547,Whimsicott,"['grass', 'fairy']",60.0,67.0,85.0,77.0,75.0,116.0,80.0,17.91,5,29.0,B-,"Duraludon 36.074% ['steel', 'dragon']","Togekiss 32.431% ['fairy', 'flying']",Arcanine 25.983% ['fire']
+5,884,Duraludon,"['steel', 'dragon']",70.0,95.0,115.0,120.0,50.0,85.0,89.17,24.4,6,24.0,B-,"Whimsicott 43.844% ['grass', 'fairy']",Arcanine 39.353% ['fire'],"Grimmsnarl 31.799% ['dark', 'fairy']"
+6,248,Tyranitar,"['rock', 'dark']",100.0,134.0,110.0,95.0,100.0,61.0,100.0,21.61,7,23.0,B,"Excadrill 61.114% ['ground', 'steel']","Togekiss 50.508% ['fairy', 'flying']",Arcanine 45.056% ['fire']
+7,861,Grimmsnarl,"['dark', 'fairy']",95.0,120.0,65.0,95.0,75.0,60.0,85.0,20.62,8,20.0,B,Arcanine 42.733% ['fire'],"Duraludon 38.183% ['steel', 'dragon']","Togekiss 32.534% ['fairy', 'flying']"
+8,130,Gyarados,"['water', 'flying']",95.0,125.0,79.0,60.0,100.0,81.0,90.0,20.22,9,17.0,B,"Togekiss 44.558% ['fairy', 'flying']","Excadrill 35.918% ['ground', 'steel']","Dragapult 31.131% ['dragon', 'ghost']"
+9,423,Gastrodon,"['water', 'ground']",111.0,83.0,68.0,92.0,82.0,39.0,79.17,22.13,10,17.0,B,Arcanine 41.752% ['fire'],"Togekiss 40.461% ['fairy', 'flying']","Tyranitar 36.848% ['rock', 'dark']"
+10,464,Rhyperior,"['ground', 'rock']",115.0,140.0,130.0,55.0,55.0,40.0,89.17,40.15,11,16.0,B,"Togekiss 45.370% ['fairy', 'flying']",Dusclops 38.673% ['ghost'],Torkoal 35.043% ['fire']
+11,534,Conkeldurr,['fighting'],105.0,140.0,95.0,55.0,65.0,45.0,84.17,32.71,12,15.0,B,"Togekiss 43.360% ['fairy', 'flying']","Whimsicott 39.141% ['grass', 'fairy']","Duraludon 25.543% ['steel', 'dragon']"
+12,143,Snorlax,['normal'],160.0,110.0,65.0,65.0,110.0,30.0,90.0,41.93,14,11.0,B-,"Togekiss 38.990% ['fairy', 'flying']",Arcanine 31.293% ['fire'],"Dragapult 29.082% ['dragon', 'ghost']"
+13,356,Dusclops,['ghost'],40.0,70.0,130.0,60.0,130.0,25.0,75.83,40.87,15,11.0,B-,"Rhyperior 55.334% ['ground', 'rock']",Torkoal 48.417% ['fire'],"Togekiss 40.985% ['fairy', 'flying']"
+14,882,Dracovish,"['water', 'dragon']",90.0,90.0,100.0,70.0,80.0,75.0,84.17,10.17,16,11.0,B-,"Duraludon 46.930% ['steel', 'dragon']","Whimsicott 42.164% ['grass', 'fairy']",Arcanine 39.854% ['fire']
+15,584,Vanilluxe,['ice'],71.0,95.0,85.0,110.0,95.0,79.0,89.17,12.6,17,11.0,B-,"Whimsicott 50.403% ['grass', 'fairy']",Inteleon 48.180% ['water'],Conkeldurr 32.418% ['fighting']
+16,324,Torkoal,['fire'],70.0,85.0,140.0,85.0,70.0,20.0,78.33,35.2,19,9.0,B-,"Rhyperior 59.591% ['ground', 'rock']",Dusclops 57.543% ['ghost'],"Togekiss 27.286% ['fairy', 'flying']"
+17,818,Inteleon,['water'],70.0,85.0,65.0,125.0,65.0,120.0,88.33,25.11,20,9.0,B,Vanilluxe 54.977% ['ice'],"Whimsicott 53.689% ['grass', 'fairy']","Hydreigon 32.593% ['dark', 'dragon']"
+18,006,Charizard,"['fire', 'flying']",78.0,84.0,78.0,109.0,85.0,100.0,89.0,11.58,21,9.0,B,"Whimsicott 53.262% ['grass', 'fairy']","Duraludon 31.739% ['steel', 'dragon']","Togekiss 30.772% ['fairy', 'flying']"
+19,778,Mimikyu,"['ghost', 'fairy']",55.0,90.0,80.0,50.0,105.0,96.0,79.33,20.43,22,9.0,B,"Braviary 28.356% ['normal', 'flying']","Gastrodon 27.891% ['water', 'ground']","Dragapult 27.422% ['dragon', 'ghost']"
+20,609,Chandelure,"['ghost', 'fire']",60.0,55.0,90.0,145.0,90.0,80.0,86.67,29.39,23,9.0,B,"Togekiss 49.515% ['fairy', 'flying']","Whimsicott 35.197% ['grass', 'fairy']",Conkeldurr 32.981% ['fighting']
+21,823,Corviknight,"['flying', 'steel']",98.0,87.0,105.0,53.0,85.0,67.0,82.5,17.72,24,8.0,B-,Arcanine 44.108% ['fire'],"Dragapult 33.780% ['dragon', 'ghost']","Gastrodon 33.488% ['water', 'ground']"
+22,593,Jellicent,"['water', 'ghost']",100.0,60.0,70.0,85.0,105.0,60.0,80.0,18.03,25,8.0,B-,"Togekiss 55.317% ['fairy', 'flying']",Conkeldurr 39.889% ['fighting'],"Whimsicott 37.117% ['grass', 'fairy']"
+23,635,Hydreigon,"['dark', 'dragon']",92.0,105.0,90.0,125.0,90.0,98.0,100.0,12.37,26,7.0,B-,"Whimsicott 56.500% ['grass', 'fairy']",Inteleon 44.006% ['water'],Vanilluxe 39.266% ['ice']
+24,350,Milotic,['water'],95.0,60.0,79.0,100.0,125.0,81.0,90.0,20.22,27,7.0,B,"Togekiss 51.005% ['fairy', 'flying']",Arcanine 34.530% ['fire'],"Excadrill 33.391% ['ground', 'steel']"
+25,628,Braviary,"['normal', 'flying']",100.0,123.0,75.0,57.0,75.0,80.0,85.0,21.13,28,7.0,B-,"Excadrill 42.680% ['ground', 'steel']","Mimikyu 36.206% ['ghost', 'fairy']","Tyranitar 32.227% ['rock', 'dark']"
+26,750,Mudsdale,['ground'],100.0,125.0,100.0,55.0,85.0,35.0,83.33,30.09,31,6.0,B-,Arcanine 47.719% ['fire'],"Grimmsnarl 42.508% ['dark', 'fairy']","Togekiss 40.131% ['fairy', 'flying']"
+27,632,Durant,"['bug', 'steel']",58.0,109.0,112.0,48.0,48.0,109.0,80.67,29.54,33,6.0,B,"Togekiss 56.460% ['fairy', 'flying']","Whimsicott 40.718% ['grass', 'fairy']",Arcanine 38.067% ['fire']
+28,700,Sylveon,['fairy'],95.0,65.0,65.0,110.0,130.0,60.0,87.5,26.26,34,6.0,B-,Arcanine 40.752% ['fire'],"Dragapult 32.479% ['dragon', 'ghost']","Rotom-Wash 25.520% ['electric', 'water']"
+29,576,Gothitelle,['psychic'],70.0,55.0,95.0,95.0,110.0,65.0,81.67,19.51,35,6.0,B-,"Togekiss 59.191% ['fairy', 'flying']","Rhyperior 38.361% ['ground', 'rock']",Arcanine 32.929% ['fire']
+30,437,Bronzong,"['steel', 'psychic']",67.0,89.0,116.0,79.0,116.0,33.0,83.33,28.83,36,5.0,B,"Rhyperior 73.684% ['ground', 'rock']","Togekiss 62.521% ['fairy', 'flying']","Dragapult 53.674% ['dragon', 'ghost']"
+31,598,Ferrothorn,"['grass', 'steel']",74.0,94.0,131.0,54.0,116.0,20.0,81.5,37.4,37,5.0,B-,Arcanine 53.127% ['fire'],"Dragapult 36.175% ['dragon', 'ghost']","Togekiss 35.395% ['fairy', 'flying']"
+32,560,Scrafty,"['dark', 'fighting']",65.0,90.0,115.0,45.0,115.0,58.0,81.33,27.3,38,5.0,B-,"Rhyperior 27.432% ['ground', 'rock']","Togekiss 26.399% ['fairy', 'flying']","Duraludon 21.109% ['steel', 'dragon']"
+33,012,Butterfree,"['bug', 'flying']",60.0,45.0,50.0,901.0,80.0,70.0,65.83,15.92,39,5.0,B-,"Rhyperior 48.736% ['ground', 'rock']",Torkoal 47.937% ['fire'],Dusclops 41.415% ['ghost']
+34,237,Hitmontop,['fighting'],50.0,95.0,95.0,35.0,110.0,70.0,75.83,26.68,40,4.0,B,"Togekiss 62.854% ['fairy', 'flying']","Excadrill 42.561% ['ground', 'steel']","Tyranitar 27.487% ['rock', 'dark']"
+35,858,Hatterene,"['psychic', 'fairy']",57.0,90.0,95.0,136.0,103.0,29.0,85.0,34.08,41,4.0,B-,Torkoal 49.243% ['fire'],"Indeedee-F 37.958% ['psychic', 'normal']","Rhyperior 34.441% ['ground', 'rock']"
+36,849,Toxtricity,"['electric', 'poison']",75.0,98.0,70.0,114.0,70.0,75.0,83.67,16.58,42,3.0,B-,"Whimsicott 71.934% ['grass', 'fairy']","Hydreigon 66.854% ['dark', 'dragon']",Inteleon 66.049% ['water']
+37,131,Lapras,"['water', 'ice']",130.0,85.0,80.0,85.0,95.0,60.0,89.17,21.1,43,3.0,C+,"Togekiss 46.575% ['fairy', 'flying']",Gothitelle 33.598% ['psychic'],Arcanine 32.433% ['fire']
+38,279,Pelipper,"['water', 'flying']",60.0,50.0,100.0,953.0,70.0,65.0,73.33,18.18,44,3.0,B-,"Ludicolo 61.150% ['water', 'grass']","Togekiss 34.431% ['fairy', 'flying']","Dragapult 28.024% ['dragon', 'ghost']"
+39,272,Ludicolo,"['water', 'grass']",80.0,70.0,70.0,90.0,100.0,70.0,80.0,11.55,45,3.0,B-,"Pelipper 62.620% ['water', 'flying']","Togekiss 44.241% ['fairy', 'flying']","Dragapult 34.451% ['dragon', 'ghost']"
+40,766,Passimian,['fighting'],100.0,120.0,90.0,40.0,60.0,80.0,81.67,26.09,46,3.0,B-,"Togekiss 43.452% ['fairy', 'flying']","Whimsicott 42.738% ['grass', 'fairy']","Gyarados 33.590% ['water', 'flying']"
+41,880,Dracozolt,"['electric', 'dragon']",90.0,100.0,90.0,80.0,70.0,75.0,84.17,10.17,47,2.0,B-,"Whimsicott 54.438% ['grass', 'fairy']","Togekiss 46.204% ['fairy', 'flying']","Duraludon 28.342% ['steel', 'dragon']"
+42,777,Togedemaru,"['electric', 'steel']",65.0,98.0,63.0,40.0,73.0,96.0,72.5,20.02,48,2.0,B-,"Braviary 44.093% ['normal', 'flying']","Dragapult 41.809% ['dragon', 'ghost']",Vanilluxe 38.897% ['ice']
+43,448,Lucario,"['fighting', 'steel']",70.0,110.0,70.0,115.0,70.0,90.0,87.5,19.09,49,2.0,B-,"Whimsicott 73.995% ['grass', 'fairy']","Dragapult 38.860% ['dragon', 'ghost']","Rotom-Wash 33.435% ['electric', 'water']"
+44,045,Vileplume,"['grass', 'poison']",75.0,80.0,85.0,1106.0,90.0,50.0,81.67,17.95,50,2.0,B-,Torkoal 84.899% ['fire'],"Rhyperior 53.633% ['ground', 'rock']",Dusclops 53.444% ['ghost']
+45,302,Sableye,"['dark', 'ghost']",50.0,75.0,75.0,65.0,65.0,50.0,63.33,10.27,51,2.0,B-,"Togekiss 42.760% ['fairy', 'flying']","Excadrill 22.596% ['ground', 'steel']",Arcanine 20.666% ['fire']
+46,706,Goodra,['dragon'],90.0,100.0,70.0,110.0,150.0,80.0,100.0,25.82,52,2.0,B-,"Togekiss 43.723% ['fairy', 'flying']","Excadrill 36.923% ['ground', 'steel']","Whimsicott 26.244% ['grass', 'fairy']"
+47,450,Hippowdon,['ground'],108.0,112.0,118.0,68.0,72.0,47.0,87.5,26.49,54,2.0,B-,"Excadrill 85.130% ['ground', 'steel']","Togekiss 68.447% ['fairy', 'flying']","Dragapult 43.126% ['dragon', 'ghost']"
+48,026,Raichu,['electric'],60.0,90.0,55.0,90.0,80.0,1106.0,80.83,18.8,55,1.0,C+,"Gyarados 57.501% ['water', 'flying']",Arcanine 34.431% ['fire'],"Togekiss 28.346% ['fairy', 'flying']"
+49,765,Oranguru,"['normal', 'psychic']",90.0,60.0,80.0,90.0,110.0,60.0,81.67,17.72,56,1.0,B-,Torkoal 56.333% ['fire'],"Rhyperior 42.255% ['ground', 'rock']","Vileplume 24.212% ['grass', 'poison']"
+50,842,Appletun,"['grass', 'dragon']",110.0,85.0,80.0,100.0,80.0,30.0,80.83,25.24,57,1.0,C+,"Togekiss 47.490% ['fairy', 'flying']",Arcanine 45.872% ['fire'],"Tyranitar 41.109% ['rock', 'dark']"
+51,579,Reuniclus,['psychic'],110.0,65.0,75.0,125.0,85.0,30.0,81.67,30.78,58,1.0,B-,Arcanine 45.633% ['fire'],"Togekiss 44.881% ['fairy', 'flying']","Indeedee-F 42.243% ['psychic', 'normal']"
+52,025,Pikachu,['electric'],35.0,55.0,404.0,50.0,505.0,90.0,53.33,17.72,59,1.0,C+,"Togekiss 59.342% ['fairy', 'flying']","Excadrill 39.327% ['ground', 'steel']","Chandelure 34.182% ['ghost', 'fire']"
+53,701,Hawlucha,"['fighting', 'flying']",78.0,92.0,75.0,74.0,63.0,118.0,83.33,17.68,61,1.0,C+,"Indeedee-F 48.047% ['psychic', 'normal']","Duraludon 24.280% ['steel', 'dragon']",Torkoal 21.521% ['fire']
+54,815,Cinderace,['fire'],80.0,116.0,75.0,65.0,75.0,119.0,88.33,21.12,62,1.0,C+,"Whimsicott 61.259% ['grass', 'fairy']","Duraludon 48.483% ['steel', 'dragon']",Conkeldurr 41.949% ['fighting']
+55,630,Mandibuzz,"['dark', 'flying']",110.0,65.0,105.0,55.0,95.0,80.0,85.0,20.21,63,1.0,B-,Arcanine 77.814% ['fire'],Sylveon 64.159% ['fairy'],"Dragapult 62.227% ['dragon', 'ghost']"
+56,752,Araquanid,"['water', 'bug']",68.0,70.0,92.0,50.0,132.0,42.0,75.67,29.79,64,1.0,C+,"Whimsicott 30.781% ['grass', 'fairy']","Dragapult 29.483% ['dragon', 'ghost']",Conkeldurr 27.062% ['fighting']
+57,460,Abomasnow,"['grass', 'ice']",90.0,92.0,75.0,92.0,85.0,60.0,82.33,11.59,65,1.0,B-,Inteleon 41.159% ['water'],"Togekiss 32.629% ['fairy', 'flying']","Rhyperior 32.298% ['ground', 'rock']"
+58,784,Kommo-o,"['dragon', 'fighting']",75.0,110.0,125.0,100.0,105.0,85.0,100.0,16.33,66,1.0,C+,"Togekiss 34.192% ['fairy', 'flying']",Arcanine 24.487% ['fire'],"Corviknight 23.779% ['flying', 'steel']"
+59,773,Silvally,['normal'],95.0,95.0,95.0,95.0,95.0,95.0,95.0,0.0,67,1.0,C+,"Togekiss 44.748% ['fairy', 'flying']",Inteleon 41.141% ['water'],"Dracovish 39.048% ['water', 'dragon']"
+60,197,Umbreon,['dark'],95.0,65.0,110.0,60.0,130.0,65.0,87.5,26.26,68,1.0,B-,"Togekiss 56.933% ['fairy', 'flying']","Corviknight 48.297% ['flying', 'steel']",Arcanine 38.773% ['fire']
+61,094,Gengar,"['ghost', 'poison']",60.0,65.0,60.0,130.0,75.0,110.0,83.33,27.03,70,1.0,C+,"Togekiss 29.450% ['fairy', 'flying']","Whimsicott 27.206% ['grass', 'fairy']",Arcanine 21.201% ['fire']
+62,781,Dhelmise,"['ghost', 'grass']",70.0,131.0,100.0,86.0,90.0,40.0,86.17,27.72,69,1.0,B-,"Dragapult 42.322% ['dragon', 'ghost']","Tyranitar 39.506% ['rock', 'dark']","Excadrill 31.815% ['ground', 'steel']"
+63,282,Gardevoir,"['psychic', 'fairy']",68.0,65.0,65.0,125.0,115.0,80.0,86.33,24.51,71,1.0,B-,Arcanine 38.432% ['fire'],"Rotom-Mow 34.292% ['electric', 'grass']","Duraludon 24.845% ['steel', 'dragon']"
+64,561,Sigilyph,"['psychic', 'flying']",72.0,58.0,80.0,103.0,80.0,97.0,81.67,15.0,72,1.0,B-,"Excadrill 78.704% ['ground', 'steel']","Tyranitar 61.219% ['rock', 'dark']",Milotic 54.140% ['water']
+65,862,Obstagoon,"['dark', 'normal']",93.0,90.0,101.0,60.0,81.0,95.0,86.67,13.35,73,1.0,B-,"Whimsicott 31.958% ['grass', 'fairy']","Togekiss 30.545% ['fairy', 'flying']",Arcanine 29.149% ['fire']
+66,812,Rillaboom,['grass'],100.0,125.0,90.0,60.0,70.0,85.0,88.33,20.95,74,1.0,C+,"Togekiss 45.525% ['fairy', 'flying']",Arcanine 41.224% ['fire'],"Dragapult 35.456% ['dragon', 'ghost']"
+67,473,Mamoswine,"['ice', 'ground']",110.0,130.0,80.0,70.0,60.0,80.0,88.33,24.09,76,1.0,C+,Arcanine 40.586% ['fire'],"Grimmsnarl 38.222% ['dark', 'fairy']","Duraludon 34.230% ['steel', 'dragon']"
+68,743,Ribombee,"['bug', 'fairy']",60.0,55.0,60.0,95.0,70.0,124.0,77.33,24.64,77,1.0,C+,Snorlax 74.269% ['normal'],Dusclops 40.981% ['ghost'],"Dragapult 36.927% ['dragon', 'ghost']"
+69,820,Greedent,['normal'],120.0,95.0,95.0,55.0,75.0,20.0,76.67,32.23,78,1.0,C+,"Togekiss 72.501% ['fairy', 'flying']","Excadrill 71.582% ['ground', 'steel']",Arcanine 69.591% ['fire']
+70,844,Sandaconda,['ground'],72.0,107.0,125.0,65.0,70.0,71.0,85.0,22.63,79,1.0,C+,"Lapras 60.952% ['water', 'ice']",Gothitelle 51.293% ['psychic'],Arcanine 42.943% ['fire']
+71,865,Sirfetch'd,['fighting'],62.0,135.0,95.0,68.0,82.0,65.0,84.5,25.25,,,C+,"Excadrill 35.627% ['ground', 'steel']","Mimikyu 35.216% ['ghost', 'fairy']","Rotom-Wash 29.396% ['electric', 'water']"
+72,625,Bisharp,"['dark', 'steel']",65.0,125.0,100.0,60.0,70.0,70.0,81.67,23.21,81,1.0,B-,Conkeldurr 39.703% ['fighting'],"Togekiss 28.600% ['fairy', 'flying']","Whimsicott 27.762% ['grass', 'fairy']"
+73,036,Clefable,['fairy'],95.0,70.0,73.0,959.0,90.0,60.0,80.5,13.52,82,1.0,C+,Milotic 42.510% ['water'],"Charizard 40.433% ['fire', 'flying']","Excadrill 35.139% ['ground', 'steel']"
+74,526,Gigalith,['rock'],85.0,135.0,130.0,60.0,8030.0,25.0,85.83,38.23,83,1.0,C+,"Hatterene 35.132% ['psychic', 'fairy']",Dusclops 31.146% ['ghost'],Torkoal 24.324% ['fire']
+75,780,Drampa,"['normal', 'dragon']",78.0,60.0,85.0,135.0,91.0,36.0,80.83,30.3,84,1.0,C+,"Excadrill 58.091% ['ground', 'steel']","Grimmsnarl 54.511% ['dark', 'fairy']","Togekiss 53.473% ['fairy', 'flying']"
+76,839,Coalossal,"['rock', 'fire']",110.0,80.0,120.0,80.0,90.0,30.0,85.0,28.72,85,1.0,C+,"Dragapult 44.609% ['dragon', 'ghost']","Gastrodon 37.053% ['water', 'ground']","Togekiss 26.434% ['fairy', 'flying']"
+77,612,Haxorus,['dragon'],76.0,147.0,90.0,60.0,70.0,97.0,90.0,28.27,86,1.0,C+,"Togekiss 56.864% ['fairy', 'flying']",Arcanine 45.898% ['fire'],"Whimsicott 34.911% ['grass', 'fairy']"
+78,847,Barraskewda,['water'],61.0,123.0,60.0,60.0,50.0,136.0,81.67,34.23,87,1.0,C+,"Pelipper 49.755% ['water', 'flying']","Ludicolo 39.683% ['water', 'grass']","Ferrothorn 23.448% ['grass', 'steel']"
+79,683,Aromatisse,['fairy'],101.0,72.0,72.0,99.0,89.0,29.0,77.0,24.35,88,1.0,C+,Conkeldurr 80.904% ['fighting'],Snorlax 80.507% ['normal'],"Butterfree 77.011% ['bug', 'flying']"
+80,407,Roserade,"['grass', 'poison']",60.0,70.0,6527.0,125.0,105.0,90.0,85.83,23.35,89,1.0,B-,"Togekiss 54.023% ['fairy', 'flying']",Conkeldurr 41.812% ['fighting'],Dusclops 31.964% ['ghost']
+81,038,Ninetales,['fire'],73.0,76.0,75.0,81.0,100.0,100.0,84.17,11.45,90,0.0,C+,"Togekiss 38.457% ['fairy', 'flying']","Charizard 35.621% ['fire', 'flying']","Excadrill 35.595% ['ground', 'steel']"
+82,869,Alcremie,['fairy'],65.0,60.0,75.0,110.0,121.0,64.0,82.5,23.98,91,0.0,C+,Arcanine 28.094% ['fire'],"Duraludon 27.203% ['steel', 'dragon']","Togekiss 22.701% ['fairy', 'flying']"
+83,756,Shiinotic,"['grass', 'fairy']",60.0,45.0,80.0,90.0,100.0,30.0,67.5,24.79,93,0.0,B-,"Togekiss 45.196% ['fairy', 'flying']","Excadrill 28.469% ['ground', 'steel']","Indeedee-F 28.061% ['psychic', 'normal']"
+84,471,Glaceon,['ice'],65.0,60.0,110.0,130.0,95.0,65.0,87.5,26.26,94,0.0,C+,Conkeldurr 38.191% ['fighting'],"Dracovish 37.198% ['water', 'dragon']","Togekiss 34.627% ['fairy', 'flying']"
+85,867,Runerigus,"['ground', 'ghost']",58.0,95.0,145.0,50.0,105.0,30.0,80.5,38.64,95,0.0,C+,"Duraludon 25.869% ['steel', 'dragon']","Scrafty 22.822% ['dark', 'fighting']","Lapras 20.217% ['water', 'ice']"
+86,877,Morpeko,"['electric', 'dark']",58.0,95.0,58.0,70.0,58.0,97.0,72.67,17.05,96,0.0,C+,"Togekiss 35.220% ['fairy', 'flying']","Dragapult 25.889% ['dragon', 'ghost']",Milotic 24.249% ['water']
+87,863,Perrserker,['steel'],70.0,110.0,100.0,50.0,60.0,50.0,73.33,23.57,97,0.0,B-,"Togekiss 51.331% ['fairy', 'flying']","Durant 45.927% ['bug', 'steel']","Chandelure 45.048% ['ghost', 'fire']"
+88,563,Cofagrigus,['ghost'],58.0,50.0,145.0,95.0,105.0,30.0,80.5,38.64,98,0.0,C+,Torkoal 54.627% ['fire'],"Rhyperior 35.948% ['ground', 'rock']","Togekiss 32.230% ['fairy', 'flying']"
+89,537,Seismitoad,"['water', 'ground']",105.0,9531.0,75.0,85.0,75.0,74.0,84.83,11.7,99,0.0,B-,"Pelipper 58.174% ['water', 'flying']","Duraludon 24.301% ['steel', 'dragon']","Togekiss 23.163% ['fairy', 'flying']"
+90,518,Musharna,['psychic'],116.0,55.0,85.0,107.0,95.0,29.0,81.17,30.26,100,0.0,C+,Snorlax 88.464% ['normal'],"Duraludon 87.744% ['steel', 'dragon']","Grimmsnarl 86.271% ['dark', 'fairy']"
+91,851,Centiskorch,"['fire', 'bug']",100.0,115.0,65.0,90.0,90.0,65.0,87.5,17.97,101,0.0,C,"Corviknight 26.094% ['flying', 'steel']","Grimmsnarl 25.181% ['dark', 'fairy']","Dragapult 25.073% ['dragon', 'ghost']"
+92,687,Malamar,"['dark', 'psychic']",86.0,92.0,88.0,68.0,75.0,73.0,80.33,8.77,102,0.0,C,"Togekiss 36.426% ['fairy', 'flying']",Arcanine 28.305% ['fire'],"Whimsicott 24.062% ['grass', 'fairy']"
+93,475,Gallade,"['psychic', 'fighting']",68.0,125.0,65.0,65.0,115.0,80.0,86.33,24.51,103,0.0,C+,"Whimsicott 57.710% ['grass', 'fairy']","Gyarados 38.473% ['water', 'flying']","Duraludon 31.280% ['steel', 'dragon']"
+94,871,Pincurchin,['electric'],48.0,101.0,95.0,91.0,85.0,15.0,72.5,30.89,104,0.0,B-,"Grimmsnarl 26.816% ['dark', 'fairy']",Dusclops 24.370% ['ghost'],"Corviknight 24.256% ['flying', 'steel']"
+95,461,Weavile,"['dark', 'ice']",70.0,120.0,65.0,45.0,85.0,125.0,85.0,29.01,106,0.0,C,"Gastrodon 46.046% ['water', 'ground']","Coalossal 45.540% ['rock', 'fire']","Excadrill 25.996% ['ground', 'steel']"
+96,660,Diggersby,"['normal', 'ground']",85.0,56.0,77.0,50.0,77.0,78.0,70.5,12.79,107,0.0,C+,"Whimsicott 65.658% ['grass', 'fairy']",Arcanine 48.487% ['fire'],"Duraludon 46.373% ['steel', 'dragon']"
+97,881,Arctozolt,"['electric', 'ice']",90.0,100.0,90.0,90.0,80.0,55.0,84.17,14.26,108,0.0,C,Dusclops 42.198% ['ghost'],"Indeedee-F 28.849% ['psychic', 'normal']","Dragapult 26.054% ['dragon', 'ghost']"
+98,709,Trevenant,"['ghost', 'grass']",85.0,110.0,76.0,65.0,82.0,56.0,79.0,17.03,109,0.0,C+,Torkoal 37.628% ['fire'],"Grimmsnarl 36.885% ['dark', 'fairy']",Arcanine 35.063% ['fire']
+99,830,Eldegoss,['grass'],60.0,50.0,90.0,80.0,120.0,60.0,76.67,23.57,110,0.0,C,Arcanine 45.190% ['fire'],"Excadrill 33.358% ['ground', 'steel']","Togekiss 33.099% ['fairy', 'flying']"
+100,738,Vikavolt,"['bug', 'electric']",77.0,70.0,90.0,145.0,75.0,43.0,83.33,30.99,111,0.0,C+,"Rhyperior 21.387% ['ground', 'rock']",Dusclops 20.934% ['ghost'],"Hatterene 20.637% ['psychic', 'fairy']"
+101,874,Stonjourner,['rock'],100.0,125.0,135.0,20.0,20.0,70.0,78.33,46.07,113,0.0,C+,"Togekiss 32.731% ['fairy', 'flying']","Excadrill 28.168% ['ground', 'steel']","Whimsicott 25.538% ['grass', 'fairy']"
+102,864,Cursola,['ghost'],60.0,95.0,50.0,145.0,130.0,30.0,85.0,42.03,114,0.0,C,Gothitelle 31.377% ['psychic'],"Rhyperior 27.847% ['ground', 'rock']",Dusclops 25.787% ['ghost']
+103,763,Tsareena,['grass'],72.0,120.0,98.0,50.0,98.0,72.0,85.0,22.83,115,0.0,C+,Arcanine 29.374% ['fire'],"Dragapult 25.002% ['dragon', 'ghost']",Sylveon 22.376% ['fairy']
+104,589,Escavalier,"['bug', 'steel']",70.0,135.0,105.0,60.0,105.0,20.0,82.5,37.28,116,0.0,C,"Togekiss 23.268% ['fairy', 'flying']","Hatterene 22.509% ['psychic', 'fairy']",Dusclops 21.040% ['ghost']
+105,879,Copperajah,['steel'],122.0,130.0,69.0,80.0,69.0,30.0,83.33,34.01,117,0.0,C,"Hatterene 30.869% ['psychic', 'fairy']","Togekiss 25.403% ['fairy', 'flying']",Torkoal 19.385% ['fire']
+106,695,Heliolisk,"['electric', 'normal']",62.0,55.0,52.0,109.0,94.0,109.0,80.17,24.53,118,0.0,C,"Whimsicott 35.545% ['grass', 'fairy']",Torkoal 24.216% ['fire'],Arcanine 23.532% ['fire']
+107,873,Frosmoth,"['ice', 'bug']",70.0,65.0,60.0,125.0,90.0,65.0,79.17,22.62,119,0.0,B-,"Tyranitar 56.405% ['rock', 'dark']","Dragapult 51.529% ['dragon', 'ghost']",Arcanine 51.205% ['fire']
+108,470,Leafeon,['grass'],65.0,110.0,130.0,60.0,65.0,95.0,87.5,26.26,120,0.0,C+,Torkoal 58.956% ['fire'],"Charizard 24.651% ['fire', 'flying']",Ninetales 23.651% ['fire']
+109,182,Bellossom,['grass'],75.0,80.0,959.0,90.0,100.0,50.0,81.67,16.5,121,0.0,C+,Torkoal 83.935% ['fire'],"Charizard 63.547% ['fire', 'flying']","Hatterene 41.454% ['psychic', 'fairy']"
+110,330,Flygon,"['ground', 'dragon']",80.0,100.0,80.0,80.0,80.0,100.0,86.67,9.43,122,0.0,C+,"Whimsicott 25.308% ['grass', 'fairy']","Duraludon 22.794% ['steel', 'dragon']","Chandelure 19.272% ['ghost', 'fire']"
+111,344,Claydol,"['ground', 'psychic']",60.0,70.0,105.0,70.0,120.0,75.0,83.33,21.54,123,0.0,C,"Whimsicott 47.827% ['grass', 'fairy']","Excadrill 40.550% ['ground', 'steel']",Darmanitan-Galar 38.152% ['ice']
+112,342,Crawdaunt,"['water', 'dark']",63.0,120.0,85.0,90.0,55.0,55.0,78.0,23.24,124,0.0,C+,"Hatterene 56.400% ['psychic', 'fairy']","Excadrill 35.079% ['ground', 'steel']",Arcanine 33.395% ['fire']
+113,841,Flapple,"['grass', 'dragon']",70.0,110.0,80.0,95.0,60.0,70.0,80.83,16.94,126,0.0,C,Milotic 42.528% ['water'],"Excadrill 41.236% ['ground', 'steel']","Sigilyph 38.871% ['psychic', 'flying']"
+114,834,Drednaw,"['water', 'rock']",90.0,115.0,90.0,48.0,68.0,74.0,80.83,20.92,127,0.0,C+,"Pelipper 72.386% ['water', 'flying']","Ludicolo 31.954% ['water', 'grass']","Togekiss 27.010% ['fairy', 'flying']"
+115,091,Cloyster,"['water', 'ice']",50.0,95.0,180.0,85.0,45.0,70.0,87.5,44.98,128,0.0,C,Arcanine 71.407% ['fire'],"Togekiss 70.877% ['fairy', 'flying']","Duraludon 35.042% ['steel', 'dragon']"
+116,713,Avalugg,['ice'],95.0,117.0,184.0,44.0,46.0,28.0,85.67,53.81,129,0.0,B-,"Grimmsnarl 63.223% ['dark', 'fairy']",Arcanine 51.026% ['fire'],Mudsdale 49.923% ['ground']
+117,176,Togetic,"['fairy', 'flying']",55.0,40.0,85.0,80.0,105.0,40.0,67.5,24.28,130,0.0,C+,"Togekiss 51.725% ['fairy', 'flying']","Excadrill 45.977% ['ground', 'steel']",Hitmontop 36.910% ['fighting']
+118,758,Salazzle,"['poison', 'fire']",68.0,64.0,60.0,111.0,60.0,117.0,80.0,24.26,131,0.0,C+,"Togekiss 26.062% ['fairy', 'flying']","Duraludon 23.481% ['steel', 'dragon']","Whimsicott 21.210% ['grass', 'fairy']"
+119,426,Drifblim,"['ghost', 'flying']",150.0,80.0,44.0,90.0,54.0,80.0,83.0,33.96,132,0.0,C,"Dracozolt 32.540% ['electric', 'dragon']",Snorlax 31.142% ['normal'],"Indeedee 29.818% ['psychic', 'normal']"
+120,855,Polteageist,['ghost'],60.0,65.0,65.0,134.0,114.0,70.0,84.67,28.55,133,0.0,C,"Togekiss 28.574% ['fairy', 'flying']",Arcanine 24.636% ['fire'],"Indeedee-F 19.541% ['psychic', 'normal']"
+121,715,Noivern,"['flying', 'dragon']",85.0,70.0,80.0,97.0,80.0,123.0,89.17,17.12,134,0.0,B-,Arcanine 44.462% ['fire'],"Togekiss 40.362% ['fairy', 'flying']","Rhyperior 36.966% ['ground', 'rock']"
+122,614,Beartic,['ice'],95.0,13033.0,80.0,70.0,80.0,50.0,84.17,24.57,135,0.0,C+,Vanilluxe 69.618% ['ice'],Arcanine 32.732% ['fire'],Conkeldurr 31.030% ['fighting']
+123,748,Toxapex,"['poison', 'water']",50.0,63.0,152.0,53.0,142.0,35.0,82.5,46.43,136,0.0,C,Dusclops 28.440% ['ghost'],"Dragapult 27.039% ['dragon', 'ghost']","Excadrill 24.557% ['ground', 'steel']"
+124,068,Machamp,['fighting'],90.0,130.0,80.0,65.0,85.0,55.0,84.17,23.7,137,0.0,C,"Gyarados 22.761% ['water', 'flying']","Togekiss 21.849% ['fairy', 'flying']",Arcanine 20.971% ['fire']
+125,768,Golisopod,"['bug', 'water']",75.0,125.0,140.0,60.0,90.0,40.0,88.33,34.96,138,0.0,C,"Dragapult 32.698% ['dragon', 'ghost']","Togekiss 26.660% ['fairy', 'flying']","Weezing-Galar 25.344% ['poison', 'fairy']"
+126,617,Accelgor,['bug'],80.0,70.0,40.0,100.0,60.0,145.0,82.5,33.39,139,0.0,C,"Indeedee 41.631% ['psychic', 'normal']","Rhyperior 36.563% ['ground', 'rock']",Dusclops 36.140% ['ghost']
+127,310,Manectric,['electric'],70.0,75.0,60.0,105.0,60.0,105.0,79.17,19.02,140,0.0,C+,"Gyarados 60.636% ['water', 'flying']","Excadrill 39.873% ['ground', 'steel']","Whimsicott 27.563% ['grass', 'fairy']"
+128,539,Sawk,['fighting'],75.0,125.0,75.0,30.0,75.0,85.0,77.5,27.65,141,0.0,C+,"Whimsicott 83.791% ['grass', 'fairy']","Togekiss 66.008% ['fairy', 'flying']","Duraludon 55.382% ['steel', 'dragon']"
+129,870,Falinks,['fighting'],65.0,100.0,100.0,70.0,60.0,75.0,78.33,15.99,143,0.0,C,"Indeedee-F 37.366% ['psychic', 'normal']","Gyarados 31.225% ['water', 'flying']","Excadrill 28.367% ['ground', 'steel']"
+130,836,Boltund,['electric'],69.0,90.0,60.0,90.0,60.0,121.0,81.67,21.55,144,0.0,C+,"Whimsicott 68.239% ['grass', 'fairy']","Togekiss 66.790% ['fairy', 'flying']","Excadrill 64.831% ['ground', 'steel']"
+131,208,Steelix,"['steel', 'ground']",75.0,85.0,200.0,55.0,65.0,30.0,85.0,54.24,145,0.0,C+,"Whimsicott 42.848% ['grass', 'fairy']",Arcanine 38.727% ['fire'],"Scrafty 34.841% ['dark', 'fighting']"
+132,826,Orbeetle,"['bug', 'psychic']",60.0,45.0,110.0,80.0,120.0,90.0,84.17,26.21,146,0.0,C,"Excadrill 34.020% ['ground', 'steel']","Dragapult 25.990% ['dragon', 'ghost']",Sylveon 21.328% ['fairy']
+133,132,Ditto,['normal'],48.0,48.0,48.0,48.0,48.0,48.0,48.0,0.0,147,0.0,C+,"Duraludon 51.330% ['steel', 'dragon']","Gyarados 51.277% ['water', 'flying']",Raichu 45.985% ['electric']
+134,845,Cramorant,"['flying', 'water']",70.0,85.0,55.0,85.0,95.0,85.0,79.17,13.04,148,0.0,C+,"Gastrodon 58.813% ['water', 'ground']",Arcanine 25.954% ['fire'],"Sableye 20.880% ['dark', 'ghost']"
+135,760,Bewear,"['normal', 'fighting']",120.0,125.0,80.0,55.0,60.0,60.0,83.33,28.82,149,0.0,C+,Arcanine 48.605% ['fire'],Reuniclus 44.529% ['psychic'],"Mimikyu 41.548% ['ghost', 'fairy']"
+136,454,Toxicroak,"['poison', 'fighting']",83.0,106.0,65.0,86.0,65.0,85.0,81.67,14.02,150,0.0,C,"Pelipper 36.645% ['water', 'flying']","Togekiss 35.840% ['fairy', 'flying']","Seismitoad 24.891% ['water', 'ground']"
+137,596,Galvantula,"['bug', 'electric']",70.0,77.0,60.0,97.0,60.0,108.0,78.67,18.13,152,0.0,C+,Arcanine 45.030% ['fire'],"Dracovish 43.038% ['water', 'dragon']","Tyranitar 41.336% ['rock', 'dark']"
+138,196,Espeon,['psychic'],65.0,65.0,60.0,130.0,95.0,110.0,87.5,26.26,153,0.0,C-,"Togekiss 22.919% ['fairy', 'flying']",Arcanine 21.600% ['fire'],"Tyranitar 21.240% ['rock', 'dark']"
+139,883,Arctovish,"['water', 'ice']",90.0,90.0,100.0,80.0,90.0,55.0,84.17,14.26,154,0.0,C+,Dusclops 33.945% ['ghost'],Torkoal 28.816% ['fire'],"Hatterene 27.248% ['psychic', 'fairy']"
+140,421,Cherrim,['grass'],70.0,60.0,70.0,87.0,78.0,85.0,75.0,9.38,155,0.0,C,Torkoal 52.832% ['fire'],Leafeon 44.201% ['grass'],Ninetales 33.477% ['fire']
+141,600,Klang,['steel'],60.0,80.0,95.0,70.0,85.0,50.0,73.33,15.18,156,0.0,C+,"Togekiss 83.775% ['fairy', 'flying']","Dracovish 54.770% ['water', 'dragon']","Whimsicott 54.450% ['grass', 'fairy']"
+142,601,Klinklang,['steel'],60.0,100.0,115.0,70.0,85.0,90.0,86.67,18.18,157,0.0,C,Arcanine 41.581% ['fire'],"Togekiss 40.340% ['fairy', 'flying']",Snorlax 26.737% ['normal']
+143,575,Gothorita,['psychic'],60.0,45.0,70.0,75.0,85.0,55.0,65.0,13.23,158,0.0,C+,"Lapras 87.893% ['water', 'ice']",Gothitelle 79.227% ['psychic'],"Duraludon 52.856% ['steel', 'dragon']"
+144,853,Grapploct,['fighting'],80.0,118.0,90.0,70.0,80.0,42.0,80.0,22.69,159,0.0,C,"Centiskorch 28.901% ['fire', 'bug']","Gastrodon 28.628% ['water', 'ground']","Durant 25.482% ['bug', 'steel']"
+145,832,Dubwool,['normal'],72.0,80.0,100.0,60.0,90.0,88.0,81.67,12.98,160,0.0,C,Arcanine 32.689% ['fire'],"Whimsicott 30.347% ['grass', 'fairy']","Gastrodon 23.171% ['water', 'ground']"
+146,195,Quagsire,"['water', 'ground']",95.0,85.0,85.0,65.0,65.0,35.0,71.67,19.72,161,0.0,C,"Dragapult 58.310% ['dragon', 'ghost']","Corviknight 55.158% ['flying', 'steel']",Arcanine 40.380% ['fire']
+147,828,Thievul,['dark'],70.0,58.0,58.0,87.0,92.0,90.0,75.83,14.47,163,0.0,C,"Mimikyu 53.694% ['ghost', 'fairy']","Indeedee 49.725% ['psychic', 'normal']",Torkoal 46.938% ['fire']
+148,550,Basculin,['water'],70.0,92.0,65.0,80.0,55.0,98.0,76.67,15.01,164,0.0,C+,Arcanine 81.690% ['fire'],"Excadrill 81.689% ['ground', 'steel']","Togedemaru 76.351% ['electric', 'steel']"
+149,226,Mantine,"['water', 'flying']",8515.0,40.0,70.0,80.0,140.0,70.0,80.83,30.06,165,0.0,C,"Togekiss 65.219% ['fairy', 'flying']","Whimsicott 46.124% ['grass', 'fairy']","Duraludon 43.450% ['steel', 'dragon']"
+150,135,Jolteon,['electric'],65.0,65.0,60.0,110.0,95.0,130.0,87.5,26.26,166,0.0,C,"Pelipper 20.641% ['water', 'flying']","Whimsicott 19.798% ['grass', 'fairy']",Sylveon 15.526% ['fairy']
+151,452,Drapion,"['poison', 'dark']",70.0,90.0,110.0,60.0,75.0,95.0,83.33,16.75,167,0.0,C+,Arcanine 40.386% ['fire'],"Gastrodon 35.327% ['water', 'ground']",Conkeldurr 34.354% ['fighting']
+152,112,Rhydon,"['ground', 'rock']",105.0,130.0,120.0,45.0,45.0,40.0,80.83,38.23,168,0.0,C,Arcanine 42.692% ['fire'],"Togekiss 37.003% ['fairy', 'flying']","Jellicent 30.036% ['water', 'ghost']"
+153,051,Dugtrio,['ground'],35.0,10011.0,50.0,50.0,70.0,120.0,70.83,30.06,169,0.0,C,Gothitelle 42.717% ['psychic'],"Dragapult 40.421% ['dragon', 'ghost']","Whimsicott 39.850% ['grass', 'fairy']"
+154,275,Shiftry,"['grass', 'dark']",90.0,100.0,60.0,90.0,60.0,80.0,80.0,15.28,171,0.0,C,Torkoal 45.823% ['fire'],"Togekiss 23.151% ['fairy', 'flying']","Charizard 20.878% ['fire', 'flying']"
+155,478,Froslass,"['ice', 'ghost']",70.0,80.0,70.0,80.0,70.0,110.0,80.0,14.14,172,0.0,C+,"Dragapult 67.765% ['dragon', 'ghost']","Excadrill 67.540% ['ground', 'steel']","Abomasnow 61.989% ['grass', 'ice']"
+156,134,Vaporeon,['water'],130.0,65.0,60.0,110.0,95.0,65.0,87.5,26.26,173,0.0,C+,"Togekiss 35.326% ['fairy', 'flying']","Dragapult 30.611% ['dragon', 'ghost']",Conkeldurr 28.343% ['fighting']
+157,573,Cinccino,['normal'],75.0,95.0,60.0,65.0,60.0,115.0,78.33,20.34,174,0.0,C,Torkoal 30.255% ['fire'],"Chandelure 20.411% ['ghost', 'fire']","Duraludon 17.510% ['steel', 'dragon']"
+158,224,Octillery,['water'],75.0,105.0,75.0,105.0,75.0,45.0,80.0,20.62,175,0.0,C,"Indeedee-F 41.527% ['psychic', 'normal']","Duraludon 37.000% ['steel', 'dragon']","Sableye 36.119% ['dark', 'ghost']"
+159,825,Dottler,"['bug', 'psychic']",50.0,35.0,80.0,50.0,90.0,30.0,55.83,22.06,176,0.0,C+,"Rhyperior 58.215% ['ground', 'rock']","Togekiss 25.110% ['fairy', 'flying']",Torkoal 25.042% ['fire']
+160,477,Dusknoir,['ghost'],45.0,100.0,135.0,65.0,135.0,45.0,87.5,38.27,177,0.0,C+,"Hatterene 42.797% ['psychic', 'fairy']","Rhyperior 37.229% ['ground', 'rock']","Indeedee-F 25.558% ['psychic', 'normal']"
+161,225,Delibird,"['ice', 'flying']",45.0,55.0,45.0,65.0,45.0,75.0,55.0,11.55,179,0.0,C,"Togekiss 87.737% ['fairy', 'flying']","Whimsicott 73.745% ['grass', 'fairy']","Chandelure 73.682% ['ghost', 'fire']"
+162,321,Wailord,['water'],170.0,90.0,45.0,90.0,45.0,60.0,83.33,42.98,181,0.0,C-,"Dragapult 80.779% ['dragon', 'ghost']","Excadrill 76.504% ['ground', 'steel']",Arcanine 75.031% ['fire']
+163,099,Kingler,['water'],55.0,130.0,115.0,50.0,50.0,75.0,79.17,32.07,182,0.0,C,"Togekiss 56.984% ['fairy', 'flying']","Mimikyu 52.967% ['ghost', 'fairy']",Reuniclus 39.704% ['psychic']
+164,606,Beheeyem,['psychic'],75.0,75.0,75.0,125.0,95.0,40.0,80.83,25.56,185,0.0,C+,"Rhyperior 86.611% ['ground', 'rock']",Dusclops 85.022% ['ghost'],"Butterfree 84.290% ['bug', 'flying']"
+165,362,Glalie,['ice'],80.0,80.0,80.0,80.0,80.0,80.0,80.0,0.0,186,0.0,B-,Arcanine 84.581% ['fire'],"Tyranitar 77.035% ['rock', 'dark']","Grimmsnarl 72.372% ['dark', 'fairy']"
+166,213,Shuckle,"['bug', 'rock']",20.0,10.0,230.0,10.0,230.0,5.0,84.17,103.22,187,0.0,C-,"Dragapult 27.172% ['dragon', 'ghost']","Gyarados 23.560% ['water', 'flying']","Whimsicott 20.804% ['grass', 'fairy']"
+167,035,Clefairy,['fairy'],70.0,45.0,48.0,60.0,65.0,35.0,53.83,12.18,190,0.0,C-,Conkeldurr 43.138% ['fighting'],Arcanine 42.918% ['fire'],"Rotom-Wash 42.046% ['electric', 'water']"
+168,447,Riolu,['fighting'],40.0,70.0,40.0,35.0,40.0,60.0,47.5,12.83,191,0.0,C,Torkoal 49.722% ['fire'],"Hatterene 39.934% ['psychic', 'fairy']","Drampa 29.939% ['normal', 'dragon']"
+169,776,Turtonator,"['fire', 'dragon']",60.0,78.0,135.0,91.0,85.0,36.0,80.83,30.3,192,0.0,C-,"Ferrothorn 33.115% ['grass', 'steel']",Conkeldurr 32.387% ['fighting'],"Togekiss 31.275% ['fairy', 'flying']"
+170,680,Doublade,"['steel', 'ghost']",59.0,110.0,150.0,45.0,49.0,35.0,74.67,41.4,193,0.0,C-,"Dracovish 52.796% ['water', 'dragon']","Hatterene 50.227% ['psychic', 'fairy']","Grimmsnarl 41.669% ['dark', 'fairy']"
+171,178,Xatu,"['psychic', 'flying']",65.0,75.0,70.0,95.0,70.0,95.0,78.33,12.13,194,0.0,C,"Duraludon 46.297% ['steel', 'dragon']","Rhyperior 44.053% ['ground', 'rock']",Sylveon 43.829% ['fairy']
+172,106,Hitmonlee,['fighting'],50.0,120.0,53.0,35.0,110.0,87.0,75.83,31.88,195,0.0,C,Snorlax 39.298% ['normal'],"Indeedee-F 37.057% ['psychic', 'normal']","Butterfree 33.621% ['bug', 'flying']"
+173,737,Charjabug,"['bug', 'electric']",57.0,82.0,95.0,55.0,75.0,36.0,66.67,19.48,197,0.0,C+,"Togekiss 76.368% ['fairy', 'flying']",Arcanine 65.426% ['fire'],"Rhyperior 65.354% ['ground', 'rock']"
+174,556,Maractus,['grass'],75.0,86.0,67.0,106.0,67.0,60.0,76.83,15.36,198,0.0,C,Torkoal 61.740% ['fire'],"Togekiss 22.807% ['fairy', 'flying']","Dragapult 18.752% ['dragon', 'ghost']"
+175,292,Shedinja,"['bug', 'ghost']",1.0,90.0,45.0,30.0,30.0,40.0,39.33,26.59,200,0.0,D+,"Togekiss 27.743% ['fairy', 'flying']","Excadrill 21.239% ['ground', 'steel']","Gastrodon 17.781% ['water', 'ground']"
+176,107,Hitmonchan,['fighting'],50.0,105.0,79.0,35.0,110.0,76.0,75.83,26.97,201,0.0,C,"Whimsicott 59.129% ['grass', 'fairy']","Gastrodon 39.913% ['water', 'ground']","Gyarados 28.067% ['water', 'flying']"
+177,528,Swoobat,"['psychic', 'flying']",67.0,57.0,55.0,77.0,55.0,114.0,70.83,20.85,202,0.0,C-,Arcanine 46.083% ['fire'],"Hatterene 41.872% ['psychic', 'fairy']",Snorlax 40.401% ['normal']
+178,044,Gloom,"['grass', 'poison']",60.0,65.0,70.0,85.0,75.0,40.0,65.83,13.97,203,0.0,C+,"Dragapult 94.146% ['dragon', 'ghost']","Togekiss 94.146% ['fairy', 'flying']","Duraludon 94.145% ['steel', 'dragon']"
+179,340,Whiscash,"['water', 'ground']",110.0,78.0,73.0,76.0,71.0,60.0,78.0,15.42,204,0.0,C,"Togekiss 84.962% ['fairy', 'flying']","Dragapult 81.917% ['dragon', 'ghost']","Whimsicott 75.497% ['grass', 'fairy']"
+180,215,Sneasel,"['dark', 'ice']",55.0,95.0,55.0,35.0,75.0,115.0,71.67,26.87,205,0.0,D+,"Coalossal 61.287% ['rock', 'fire']",Arcanine 50.120% ['fire'],"Gastrodon 43.164% ['water', 'ground']"
+181,136,Flareon,['fire'],65.0,130.0,60.0,95.0,110.0,65.0,87.5,26.26,206,0.0,D+,Sylveon 33.475% ['fairy'],Espeon 32.412% ['psychic'],Leafeon 25.157% ['grass']
+182,623,Golurk,"['ground', 'ghost']",89.0,124.0,80.0,55.0,80.0,55.0,80.5,23.33,207,0.0,D+,Torkoal 39.928% ['fire'],"Jellicent 29.899% ['water', 'ghost']","Pelipper 27.907% ['water', 'flying']"
+183,678,Meowstic,['psychic'],74.0,48.0,76.0,83.0,81.0,104.0,77.67,16.48,209,0.0,D+,"Whimsicott 57.042% ['grass', 'fairy']","Rotom-Heat 37.418% ['electric', 'fire']","Lapras 37.154% ['water', 'ice']"
+184,171,Lanturn,"['water', 'electric']",125.0,58.0,58.0,76.0,76.0,67.0,76.67,22.83,210,0.0,C-,"Excadrill 31.745% ['ground', 'steel']","Toxtricity 23.958% ['electric', 'poison']","Whimsicott 20.931% ['grass', 'fairy']"
+185,685,Slurpuff,['fairy'],82.0,80.0,86.0,85.0,75.0,72.0,80.0,5.07,211,0.0,D+,"Duraludon 51.458% ['steel', 'dragon']",Hitmontop 49.334% ['fighting'],"Chandelure 31.756% ['ghost', 'fire']"
+186,439,Mime Jr.,"['psychic', 'fairy']",20.0,25.0,45.0,70.0,90.0,60.0,51.67,24.61,212,0.0,C+,"Dragapult 76.466% ['dragon', 'ghost']","Mr. Mime-Galar 76.434% ['ice', 'psychic']",Torkoal 76.434% ['fire']
+187,755,Morelull,"['grass', 'fairy']",40.0,35.0,55.0,65.0,75.0,15.0,47.5,19.95,214,0.0,C-,Mudsdale 66.228% ['ground'],"Jellicent 59.186% ['water', 'ghost']",Conkeldurr 55.381% ['fighting']
+188,558,Crustle,"['bug', 'rock']",70.0,10512.0,125.0,65.0,75.0,45.0,80.83,26.52,215,0.0,C-,Hitmontop 72.267% ['fighting'],"Togekiss 63.908% ['fairy', 'flying']",Polteageist 62.443% ['ghost']
+189,303,Mawile,"['steel', 'fairy']",50.0,85.0,85.0,55.0,55.0,50.0,63.33,15.46,216,0.0,D+,Arcanine 33.759% ['fire'],Dusclops 27.921% ['ghost'],"Whimsicott 23.922% ['grass', 'fairy']"
+190,771,Pyukumuku,['water'],55.0,60.0,130.0,30.0,130.0,5.0,68.33,47.14,217,0.0,C,"Rhyperior 35.587% ['ground', 'rock']","Gastrodon 33.236% ['water', 'ground']","Hatterene 32.771% ['psychic', 'fairy']"
+191,521,Unfezant,"['normal', 'flying']",80.0,11529.0,80.0,65.0,55.0,93.0,81.33,19.29,219,0.0,C,"Duraludon 47.588% ['steel', 'dragon']","Togekiss 36.563% ['fairy', 'flying']",Hitmontop 34.029% ['fighting']
+192,338,Solrock,"['rock', 'psychic']",9026.0,95.0,85.0,55.0,65.0,70.0,76.67,14.34,220,0.0,C,Torkoal 75.838% ['fire'],"Obstagoon 68.307% ['dark', 'normal']","Dracozolt 68.292% ['electric', 'dragon']"
+193,546,Cottonee,"['grass', 'fairy']",40.0,27.0,60.0,37.0,50.0,66.0,46.67,13.46,221,0.0,C,"Excadrill 68.691% ['ground', 'steel']",Vanilluxe 51.546% ['ice'],"Togekiss 51.127% ['fairy', 'flying']"
+194,538,Throh,['fighting'],120.0,100.0,85.0,30.0,85.0,45.0,77.5,30.92,222,0.0,C+,"Gyarados 59.921% ['water', 'flying']",Arcanine 59.832% ['fire'],"Whimsicott 59.695% ['grass', 'fairy']"
+195,422,Shellos,['water'],76.0,48.0,48.0,57.0,62.0,34.0,54.17,13.09,223,0.0,C-,"Indeedee-F 95.882% ['psychic', 'normal']","Rhyperior 95.882% ['ground', 'rock']","Hatterene 86.486% ['psychic', 'fairy']"
+196,202,Wobbuffet,['psychic'],190.0,33.0,58.0,33.0,58.0,33.0,67.5,55.91,224,0.0,D+,"Lapras 66.298% ['water', 'ice']",Gothitelle 51.576% ['psychic'],"Gengar 44.001% ['ghost', 'poison']"
