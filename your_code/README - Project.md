@@ -18,123 +18,76 @@ KRISTINA KUNCEVICIUTE
 
 ## Project Description
 
-The goal of this project is to combine data wrangling, cleaning, and manipulation with Pandas. Start with import the dataset, use the data wrangling skills to clean it up, prepare it to be analyzed, and then export it as a clean CSV data file.
+The goal of this project is to practice APIs and Web Scraping. Optain data from API and a web page. For the API portion of the project make calls to API, successfully obtain a response, request data, convert it into a Pandas data frame, and export it as a CSV file. For the web scraping portion, scrape the HTML from a page, parse the HTML to extract the necessary information, and either save the results to a text (txt) file if it is text or into a CSV file if it is tabular data.
+
+- Collect the information about the movies that have 'love' in the title for the Valentine's day campaign (Title, Director, Rating, Release Year, Link to Trailers and Videos, download Posters)
+- Check if the information from the API is coinciding with the information in IMDB
+- Check the correlation between the days to Valentines day and rating
 
 <a name="dataset"></a>
 
-## Dataset
+## Data
 
-Dataset [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1).
+API: OMDB http://www.omdbapi.com/#usage
+Web Sraping: IMDB https://www.imdb.com/
 
 <a name="workflow"></a>
 
 ## Workflow
 
-- Examine the data and try to understand what the fields mean
-- Import the dataset (importing Date, Type, Country, Activity columns as string, to be able to use regex on them later)
+- Use OMDB API: http://www.omdbapi.com/#usage
+- Do the API request with the search, movies with word 'love', extract information from 4 pages
+- Generate the list of titles of the movies
+- Do another API request title by title to get all information about the movies
+- Put info from both requests to one dataframe
+- Scrape IMDB based on IMDB ID to get the main information
+- Check if data is matching in the dataframes from API and IMDB in these columns: Title, Year, Director, IMDB Rating
+- Prepare one dataframe with information from API and IMDB and export
+- Analyze if there is any correlation between the Release Day days to Valentine's day and the rating value
 
-1. Doing the FIRST CLEANING: Cleaning column names and removing first duplicates
+More in detail:
 
-    - clean the spaces from column names
-    - change values that are strings to uppercase in all dataframe and also strip the empty spaces
-    - check for duplicates in all dataframe
-    - check and clean duplicates based on Case Number column
-    - choosing only one column for Case Numbers and renaming the column
-    
-2. Cleaning MISSING DATA: Cleaning column by column, checking incorrectly submitted data, deleting NaN
-    - check in which columns and how many rows of Null have
-    - delete columns with more than 5000 rows empty, almost all the rows are empty, useless info
+2  API
+2.1  Preparing movie title list
+2.2  Extracting full info about each movie from the generated list
+2.3  Cleaning Dataset
+2.4  Saving results to CSV
+2.5  Saving poster images
+3  WEB SCRAPING
+3.1  Preparing the list of IMDB IDs
+3.2  Extracting Director, Title, Rating, Year, Videos Link from IMDB
+3.3  Saving result to CSV
+4  DATA CHECK
+4.1  Check why in two columns have different year (data from API)
+4.2  API data vs web scraping IMDB
+4.3  Creating one dataframe with the most important info from API and IMDB, saving to CSV
+5  CORRELATION BETWEEN RATING AND VALENTINE'S DAY
+5.1  Getting the number of days to Valentine's day per movie
+5.2  Binning the data based on the days to Valentine's day
+5.3  Checking the correlation between the rating and the days to Valentine's day
+5.4  Checking the % of the movies that have been release very close - close to Valentine's day
+6  Results
 
-    2.1 Cleaning more complicated cases of invalid data column by column
-        - checking unique values per column and preparing the list of changes
-        - Applying changes per column (listed in the fixable list):
-            
-    'Date' Invalid data:
-    
-    - Extract only the year, create new column, later merge this column with the column year
-    - The rest with regex extract what needed (dd-mmm-yy and dd-mmm-yyyy, unify to dd-mmm-yyyy) and create a new column
-    - Check how many NaN have this new column
-    - When done, deleting the old column
-    
-    'Year' Invalid data:
 
-    - Extract with column rules only the year >1500, create new column
-    - Delete old column
-    - Check how many NaN this new column has
-    - Merge Year with Year that was extracted from Date
-    
-    'Type' Invalid data:
+Libraries used:
 
-    - All that is not Unprovoked or Provoked change to NOT SPECIFIED
-    
-    'Name' Invalid data:
-
-    - Extract using regex all variations of male, female, boy, girl, woman, man and create new column
-    - With this info recover some Nulls from Sex column
-    - Clean gender values from Name column
-    
-    'Sex' Invalid data:
-
-    - Change what is not M or F to NOT SPECIFIED
-    - Replace NOT SPECIFIED with possible values from columns that got from Name
-    - Delete additional columns: male from names and female from names
-    
-    'Age' Invalid data:
-
-    - Extract only one integer values, craete new column
-    - Check how many Nulls have in this new column
-    - Delete old column
-    
-    'Injury' Invalid data:
-
-    - Extract all variations of FATAL and create new column, update column Fatal with it
-    - Extract all variations of SURVIVED and NO INJURY, MINOR INJURY and create new column, update column Fatal with it
-
-    'Fatal' Invalid data:
-
-    - Rename the column to Fatal
-    - All that is not N or F, change to NOT SPECIFIED
-    - Update some not specified values from the info from Injury
-    
-    'Time' Invalid data:
-
-    - Extract only the format ddHdd, create new column
-    - Check how many Nulls are in this new column
-    - Delete old column
-    
-    'Country' Invalid data:
-
-    - At this point only filtered some similar names in the column Country to later unify them
-    
-    2.2 Changing all Null values to NOT SPECIFIED
-    
-3. FINAL EDITS and export
-
-    - Changing column order
-    - Exporting clean dataframe
-    
-4. AGGREGATING DATA
-
-    - YEAR - checking the years when had the most injuries
-    - YEAR - showing histogram to see when had the most injuries
-    - MONTH - calculating injuries per month
-    - MONTH - checking the average number of injuries per month
-
-Libraries used: Pandas and matplotlib.pyplot
+pandas
+json
+requests
+bs4
+urllib.request
+re
+numpy
+time
 
 <a name="results"></a>
 
 ## Results
 
-1. Found and cleaned 32 duplicates
-2. Deleted 2 columns with more than 5000 rows empty, almost all the rows are empty, useless info
-3. Recovered 792 values in Date column
-4. Invalid entried in Year changed to correct ones from the column Date, have 100% of years correct
-5. In the column Name found extra 1234 incorrect values, changed to NOT SPECIFIED, later used them to recover values in Sex column
-6. Recovered 52 values in column 'Sex' from column 'Name'
-7. After cleaning 'Age' column discovered that have only 3151 clean ages, which is 53.0% of all data, it is only representing the half of all the cases
-8. Recovered 4 values in column 'Fatal' from column 'Injury'
-9. Cleaned Type column to change incorrect data to NOT SPECIFIED
-10. Extracted Month from the Date column
-11. From the created histogram discovered that the most of the injuries happened in 2015 and 2011
-12. Found out that the average number of injuries per month (taking all years together) is 332
+- Collected all the information that was necessary for the campaign, extracted video links from IMDB and downloaded movie posters to a separate folder
+- It's possible to select (if needed) which title want, original or English
+- It's possible to decide how many movies want to check (by changing the number of pages in the API request)
+- Understood the difference in the release year that was given by API
+- From checking average rating per bin understood that the average rating is not higher if the release date is closer to the Valentine's day
+- Correlation between the ratings and the Valentine's day is very low. As a next step, could check only the movies release in the last few years, maybe there is a different trend latelly. Also, to really see the correlation, would need to ahve a bigger database (have information of more than 40 movies)
+- Understood that 47.5% of love movies (from this dataset) have been released very close or close to Valentine's day
