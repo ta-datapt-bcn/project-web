@@ -1,0 +1,370 @@
+	Player	Opponent	Total GW	Total GL	Win Rate
+0	 Azorius Control	 Azorius Control	28	32	0.4666666666666667
+1	 Azorius Control	 Azorius Spirits	25	23	0.5208333333333334
+2	 Azorius Control	 Bant Spirits	8	7	0.5333333333333333
+3	 Azorius Control	 Big Red	11	8	0.5789473684210527
+4	 Azorius Control	 Boros Feather	1	4	0.2
+5	 Azorius Control	 Dimir Inverter	50	36	0.5813953488372093
+6	 Azorius Control	 Golgari Stompy	5	6	0.45454545454545453
+7	 Azorius Control	 Izzet Emerge	6	0	1.0
+8	 Azorius Control	 Izzet Ensoul	15	14	0.5172413793103449
+9	 Azorius Control	 Izzet Phoenix	6	7	0.46153846153846156
+10	 Azorius Control	 Jeskai Fires	4	1	0.8
+11	 Azorius Control	 Lotus Breach	8	7	0.5333333333333333
+12	 Azorius Control	 Lotus Storm	3	2	0.6
+13	 Azorius Control	 Mono-Black Aggro	50	66	0.43103448275862066
+14	 Azorius Control	 Mono-Black Vampires	7	3	0.7
+15	 Azorius Control	 Mono-Blue Devotion	4	1	0.8
+16	 Azorius Control	 Mono-Green Ramp	12	8	0.6
+17	 Azorius Control	 Mono-Red Aggro	8	21	0.27586206896551724
+18	 Azorius Control	 Mono-White Devotion	18	19	0.4864864864864865
+19	 Azorius Control	 Mono-White Lifegain	2	4	0.3333333333333333
+20	 Azorius Control	 Niv to Light	40	34	0.5405405405405406
+21	 Azorius Control	 Orzhov Vampires	3	3	0.5
+22	 Azorius Control	 Rakdos Midrange	4	3	0.5714285714285714
+23	 Azorius Control	 Simic Delirium	5	6	0.45454545454545453
+24	 Azorius Control	 Simic Ramp	9	15	0.375
+25	 Azorius Control	 Soulflayer	9	3	0.75
+26	 Azorius Control	 Sultai Delirium	11	7	0.6111111111111112
+27	 Azorius Control	 Temur Delirium	3	3	0.5
+28	 Azorius Spirits	 Azorius Control	25	23	0.5208333333333334
+29	 Azorius Spirits	 Azorius Spirits	8	8	0.5
+30	 Azorius Spirits	 Bant Spirits	7	8	0.4666666666666667
+31	 Azorius Spirits	 Big Red	7	7	0.5
+32	 Azorius Spirits	 Dimir Inverter	25	30	0.45454545454545453
+33	 Azorius Spirits	 Izzet Ensoul	15	9	0.625
+34	 Azorius Spirits	 Lotus Breach	11	7	0.6111111111111112
+35	 Azorius Spirits	 Mono-Black Aggro	25	32	0.43859649122807015
+36	 Azorius Spirits	 Mono-Black Vampires	6	5	0.5454545454545454
+37	 Azorius Spirits	 Mono-Green Ramp	11	11	0.5
+38	 Azorius Spirits	 Mono-Red Aggro	7	7	0.5
+39	 Azorius Spirits	 Mono-White Devotion	16	18	0.47058823529411764
+40	 Azorius Spirits	 Niv to Light	13	12	0.52
+41	 Azorius Spirits	 Simic Delirium	7	4	0.6363636363636364
+42	 Azorius Spirits	 Simic Ramp	8	12	0.4
+43	 Azorius Spirits	 Soulflayer	1	4	0.2
+44	 Azorius Spirits	 Sultai Delirium	3	4	0.42857142857142855
+45	 Bant Midrange	 Mono-Black Aggro	3	2	0.6
+46	 Bant Spirits	 Azorius Control	8	7	0.5333333333333333
+47	 Bant Spirits	 Azorius Spirits	7	8	0.4666666666666667
+48	 Bant Spirits	 Bant Spirits	12	2	0.8571428571428571
+49	 Bant Spirits	 Dimir Inverter	13	7	0.65
+50	 Bant Spirits	 Heliod Company	4	1	0.8
+51	 Bant Spirits	 Izzet Ensoul	5	9	0.35714285714285715
+52	 Bant Spirits	 Mono-Black Aggro	11	12	0.4782608695652174
+53	 Bant Spirits	 Mono-Red Aggro	3	10	0.23076923076923078
+54	 Bant Spirits	 Niv to Light	14	13	0.5185185185185185
+55	 Bant Spirits	 Simic Delirium	5	3	0.625
+56	 Big Red	 Azorius Control	11	8	0.5789473684210527
+57	 Big Red	 Azorius Spirits	7	7	0.5
+58	 Big Red	 Big Red	6	4	0.6
+59	 Big Red	 Dimir Inverter	16	18	0.47058823529411764
+60	 Big Red	 Heliod Company	3	5	0.375
+61	 Big Red	 Kethis Combo	2	6	0.25
+62	 Big Red	 Mono-Black Aggro	16	15	0.5161290322580645
+63	 Big Red	 Mono-Green Stompy	3	4	0.42857142857142855
+64	 Big Red	 Mono-Red Aggro	3	6	0.3333333333333333
+65	 Big Red	 Mono-White Devotion	6	3	0.6666666666666666
+66	 Big Red	 Niv to Light	8	14	0.36363636363636365
+67	 Big Red	 Simic Ramp	6	8	0.42857142857142855
+68	 Boros Aggro	 Mono-Black Aggro	6	3	0.6666666666666666
+69	 Boros Feather	 Azorius Control	1	4	0.2
+70	 Dimir Control	 Dimir Inverter	12	12	0.5
+71	 Dimir Control	 Izzet Ensoul	5	4	0.5555555555555556
+72	 Dimir Control	 Mono-Black Aggro	6	8	0.42857142857142855
+73	 Dimir Control	 Niv to Light	0	3	0.0
+74	 Dimir Inverter	 Azorius Control	50	36	0.5813953488372093
+75	 Dimir Inverter	 Azorius Spirits	25	30	0.45454545454545453
+76	 Dimir Inverter	 Bant Spirits	13	7	0.65
+77	 Dimir Inverter	 Big Red	16	18	0.47058823529411764
+78	 Dimir Inverter	 Dimir Control	12	12	0.5
+79	 Dimir Inverter	 Dimir Inverter	72	74	0.4931506849315068
+80	 Dimir Inverter	 Dredgeless Dredge	4	0	1.0
+81	 Dimir Inverter	 Golgari Stompy	10	1	0.9090909090909091
+82	 Dimir Inverter	 Hardened Scales	3	6	0.3333333333333333
+83	 Dimir Inverter	 Heliod Company	6	4	0.6
+84	 Dimir Inverter	 Izzet Ensoul	32	33	0.49230769230769234
+85	 Dimir Inverter	 Izzet Phoenix	8	2	0.8
+86	 Dimir Inverter	 Jeskai Fires	5	3	0.625
+87	 Dimir Inverter	 Kethis Combo	6	6	0.5
+88	 Dimir Inverter	 Lotus Breach	19	20	0.48717948717948717
+89	 Dimir Inverter	 Mono-Black Aggro	77	102	0.4301675977653631
+90	 Dimir Inverter	 Mono-Black Vampires	6	9	0.4
+91	 Dimir Inverter	 Mono-Blue Devotion	2	2	0.5
+92	 Dimir Inverter	 Mono-Green Ramp	13	17	0.43333333333333335
+93	 Dimir Inverter	 Mono-Green Stompy	6	4	0.6
+94	 Dimir Inverter	 Mono-Red Aggro	31	24	0.5636363636363636
+95	 Dimir Inverter	 Mono-White Devotion	24	21	0.5333333333333333
+96	 Dimir Inverter	 Niv to Light	34	37	0.4788732394366197
+97	 Dimir Inverter	 Orzhov Eldrazi	11	4	0.7333333333333333
+98	 Dimir Inverter	 Rakdos Sacrifice	6	2	0.75
+99	 Dimir Inverter	 Simic Delirium	12	13	0.48
+100	 Dimir Inverter	 Simic Ramp	19	13	0.59375
+101	 Dimir Inverter	 Soulflayer	3	8	0.2727272727272727
+102	 Dimir Inverter	 Sultai Delirium	11	10	0.5238095238095238
+103	 Dredgeless Dredge	 Dimir Inverter	4	0	1.0
+104	 Golgari Stompy	 Azorius Control	5	6	0.45454545454545453
+105	 Golgari Stompy	 Dimir Inverter	10	1	0.9090909090909091
+106	 Golgari Stompy	 Heliod Company	4	1	0.8
+107	 Golgari Stompy	 Mono-Black Aggro	12	2	0.8571428571428571
+108	 Hardened Scales	 Dimir Inverter	3	6	0.3333333333333333
+109	 Hardened Scales	 Mono-Black Aggro	2	4	0.3333333333333333
+110	 Heliod Company	 Bant Spirits	4	1	0.8
+111	 Heliod Company	 Big Red	3	5	0.375
+112	 Heliod Company	 Dimir Inverter	6	4	0.6
+113	 Heliod Company	 Golgari Stompy	4	1	0.8
+114	 Heliod Company	 Mono-Black Aggro	6	8	0.42857142857142855
+115	 Heliod Company	 Mono-White Devotion	3	4	0.42857142857142855
+116	 Heliod Company	 Niv to Light	5	3	0.625
+117	 Heliod Company	 Simic Delirium	1	4	0.2
+118	 Heliod Company	 Soulflayer	2	2	0.5
+119	 Heliod Company	 Sultai Delirium	3	3	0.5
+120	 Heliod Scales	 Niv to Light	3	3	0.5
+121	 Izzet Emerge	 Azorius Control	6	0	1.0
+122	 Izzet Emerge	 Izzet Ensoul	5	2	0.7142857142857143
+123	 Izzet Ensoul	 Azorius Control	15	14	0.5172413793103449
+124	 Izzet Ensoul	 Azorius Spirits	15	9	0.625
+125	 Izzet Ensoul	 Bant Spirits	5	9	0.35714285714285715
+126	 Izzet Ensoul	 Dimir Control	5	4	0.5555555555555556
+127	 Izzet Ensoul	 Dimir Inverter	32	33	0.49230769230769234
+128	 Izzet Ensoul	 Izzet Emerge	5	2	0.7142857142857143
+129	 Izzet Ensoul	 Izzet Ensoul	16	22	0.42105263157894735
+130	 Izzet Ensoul	 Jeskai Ascendancy	4	5	0.4444444444444444
+131	 Izzet Ensoul	 Kethis Combo	2	3	0.4
+132	 Izzet Ensoul	 Lotus Breach	6	8	0.42857142857142855
+133	 Izzet Ensoul	 Mono-Black Aggro	40	42	0.4878048780487805
+134	 Izzet Ensoul	 Mono-Black Vampires	4	2	0.6666666666666666
+135	 Izzet Ensoul	 Mono-Blue Devotion	4	2	0.6666666666666666
+136	 Izzet Ensoul	 Mono-Green Ramp	6	2	0.75
+137	 Izzet Ensoul	 Mono-Red Aggro	11	10	0.5238095238095238
+138	 Izzet Ensoul	 Mono-White Devotion	17	22	0.4358974358974359
+139	 Izzet Ensoul	 Niv to Light	26	17	0.6046511627906976
+140	 Izzet Ensoul	 Simic Delirium	3	5	0.375
+141	 Izzet Ensoul	 Simic Ramp	5	8	0.38461538461538464
+142	 Izzet Ensoul	 Sultai Delirium	8	12	0.4
+143	 Izzet Phoenix	 Azorius Control	6	7	0.46153846153846156
+144	 Izzet Phoenix	 Dimir Inverter	8	2	0.8
+145	 Izzet Phoenix	 Mono-Black Aggro	6	4	0.6
+146	 Izzet Phoenix	 Mono-Green Ramp	2	2	0.5
+147	 Izzet Phoenix	 Mono-Red Aggro	4	1	0.8
+148	 Izzet Phoenix	 Niv to Light	18	12	0.6
+149	 Izzet Phoenix	 Simic Ramp	4	7	0.36363636363636365
+150	 Jeskai Ascendancy	 Izzet Ensoul	4	5	0.4444444444444444
+151	 Jeskai Ascendancy	 Mono-Black Aggro	6	7	0.46153846153846156
+152	 Jeskai Fires	 Azorius Control	4	1	0.8
+153	 Jeskai Fires	 Dimir Inverter	5	3	0.625
+154	 Jeskai Fires	 Mono-Red Aggro	2	2	0.5
+155	 Jeskai Fires	 Niv to Light	2	3	0.4
+156	 Kethis Combo	 Big Red	2	6	0.25
+157	 Kethis Combo	 Dimir Inverter	6	6	0.5
+158	 Kethis Combo	 Izzet Ensoul	2	3	0.4
+159	 Kethis Combo	 Simic Ramp	5	3	0.625
+160	 Lotus Breach	 Azorius Control	8	7	0.5333333333333333
+161	 Lotus Breach	 Azorius Spirits	11	7	0.6111111111111112
+162	 Lotus Breach	 Dimir Inverter	19	20	0.48717948717948717
+163	 Lotus Breach	 Izzet Ensoul	6	8	0.42857142857142855
+164	 Lotus Breach	 Lotus Breach	6	4	0.6
+165	 Lotus Breach	 Mono-Black Aggro	12	17	0.41379310344827586
+166	 Lotus Breach	 Mono-Red Aggro	8	7	0.5333333333333333
+167	 Lotus Breach	 Mono-White Devotion	6	7	0.46153846153846156
+168	 Lotus Breach	 Niv to Light	8	7	0.5333333333333333
+169	 Lotus Breach	 Simic Delirium	4	6	0.4
+170	 Lotus Breach	 Simic Ramp	3	2	0.6
+171	 Lotus Breach	 Soulflayer	2	3	0.4
+172	 Lotus Breach	 Sultai Delirium	3	9	0.25
+173	 Lotus Storm	 Azorius Control	3	2	0.6
+174	 Lotus Storm	 Niv to Light	5	3	0.625
+175	 Mono-Black Aggro	 Azorius Control	50	66	0.43103448275862066
+176	 Mono-Black Aggro	 Azorius Spirits	25	32	0.43859649122807015
+177	 Mono-Black Aggro	 Bant Midrange	3	2	0.6
+178	 Mono-Black Aggro	 Bant Spirits	11	12	0.4782608695652174
+179	 Mono-Black Aggro	 Big Red	16	15	0.5161290322580645
+180	 Mono-Black Aggro	 Boros Aggro	6	3	0.6666666666666666
+181	 Mono-Black Aggro	 Dimir Control	6	8	0.42857142857142855
+182	 Mono-Black Aggro	 Dimir Inverter	77	102	0.4301675977653631
+183	 Mono-Black Aggro	 Golgari Stompy	12	2	0.8571428571428571
+184	 Mono-Black Aggro	 Hardened Scales	2	4	0.3333333333333333
+185	 Mono-Black Aggro	 Heliod Company	6	8	0.42857142857142855
+186	 Mono-Black Aggro	 Izzet Ensoul	40	42	0.4878048780487805
+187	 Mono-Black Aggro	 Izzet Phoenix	6	4	0.6
+188	 Mono-Black Aggro	 Jeskai Ascendancy	6	7	0.46153846153846156
+189	 Mono-Black Aggro	 Lotus Breach	12	17	0.41379310344827586
+190	 Mono-Black Aggro	 Mono-Black Aggro	90	90	0.5
+191	 Mono-Black Aggro	 Mono-Black Vampires	8	10	0.4444444444444444
+192	 Mono-Black Aggro	 Mono-Blue Devotion	2	5	0.2857142857142857
+193	 Mono-Black Aggro	 Mono-Green Ramp	4	9	0.3076923076923077
+194	 Mono-Black Aggro	 Mono-Green Stompy	6	1	0.8571428571428571
+195	 Mono-Black Aggro	 Mono-Red Aggro	24	19	0.5581395348837209
+196	 Mono-Black Aggro	 Mono-White Devotion	28	34	0.45161290322580644
+197	 Mono-Black Aggro	 Mono-White Lifegain	5	6	0.45454545454545453
+198	 Mono-Black Aggro	 Niv to Light	63	58	0.5206611570247934
+199	 Mono-Black Aggro	 Orzhov Vampires	2	4	0.3333333333333333
+200	 Mono-Black Aggro	 Possibility Storm	3	2	0.6
+201	 Mono-Black Aggro	 Rakdos Dragons	3	3	0.5
+202	 Mono-Black Aggro	 Simic Delirium	23	18	0.5609756097560976
+203	 Mono-Black Aggro	 Simic Ramp	21	18	0.5384615384615384
+204	 Mono-Black Aggro	 Soulflayer	3	11	0.21428571428571427
+205	 Mono-Black Aggro	 Sultai Delirium	19	16	0.5428571428571428
+206	 Mono-Black Aggro	 Temur Delirium	4	1	0.8
+207	 Mono-Black Vampires	 Azorius Control	7	3	0.7
+208	 Mono-Black Vampires	 Azorius Spirits	6	5	0.5454545454545454
+209	 Mono-Black Vampires	 Dimir Inverter	6	9	0.4
+210	 Mono-Black Vampires	 Izzet Ensoul	4	2	0.6666666666666666
+211	 Mono-Black Vampires	 Mono-Black Aggro	8	10	0.4444444444444444
+212	 Mono-Black Vampires	 Mono-Green Ramp	3	1	0.75
+213	 Mono-Black Vampires	 Mono-Red Aggro	4	5	0.4444444444444444
+214	 Mono-Blue Devotion	 Azorius Control	4	1	0.8
+215	 Mono-Blue Devotion	 Dimir Inverter	2	2	0.5
+216	 Mono-Blue Devotion	 Izzet Ensoul	4	2	0.6666666666666666
+217	 Mono-Blue Devotion	 Mono-Black Aggro	2	5	0.2857142857142857
+218	 Mono-Blue Devotion	 Niv to Light	0	4	0.0
+219	 Mono-Green Ramp	 Azorius Control	12	8	0.6
+220	 Mono-Green Ramp	 Azorius Spirits	11	11	0.5
+221	 Mono-Green Ramp	 Dimir Inverter	13	17	0.43333333333333335
+222	 Mono-Green Ramp	 Izzet Ensoul	6	2	0.75
+223	 Mono-Green Ramp	 Izzet Phoenix	2	2	0.5
+224	 Mono-Green Ramp	 Mono-Black Aggro	4	9	0.3076923076923077
+225	 Mono-Green Ramp	 Mono-Black Vampires	3	1	0.75
+226	 Mono-Green Ramp	 Mono-Red Aggro	1	8	0.1111111111111111
+227	 Mono-Green Ramp	 Mono-White Devotion	0	10	0.0
+228	 Mono-Green Ramp	 Mono-White Lifegain	1	4	0.2
+229	 Mono-Green Ramp	 Niv to Light	7	12	0.3684210526315789
+230	 Mono-Green Ramp	 Simic Delirium	0	4	0.0
+231	 Mono-Green Ramp	 Simic Ramp	7	6	0.5384615384615384
+232	 Mono-Green Ramp	 Sultai Delirium	2	3	0.4
+233	 Mono-Green Ramp	 Sultai Inverter	3	3	0.5
+234	 Mono-Green Stompy	 Big Red	3	4	0.42857142857142855
+235	 Mono-Green Stompy	 Dimir Inverter	6	4	0.6
+236	 Mono-Green Stompy	 Mono-Black Aggro	6	1	0.8571428571428571
+237	 Mono-Green Stompy	 Niv to Light	0	4	0.0
+238	 Mono-Green Stompy	 Simic Ramp	4	5	0.4444444444444444
+239	 Mono-Red Aggro	 Azorius Control	8	21	0.27586206896551724
+240	 Mono-Red Aggro	 Azorius Spirits	7	7	0.5
+241	 Mono-Red Aggro	 Bant Spirits	3	10	0.23076923076923078
+242	 Mono-Red Aggro	 Big Red	3	6	0.3333333333333333
+243	 Mono-Red Aggro	 Dimir Inverter	31	24	0.5636363636363636
+244	 Mono-Red Aggro	 Izzet Ensoul	11	10	0.5238095238095238
+245	 Mono-Red Aggro	 Izzet Phoenix	4	1	0.8
+246	 Mono-Red Aggro	 Jeskai Fires	2	2	0.5
+247	 Mono-Red Aggro	 Lotus Breach	8	7	0.5333333333333333
+248	 Mono-Red Aggro	 Mono-Black Aggro	24	19	0.5581395348837209
+249	 Mono-Red Aggro	 Mono-Black Vampires	4	5	0.4444444444444444
+250	 Mono-Red Aggro	 Mono-Green Ramp	1	8	0.1111111111111111
+251	 Mono-Red Aggro	 Mono-Red Aggro	4	2	0.6666666666666666
+252	 Mono-Red Aggro	 Mono-White Devotion	9	7	0.5625
+253	 Mono-Red Aggro	 Niv to Light	9	8	0.5294117647058824
+254	 Mono-Red Aggro	 Simic Delirium	2	2	0.5
+255	 Mono-Red Aggro	 Simic Ramp	6	9	0.4
+256	 Mono-Red Aggro	 Soulflayer	5	6	0.45454545454545453
+257	 Mono-White Devotion	 Azorius Control	18	19	0.4864864864864865
+258	 Mono-White Devotion	 Azorius Spirits	16	18	0.47058823529411764
+259	 Mono-White Devotion	 Big Red	6	3	0.6666666666666666
+260	 Mono-White Devotion	 Dimir Inverter	24	21	0.5333333333333333
+261	 Mono-White Devotion	 Heliod Company	3	4	0.42857142857142855
+262	 Mono-White Devotion	 Izzet Ensoul	17	22	0.4358974358974359
+263	 Mono-White Devotion	 Lotus Breach	6	7	0.46153846153846156
+264	 Mono-White Devotion	 Mono-Black Aggro	28	34	0.45161290322580644
+265	 Mono-White Devotion	 Mono-Green Ramp	0	10	0.0
+266	 Mono-White Devotion	 Mono-Red Aggro	9	7	0.5625
+267	 Mono-White Devotion	 Mono-White Devotion	6	22	0.21428571428571427
+268	 Mono-White Devotion	 Niv to Light	22	19	0.5365853658536586
+269	 Mono-White Devotion	 Simic Delirium	3	5	0.375
+270	 Mono-White Devotion	 Simic Ramp	7	7	0.5
+271	 Mono-White Devotion	 Sultai Delirium	3	5	0.375
+272	 Mono-White Lifegain	 Azorius Control	2	4	0.3333333333333333
+273	 Mono-White Lifegain	 Mono-Black Aggro	5	6	0.45454545454545453
+274	 Mono-White Lifegain	 Mono-Green Ramp	1	4	0.2
+275	 Mono-White Lifegain	 Niv to Light	0	6	0.0
+276	 Niv to Light	 Azorius Control	40	34	0.5405405405405406
+277	 Niv to Light	 Azorius Spirits	13	12	0.52
+278	 Niv to Light	 Bant Spirits	14	13	0.5185185185185185
+279	 Niv to Light	 Big Red	8	14	0.36363636363636365
+280	 Niv to Light	 Dimir Control	0	3	0.0
+281	 Niv to Light	 Dimir Inverter	34	37	0.4788732394366197
+282	 Niv to Light	 Heliod Company	5	3	0.625
+283	 Niv to Light	 Heliod Scales	3	3	0.5
+284	 Niv to Light	 Izzet Ensoul	26	17	0.6046511627906976
+285	 Niv to Light	 Izzet Phoenix	18	12	0.6
+286	 Niv to Light	 Jeskai Fires	2	3	0.4
+287	 Niv to Light	 Lotus Breach	8	7	0.5333333333333333
+288	 Niv to Light	 Lotus Storm	5	3	0.625
+289	 Niv to Light	 Mono-Black Aggro	63	58	0.5206611570247934
+290	 Niv to Light	 Mono-Blue Devotion	0	4	0.0
+291	 Niv to Light	 Mono-Green Ramp	7	12	0.3684210526315789
+292	 Niv to Light	 Mono-Green Stompy	0	4	0.0
+293	 Niv to Light	 Mono-Red Aggro	9	8	0.5294117647058824
+294	 Niv to Light	 Mono-White Devotion	22	19	0.5365853658536586
+295	 Niv to Light	 Mono-White Lifegain	0	6	0.0
+296	 Niv to Light	 Niv to Light	22	60	0.2682926829268293
+297	 Niv to Light	 Orzhov Eldrazi	4	0	1.0
+298	 Niv to Light	 Rakdos Dragons	4	3	0.5714285714285714
+299	 Niv to Light	 Simic Delirium	4	6	0.4
+300	 Niv to Light	 Simic Ramp	7	11	0.3888888888888889
+301	 Niv to Light	 Soulflayer	9	6	0.6
+302	 Niv to Light	 Sultai Delirium	7	12	0.3684210526315789
+303	 Orzhov Eldrazi	 Dimir Inverter	11	4	0.7333333333333333
+304	 Orzhov Eldrazi	 Niv to Light	4	0	1.0
+305	 Orzhov Vampires	 Azorius Control	3	3	0.5
+306	 Orzhov Vampires	 Mono-Black Aggro	2	4	0.3333333333333333
+307	 Orzhov Vampires	 Sultai Delirium	3	3	0.5
+308	 Possibility Storm	 Mono-Black Aggro	3	2	0.6
+309	 Rakdos Dragons	 Mono-Black Aggro	3	3	0.5
+310	 Rakdos Dragons	 Niv to Light	4	3	0.5714285714285714
+311	 Rakdos Midrange	 Azorius Control	4	3	0.5714285714285714
+312	 Rakdos Sacrifice	 Dimir Inverter	6	2	0.75
+313	 Simic Delirium	 Azorius Control	5	6	0.45454545454545453
+314	 Simic Delirium	 Azorius Spirits	7	4	0.6363636363636364
+315	 Simic Delirium	 Bant Spirits	5	3	0.625
+316	 Simic Delirium	 Dimir Inverter	12	13	0.48
+317	 Simic Delirium	 Heliod Company	1	4	0.2
+318	 Simic Delirium	 Izzet Ensoul	3	5	0.375
+319	 Simic Delirium	 Lotus Breach	4	6	0.4
+320	 Simic Delirium	 Mono-Black Aggro	23	18	0.5609756097560976
+321	 Simic Delirium	 Mono-Green Ramp	0	4	0.0
+322	 Simic Delirium	 Mono-Red Aggro	2	2	0.5
+323	 Simic Delirium	 Mono-White Devotion	3	5	0.375
+324	 Simic Delirium	 Niv to Light	4	6	0.4
+325	 Simic Delirium	 Simic Delirium	4	6	0.4
+326	 Simic Delirium	 Simic Ramp	3	5	0.375
+327	 Simic Ramp	 Azorius Control	9	15	0.375
+328	 Simic Ramp	 Azorius Spirits	8	12	0.4
+329	 Simic Ramp	 Big Red	6	8	0.42857142857142855
+330	 Simic Ramp	 Dimir Inverter	19	13	0.59375
+331	 Simic Ramp	 Izzet Ensoul	5	8	0.38461538461538464
+332	 Simic Ramp	 Izzet Phoenix	4	7	0.36363636363636365
+333	 Simic Ramp	 Kethis Combo	5	3	0.625
+334	 Simic Ramp	 Lotus Breach	3	2	0.6
+335	 Simic Ramp	 Mono-Black Aggro	21	18	0.5384615384615384
+336	 Simic Ramp	 Mono-Green Ramp	7	6	0.5384615384615384
+337	 Simic Ramp	 Mono-Green Stompy	4	5	0.4444444444444444
+338	 Simic Ramp	 Mono-Red Aggro	6	9	0.4
+339	 Simic Ramp	 Mono-White Devotion	7	7	0.5
+340	 Simic Ramp	 Niv to Light	7	11	0.3888888888888889
+341	 Simic Ramp	 Simic Delirium	3	5	0.375
+342	 Simic Ramp	 Simic Ramp	6	4	0.6
+343	 Simic Ramp	 Sultai Delirium	5	3	0.625
+344	 Soulflayer	 Azorius Control	9	3	0.75
+345	 Soulflayer	 Azorius Spirits	1	4	0.2
+346	 Soulflayer	 Dimir Inverter	3	8	0.2727272727272727
+347	 Soulflayer	 Heliod Company	2	2	0.5
+348	 Soulflayer	 Lotus Breach	2	3	0.4
+349	 Soulflayer	 Mono-Black Aggro	3	11	0.21428571428571427
+350	 Soulflayer	 Mono-Red Aggro	5	6	0.45454545454545453
+351	 Soulflayer	 Niv to Light	9	6	0.6
+352	 Soulflayer	 Soulflayer	2	4	0.3333333333333333
+353	 Sultai Delirium	 Azorius Control	11	7	0.6111111111111112
+354	 Sultai Delirium	 Azorius Spirits	3	4	0.42857142857142855
+355	 Sultai Delirium	 Dimir Inverter	11	10	0.5238095238095238
+356	 Sultai Delirium	 Heliod Company	3	3	0.5
+357	 Sultai Delirium	 Izzet Ensoul	8	12	0.4
+358	 Sultai Delirium	 Lotus Breach	3	9	0.25
+359	 Sultai Delirium	 Mono-Black Aggro	19	16	0.5428571428571428
+360	 Sultai Delirium	 Mono-Green Ramp	2	3	0.4
+361	 Sultai Delirium	 Mono-White Devotion	3	5	0.375
+362	 Sultai Delirium	 Niv to Light	7	12	0.3684210526315789
+363	 Sultai Delirium	 Orzhov Vampires	3	3	0.5
+364	 Sultai Delirium	 Simic Ramp	5	3	0.625
+365	 Sultai Delirium	 Sultai Delirium	0	4	0.0
+366	 Sultai Inverter	 Mono-Green Ramp	3	3	0.5
+367	 Temur Delirium	 Azorius Control	3	3	0.5
+368	 Temur Delirium	 Mono-Black Aggro	4	1	0.8

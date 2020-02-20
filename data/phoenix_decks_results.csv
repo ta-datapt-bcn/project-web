@@ -1,0 +1,114 @@
+	Player	Opponent	Total GW	Total GL	Win Rate
+0	 Big Red	 Blue Black Inverter	19	17	0.5277777777777778
+1	 Big Red	 Blue White Control	6	4	0.6
+2	 Big Red	 Blue White Spirits	8	6	0.5714285714285714
+3	 Big Red	 Gb Stompy	5	3	0.625
+4	 Big Red	 Humans	3	5	0.375
+5	 Big Red	 Izzet Ensoul	7	4	0.6363636363636364
+6	 Big Red	 Lotus Breach Combo	4	3	0.5714285714285714
+7	 Big Red	 Mono Black Aggro	4	1	0.8
+8	 Big Red	 Niv to Light	9	4	0.6923076923076923
+9	 Blue Black Inverter	 Big Red	19	17	0.5277777777777778
+10	 Blue Black Inverter	 Blue Black Inverter	64	70	0.47761194029850745
+11	 Blue Black Inverter	 Blue White Control	10	15	0.4
+12	 Blue Black Inverter	 Blue White Spirits	28	22	0.56
+13	 Blue Black Inverter	 Gb Stompy	9	11	0.45
+14	 Blue Black Inverter	 Izzet Ensoul	14	10	0.5833333333333334
+15	 Blue Black Inverter	 Lotus Breach Combo	18	19	0.4864864864864865
+16	 Blue Black Inverter	 Mono Black Aggro	3	9	0.25
+17	 Blue Black Inverter	 Mono Red Aggro	2	3	0.4
+18	 Blue Black Inverter	 Mono-Black Aggro	47	55	0.46078431372549017
+19	 Blue Black Inverter	 Mono-Black Vampires	2	3	0.4
+20	 Blue Black Inverter	 Niv to Light	24	9	0.7272727272727273
+21	 Blue Black Inverter	 Sram Auras	6	8	0.42857142857142855
+22	 Blue White Control	 Big Red	6	4	0.6
+23	 Blue White Control	 Blue Black Inverter	10	15	0.4
+24	 Blue White Control	 Blue White Control	6	8	0.42857142857142855
+25	 Blue White Control	 Dredgeless Dredge	3	3	0.5
+26	 Blue White Control	 Gb Stompy	3	2	0.6
+27	 Blue White Control	 Izzet Ensoul	5	5	0.5
+28	 Blue White Control	 Lotus Breach Combo	5	7	0.4166666666666667
+29	 Blue White Control	 Mono Red Aggro	4	5	0.4444444444444444
+30	 Blue White Control	 Mono-Black Aggro	8	8	0.5
+31	 Blue White Control	 Mono-White Devotion	5	1	0.8333333333333334
+32	 Blue White Control	 Niv to Light	12	5	0.7058823529411765
+33	 Blue White Control	 Simic Ramp	0	4	0.0
+34	 Blue White Spirits	 Big Red	8	6	0.5714285714285714
+35	 Blue White Spirits	 Blue Black Inverter	28	22	0.56
+36	 Blue White Spirits	 Blue White Spirits	2	2	0.5
+37	 Blue White Spirits	 GW Hardened Scales	2	3	0.4
+38	 Blue White Spirits	 Gb Stompy	3	5	0.375
+39	 Blue White Spirits	 Izzet Ensoul	4	5	0.4444444444444444
+40	 Blue White Spirits	 Lotus Breach Combo	7	9	0.4375
+41	 Blue White Spirits	 Mono-Black Aggro	12	27	0.3076923076923077
+42	 Dredgeless Dredge	 Blue White Control	3	3	0.5
+43	 GW Hardened Scales	 Blue White Spirits	2	3	0.4
+44	 Gb Stompy	 Big Red	5	3	0.625
+45	 Gb Stompy	 Blue Black Inverter	9	11	0.45
+46	 Gb Stompy	 Blue White Control	3	2	0.6
+47	 Gb Stompy	 Blue White Spirits	3	5	0.375
+48	 Gb Stompy	 Izzet Ensoul	7	6	0.5384615384615384
+49	 Gb Stompy	 Lotus Breach Combo	7	5	0.5833333333333334
+50	 Gb Stompy	 Mono-Black Aggro	7	8	0.4666666666666667
+51	 Gb Stompy	 Mono-White Devotion	1	4	0.2
+52	 Gb Stompy	 Niv to Light	2	2	0.5
+53	 Gruul Aggro	 Niv to Light	2	4	0.3333333333333333
+54	 Humans	 Big Red	3	5	0.375
+55	 Izzet Ensoul	 Big Red	7	4	0.6363636363636364
+56	 Izzet Ensoul	 Blue Black Inverter	14	10	0.5833333333333334
+57	 Izzet Ensoul	 Blue White Control	5	5	0.5
+58	 Izzet Ensoul	 Blue White Spirits	4	5	0.4444444444444444
+59	 Izzet Ensoul	 Gb Stompy	7	6	0.5384615384615384
+60	 Izzet Ensoul	 Izzet Ensoul	2	8	0.2
+61	 Izzet Ensoul	 Jeskai Fires	1	4	0.2
+62	 Izzet Ensoul	 Lotus Breach Combo	9	7	0.5625
+63	 Izzet Ensoul	 Mono-White Devotion	7	3	0.7
+64	 Izzet Ensoul	 Niv to Light	9	14	0.391304347826087
+65	 Jeskai Fires	 Izzet Ensoul	1	4	0.2
+66	 Lotus Breach Combo	 Big Red	4	3	0.5714285714285714
+67	 Lotus Breach Combo	 Blue Black Inverter	18	19	0.4864864864864865
+68	 Lotus Breach Combo	 Blue White Control	5	7	0.4166666666666667
+69	 Lotus Breach Combo	 Blue White Spirits	7	9	0.4375
+70	 Lotus Breach Combo	 Gb Stompy	7	5	0.5833333333333334
+71	 Lotus Breach Combo	 Izzet Ensoul	9	7	0.5625
+72	 Lotus Breach Combo	 Lotus Breach Combo	4	2	0.6666666666666666
+73	 Lotus Breach Combo	 Mono-Black Aggro	15	8	0.6521739130434783
+74	 Mono Black Aggro	 Big Red	4	1	0.8
+75	 Mono Black Aggro	 Blue Black Inverter	3	9	0.25
+76	 Mono Black Aggro	 Mono Red Aggro	5	2	0.7142857142857143
+77	 Mono Black Aggro	 Mono-Black Aggro	4	3	0.5714285714285714
+78	 Mono Black Aggro	 Niv to Light	2	4	0.3333333333333333
+79	 Mono Green Ramp	 Niv to Light	3	3	0.5
+80	 Mono Red Aggro	 Blue Black Inverter	2	3	0.4
+81	 Mono Red Aggro	 Blue White Control	4	5	0.4444444444444444
+82	 Mono Red Aggro	 Mono Black Aggro	5	2	0.7142857142857143
+83	 Mono Red Aggro	 Niv to Light	2	2	0.5
+84	 Mono-Black Aggro	 Blue Black Inverter	47	55	0.46078431372549017
+85	 Mono-Black Aggro	 Blue White Control	8	8	0.5
+86	 Mono-Black Aggro	 Blue White Spirits	12	27	0.3076923076923077
+87	 Mono-Black Aggro	 Gb Stompy	7	8	0.4666666666666667
+88	 Mono-Black Aggro	 Lotus Breach Combo	15	8	0.6521739130434783
+89	 Mono-Black Aggro	 Mono Black Aggro	4	3	0.5714285714285714
+90	 Mono-Black Aggro	 Mono-Black Aggro	16	16	0.5
+91	 Mono-Black Aggro	 Mono-Black Vampires	3	4	0.42857142857142855
+92	 Mono-Black Aggro	 Niv to Light	6	7	0.46153846153846156
+93	 Mono-Black Aggro	 Sram Auras	2	6	0.25
+94	 Mono-Black Vampires	 Blue Black Inverter	2	3	0.4
+95	 Mono-Black Vampires	 Mono-Black Aggro	3	4	0.42857142857142855
+96	 Mono-White Devotion	 Blue White Control	5	1	0.8333333333333334
+97	 Mono-White Devotion	 Gb Stompy	1	4	0.2
+98	 Mono-White Devotion	 Izzet Ensoul	7	3	0.7
+99	 Niv to Light	 Big Red	9	4	0.6923076923076923
+100	 Niv to Light	 Blue Black Inverter	24	9	0.7272727272727273
+101	 Niv to Light	 Blue White Control	12	5	0.7058823529411765
+102	 Niv to Light	 Gb Stompy	2	2	0.5
+103	 Niv to Light	 Gruul Aggro	2	4	0.3333333333333333
+104	 Niv to Light	 Izzet Ensoul	9	14	0.391304347826087
+105	 Niv to Light	 Mono Black Aggro	2	4	0.3333333333333333
+106	 Niv to Light	 Mono Green Ramp	3	3	0.5
+107	 Niv to Light	 Mono Red Aggro	2	2	0.5
+108	 Niv to Light	 Mono-Black Aggro	6	7	0.46153846153846156
+109	 Niv to Light	 Niv to Light	10	8	0.5555555555555556
+110	 Simic Ramp	 Blue White Control	0	4	0.0
+111	 Sram Auras	 Blue Black Inverter	6	8	0.42857142857142855
+112	 Sram Auras	 Mono-Black Aggro	2	6	0.25
