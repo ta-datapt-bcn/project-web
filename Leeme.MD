@@ -27,7 +27,9 @@ Issues encountered:
 
 -Main Api is made up of SubApis.
 
--Information in the SubApis is a direct refrence to the other SupApis, meaning many of the columns of the SupApis are lists of links for other supapis.
+-Information in the SubApis is a direct refrence to the other SupApis, meaning many of the columns of the SupApis are lists of links for other subapis.
+
+-Most of the SubApis JSONs had >1 pages but the JSONs didn't specify how many, so I had to do it manually
 
 -I was not able to create one dataframe with both images and clickable links because:
 
