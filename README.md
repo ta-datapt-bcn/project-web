@@ -46,11 +46,11 @@ Tambien hay diferentes tipos de juegos:
 - Crazyhouse
     - Te permite utilizar las piezas del rival que capturas. Es decir, si jugamos con blancas capturamos un peón negro del rival, de repente tendremos un peón blanco que podremos incorporar en el tablero en nuestro turno. Para ser más concreto, la pieza capturada cambia de color y pasa a estar a nuestra disposición.
 
-Obtengo el leaderboard de las partidas blitz.
+- Obtengo el leaderboard de las partidas blitz.
     - Añado el pais y la localizacion de cada jugador.
     - Añado la mejor puntuacion, el numero de victorias, derrotas y empates de cada jugador.
 
-De cada jugador obtengo todas las partidas que han disputado.
+- De cada jugador obtengo todas las partidas que han disputado.
     - Me quedo con las partidas que son blitz y cuentan para la puntuacion de rating.
     - Limpio la notacion de cada partida.
-Obtengo las diferentes aperturas que hay para despues añadirla.
+- Obtengo las diferentes aperturas que hay para despues añadirla.
