@@ -54,4 +54,4 @@ Please refer to the Jupyter Notebook, which is explained in [here](https://githu
 
 ## Results
 
-![DataFrame 1](/img/sw_clickable.jpg)
+![DataFrame 1](/img/./sw_clickable.jpg)
