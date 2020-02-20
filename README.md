@@ -1,65 +1,134 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
-
-# Guided Project: API and Web Data Scraping
-
-## Overview
-
-The goal of this project is for you to practice what you have learned in the APIs and Web Scraping chapter of this program. For this project, you will choose both an API to obtain data from and a web page to scrape. For the API portion of the project will need to make calls to your chosen API, successfully obtain a response, request data, convert it into a Pandas data frame, and export it as a CSV file. For the web scraping portion of the project, you will need to scrape the HTML from your chosen page, parse the HTML to extract the necessary information, and either save the results to a text (txt) file if it is text or into a CSV file if it is tabular data.
-
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
-
----
-
-## Technical Requirements
-
-The technical requirements for this project are as follows:
-
-* You must obtain data from an API using Python.
-* You must scrape and clean HTML from a web page using Python.
-* The results should be two files - one containing the tabular results of your API request and the other containing the results of your web page scrape.
-* Your code should be saved in a Jupyter Notebook and your results should be saved in a folder named output.
-* You should include a README.md file that describes the steps you took and your thought process for obtaining data from the API and web page.
-
-## Necessary Deliverables
-
-The following deliverables should be pushed to your Github repo for this chapter.
-
-* **A Jupyter Notebook (.ipynb) file** that contains the code used to work with your API and scrape your web page.
-* **An output folder** containing the outputs of your API and scraping efforts.
-* **A ``README.md`` file** containing a detailed explanation of your approach and code for retrieving data from the API and scraping the web page as well as your results, obstacles encountered, and lessons learned.
-
-## Suggested Ways to Get Started
-
-* **Find an API to work with** - a great place to start looking would be [API List](https://apilist.fun/) and [Public APIs](https://github.com/toddmotto/public-apis). If you need authorization for your chosen API, make sure to give yourself enough time for the service to review and accept your application. Have a couple back-up APIs chosen just in case!
-* **Find a web page to scrape** and determine the content you would like to scrape from it - blogs and news sites are typically good candidates for scraping text content, and [Wikipedia](https://www.wikipedia.org/) is usually a good source for HTML tables (search for "list of...").
-* **Break the project down into different steps** - note the steps covered in the API and web scraping lessons, try to follow them, and make adjustments as you encounter the obstacles that are inevitable due to all APIs and web pages being different.
-* **Use the tools in your tool kit** - your knowledge of intermediate Python as well as some of the things you've learned in previous chapters. This is a great way to start tying everything you've learned together!
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
-
-## Useful Resources
-
-* [Requests Library Documentation: Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
-* [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Stack Overflow Python Requests Questions](https://stackoverflow.com/questions/tagged/python-requests)
-* [StackOverflow BeautifulSoup Questions](https://stackoverflow.com/questions/tagged/beautifulsoup)
-
-## Project Feedback + Evaluation
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
-
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<img src=\"https://bit.ly/2VnXWr2\" alt=\"Ironhack Logo\" width=\"100\" align=\"right\"/>\n",
+    "\n",
+    "\n",
+    "#   Project Ironhack Data Bootcamp\n",
+    "\n",
+    "Oscar M. Montero\n",
+    "\n",
+    "*Data Part Time Barcelona Dic 2019*\n",
+    "\n",
+    "\n",
+    "## Content\n",
+    "\n",
+    "- [Project Description](#project)\n",
+    "- [Workflow](#workflow)\n",
+    "- [Results](#results)\n",
+    "\n",
+    "<a name=\"project\"></a>\n",
+    "\n",
+    "## Project Description\n",
+    "\n",
+    "En este proyecto buscamos aplicar los conocimientos obtenidos de Web Scraping y Obtención y tratamiento de APIs.\n",
+    "La temática elegida ha sido Peliculas Ganadoras de Oscar a la Mejor Película y su puntuación en IMDB. La idea es obtener ambas informaciones de diferentes fuentes y métodos de extracción, poder limpiar los datos obtenidos, y relacionarlos. ¿Qué películas han ganado más Oscar? ¿Cuál es su puntuación en IMDB? ¿Cuántos Oscar han ganado las mejores puntuadas en IMDB? Estas y otras preguntas son las que daremos respuesta en este proyecto.\n",
+    "\n",
+    "\n",
+    "\n",
+    "<a name=\"workflow\"></a>\n",
+    "\n",
+    "## Workflow\n",
+    "\n",
+    "- WEB SCRAPING -\n",
+    "\n",
+    "Hemos trabajado Web Scraping desde el link de Wikipedia con el listado de películas ganadoras de Oscar a la Mejor Película. https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films\n",
+    "\n",
+    "Con Web Scraping hemos extraído la tabla de ganadores y nominados cada año, y hemos trabajado sobre ella para quedarnos solamente con el listado de ganadores por cada año. Hemos convertido a DataFrame para poder limpiar algunas informaciones que no nos interesaban, reordenar columnas, y sacar ya unas primeras conclusiones en cuanto a películas con más premios, con más nominaciones y como extra un ratio de premios ganados en relación con el número de candidaturas que tenían.\n",
+    "\n",
+    "- API -\n",
+    "\n",
+    "Una de las principales web de opinión y análisis de cine es IMDB. Sin embargo, no dispone de API que permita extraer información de ella. Como alternativa, tenemos OMDB, una web con API accesible gracias a la cual introduciendo el título de la película o el ID que tiene en IMDB, nos da toda la información de cada una de ellas. Año de la película, director, actores principales, recaudación en taquilla, entre otras, son algunas de las muchas informaciones que nos proporciona.\n",
+    "\n",
+    "En el proyecto hemos comprobado como funciona esta API con un primer ejemplo de película, y una vez mostrado, lo que hacemos es llamar a esta API para todo el listado de películas que hemos extraído previamente del link de Wikipedia que hemos ya comentado.\n",
+    "\n",
+    "De esta manera, iremos sacando toda la información de cada película ganadora de Oscar a la mejor película, entre ello el dato que más nos interesaba, que era su puntuación en IMDB.\n",
+    "\n",
+    "<a name=\"results\"></a>\n",
+    "\n",
+    "## Results\n",
+    "\n",
+    "- Combinación Web Scraping + APIs -\n",
+    "\n",
+    "En este tercer bloque hemos relacionado las dos tablas obtenidas previamente. Tanto la tabla con las películas ganadoras de Oscar a la mejor película como la tabla con la información obtenida mediante API de cada una de ellas.\n",
+    "\n",
+    "Hacemos un merge de ambas tablas para unificar la información de cada película, eliminamos algunas columnas que no nos resultan interesantes para nuestro análisis y sacamos resultados comentados en el notebook sobre cuál es la puntuación en IMDB de las películas con más premios Oscar y viceversa, cuántos Oscar han ganado las películas mejor valoradas en IMDB.\n",
+    "\n",
+    "¿Se corresponde las películas más galardonadas con las mejor valoradas por los espectadores? ¿Hay alguna gran película para los amantes del cine que sin embargo no haya conseguido tantos premios como pudiera parecer? Algunos resultados son sorprendentes e inesperados. Cojan sitio en su butaca, apaguen los móviles y disfruten del proyecto. Acción!\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.0"
+  },
+  "toc": {
+   "base_numbering": 1,
+   "nav_menu": {},
+   "number_sections": true,
+   "sideBar": true,
+   "skip_h1_title": false,
+   "title_cell": "Table of Contents",
+   "title_sidebar": "Contents",
+   "toc_cell": false,
+   "toc_position": {},
+   "toc_section_display": true,
+   "toc_window_display": false
+  },
+  "varInspector": {
+   "cols": {
+    "lenName": 16,
+    "lenType": 16,
+    "lenVar": 40
+   },
+   "kernels_config": {
+    "python": {
+     "delete_cmd_postfix": "",
+     "delete_cmd_prefix": "del ",
+     "library": "var_list.py",
+     "varRefreshCmd": "print(var_dic_list())"
+    },
+    "r": {
+     "delete_cmd_postfix": ") ",
+     "delete_cmd_prefix": "rm(",
+     "library": "var_list.r",
+     "varRefreshCmd": "cat(var_dic_list()) "
+    }
+   },
+   "types_to_exclude": [
+    "module",
+    "function",
+    "builtin_function_or_method",
+    "instance",
+    "_Feature"
+   ],
+   "window_display": false
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
