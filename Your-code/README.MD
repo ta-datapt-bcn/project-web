@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100" align="right"/>
 
 
-#   Project Ironhack Data Bootcamp
+#   Project Ironhack Data Bootcamp: API and Web Data Scraping
 
 MIGUEL GARCÍA MELGAR
 
@@ -10,7 +10,8 @@ MIGUEL GARCÍA MELGAR
 
 ## Content
 - [Project Description](#project)
-- [Dataset](#dataset)
+- [API](#API)
+- [Web](#web)
 - [Workflow](#workflow)
 - [Results](#results)
 
@@ -47,14 +48,14 @@ The following deliverables should be pushed to your Github repo for this chapter
 
 ## API
  
- The API we used to get information with was [PokéAPI](https://pokeapi.co/).
+ The API we used to get information with was [pikalytics](https://pikalytics.com/api/p/2020-01/ss-1760).
 
 
 <a name="web"></a>
 
 ## Web
  
- The web we screped information from was [pikalytics](https://www.pikalytics.com/).
+ The web we screped information from was [wikidex](https://www.wikidex.net/wiki/Lista_de_Pok%C3%A9mon_con_sus_estad%C3%ADsticas_base).
 
 
 <a name="workflow"></a>
@@ -62,50 +63,37 @@ The following deliverables should be pushed to your Github repo for this chapter
 ## Workflow
 
 ### Prepare your IDE
+- Import Useful Libraries
 
-- Download CSV
-- Rename it as Shark_Attack
-- Import the needed libraries
-- Import CSV 
+### Working On The API
+- Getting the needed information from the API.
+- Drop the columns we don't need and clean the remaining information.
+- As there were some issues to clean properly the column team we will make a copy from it and treat it individually.
+- Now we'll create new columns in the original dataset to add the information we wanted from the DF we cleaned separately.
+- Clean pikalytics dataframe and which will be exported as csv.
 
-### Examine For Potential Issues
-- Used .shape and .head() to obtain an overview
-- Missing Values: Calculated the percentage of null values using .info and .isnull
-- .shape and .head() to get a general overview of the contents
-### Start Cleaning The Data
-- Drop columns with more than 50% null values
-- Drop rows that are still missing more than 33.33% values
-- Check On Similarly Named Columns
-  - Dropped rows with mistakes (non identical values in the row) in href & href formula
-  - Dropped rows with mistakes (non identical values in the row) in "Case" columns
-### Data manipulation
-- Reorder Columns
-- Rename Columns
-- Extreme Values And Outliers
-- Low Variance Columns
-- Duplicates removal
-- Data Type
-- Remove columns I won't use
-- Remove unknown years
-### Fix Countries
-- Created a dictionary to clasify countries by hemisphere
-- Cleaned the data related to countries and sorted the values in Country alphabetically
-- Created an hemisphere column indicating in which hemisphere is each country
-### Seasons
-- Used months indicated in the dates and the hemispheres info to get the seasons when the incidents were reported.
-<a name="results"></a>
+### Working On The Web
+- Getting the needed information from the web.
+- Cleaning the data we got and generating a dataframe.
+- Clean wikidex dataframe that is to be export as csv.
 
 ## Results
 
-At first we got a 5992x24 dataframe but after the cleaning and a bit of manipulation is a 5798x9 dataframe. If I had more time I'd like to clean much more and do it more carfully as I dropped some data that might have been corrected replacing info and using RegEx.
-
-I feel that the oldest the information is the less precise it is and there were also more null values in those rows. It should be interesting to convert more columns data to numeric typs so as to makes some statistics analysis and decide properly on that since wich year we should keep the data and which variables should be dropped.
-
+We have been able to obtain just the data we initially thought would be needet. Yet there is too much info in separate dataframes so it is quite difficult to get insights from both of them. So we will make a single dataframe to make interpretation easier.
 
 # Bonus
 
-## Graphic representation of Country x Hemisphere x Season
-- Used plotly.express to visualize better the relationship between Country, Hemisphere and Season.
-- I decided to drop all data but what was registered from 1995.
-- There I found that some Dates were not cleaned propperly so I decided to restart this last part using creating and working on a new dataframe based on the one used during the whole project. In short, I dropped them.
-- This bonus started with the "clean" 5798x9 dataframe but ended up working on a new dataset of 2047x9.
+## Combining Information
+- Merging the resulting dataframes.
+- Drop columns that add no information.
+- Reorder columns.
+- Rename columns.
+- Resulting combined dataframe to be exported.
+
+## Analyzing
+- Look for outliers.
+- We clean and manipulate this new "outliers" dataframe.
+- Lower outliers, so... Pokémon that are very rarely used in VGC but you should still be careful with.
+
+## Correlations
+It seems that "lower" outliers are more depandant on their base stats mean compared to the population overall but there's little difference so wou shoul try to focus on other variables. I personally think it could be their battle roles, but this information was not in any of the datasets I worked with or that were at least discarded candidates.
