@@ -47,8 +47,7 @@ Issues encountered:
 
 ## Workflow
 
-Please refer to the Jupyter Notebook, which is explained to detail
-
+Please refer to the Jupyter Notebook, which is explained in [here](https://github.com/Gabjure/project-web/blob/master/STAR%20WARS%20API%20AND%20WEB%20SCRAPING.ipynb)
 
 <a name="results"></a>
 
