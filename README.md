@@ -1,65 +1,76 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+#   Project: API and Web Data Scraping
 
-# Guided Project: API and Web Data Scraping
+`Dinis Oliveira Costa`
 
-## Overview
 
-The goal of this project is for you to practice what you have learned in the APIs and Web Scraping chapter of this program. For this project, you will choose both an API to obtain data from and a web page to scrape. For the API portion of the project will need to make calls to your chosen API, successfully obtain a response, request data, convert it into a Pandas data frame, and export it as a CSV file. For the web scraping portion of the project, you will need to scrape the HTML from your chosen page, parse the HTML to extract the necessary information, and either save the results to a text (txt) file if it is text or into a CSV file if it is tabular data.
+## Content
+- [Project Description](#project)
+- [Data](#data)
+- [Workflow](#workflow)
+- [Results](#results)
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
 
----
+## Project Description
 
-## Technical Requirements
+- The goal of this project was to practice the APIs and Web Scraping skills acquired until now. It was chosen both an API to obtain data from and a web page to scrape.
 
-The technical requirements for this project are as follows:
+- The commands assume a basic understanding of the Pandas, BeautifulSoup and Requests libraries.
 
-* You must obtain data from an API using Python.
-* You must scrape and clean HTML from a web page using Python.
-* The results should be two files - one containing the tabular results of your API request and the other containing the results of your web page scrape.
-* Your code should be saved in a Jupyter Notebook and your results should be saved in a folder named output.
-* You should include a README.md file that describes the steps you took and your thought process for obtaining data from the API and web page.
+## Data
 
-## Necessary Deliverables
+The data used in this project was collected from:
 
-The following deliverables should be pushed to your Github repo for this chapter.
+- `TVMAZE` - a free, fast and clean REST API that's easy to use, returns JSON containing lots of information about almost any TV show - and
 
-* **A Jupyter Notebook (.ipynb) file** that contains the code used to work with your API and scrape your web page.
-* **An output folder** containing the outputs of your API and scraping efforts.
-* **A ``README.md`` file** containing a detailed explanation of your approach and code for retrieving data from the API and scraping the web page as well as your results, obstacles encountered, and lessons learned.
+- `IMDB` - an online database of information related to films, television programs, home videos, video games, and streaming content online.
 
-## Suggested Ways to Get Started
+The goal was to collect relevant information about a TV show called **Game of Thrones** that aired between 2011–2019 and currently sits as the second highest rated television show on IMDB with 9.3/10, only after Breaking Bad (9.5/10).
 
-* **Find an API to work with** - a great place to start looking would be [API List](https://apilist.fun/) and [Public APIs](https://github.com/toddmotto/public-apis). If you need authorization for your chosen API, make sure to give yourself enough time for the service to review and accept your application. Have a couple back-up APIs chosen just in case!
-* **Find a web page to scrape** and determine the content you would like to scrape from it - blogs and news sites are typically good candidates for scraping text content, and [Wikipedia](https://www.wikipedia.org/) is usually a good source for HTML tables (search for "list of...").
-* **Break the project down into different steps** - note the steps covered in the API and web scraping lessons, try to follow them, and make adjustments as you encounter the obstacles that are inevitable due to all APIs and web pages being different.
-* **Use the tools in your tool kit** - your knowledge of intermediate Python as well as some of the things you've learned in previous chapters. This is a great way to start tying everything you've learned together!
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
+The focus of this project was to collect data regarding each episode and season and cross it with its public rating on IMDB.
 
-## Useful Resources
+## Workflow
 
-* [Requests Library Documentation: Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
-* [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Stack Overflow Python Requests Questions](https://stackoverflow.com/questions/tagged/python-requests)
-* [StackOverflow BeautifulSoup Questions](https://stackoverflow.com/questions/tagged/beautifulsoup)
+The project follows three essential steps - **API Request**, **Web Scraping** and **Merging and analysing the data** - in order to make it easy to keep track of changes and better structure the clean data set.
 
-## Project Feedback + Evaluation
+Before you begin, start by importing the table and the necessary libraries. Ready? Let's go!
 
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+### Step 1 - ` API REQUEST`
 
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
+- using the TVMAZE API, it is possible to search through all the shows in their database by the show's name
+- since the objective is to gather data about each episode, we will use the call the show's main information and its episode list in one single response
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
+1.1 - Getting the data from the AP
+1.2 - Passing the data to a DataFrame
+1.3 - Data Cleaning
 
-* __Total__: Your instructors will give you a total score on your project between:
+### Step 2: `Web Scraping`:
 
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
+- resorting to each season's episode list, it is possible to consult the rating each episode got
+- using a list of all seasons, we will be able to run a script that collect the elements from all the episodes in each season
 
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+2.1 - Defining the Column Names
+2.2 - Scraping each of the elements from each page and adding them to a list
+2.3 - Data Cleaning the results we've gotten from scraping the HTML code
+2.4 -Creating a new DataFrame with the data collected from Web Scrapping
 
+
+### Step 3: `Merging and analysing the data`
+
+3.1 - Data Cleaning of the final DataFrame
+3.2 - Analysis of the results
+
+
+
+## Results
+
+- Clean data set containing all the episodes from each of the seasons and information regarding: url, season, number, airdate, runtime, a summary of each episode, the titles of each episode, the ratings and total votes.
+
+
+## Deliverables
+
+- `GoT_web.ipynb` - containing all the code that built the project
+- `data_API.csv` - with all the data collected from the TVMAZE API about the episodes
+- `data_HTML.csv` - with the ratings per episode, total votes and titles 
+- `got_final.csv` - which compiles all the information in a clean and structured way
+- `top5_best.csv` - with the list of 5 highest rated episodes
+- `top5_worst.csv` - with the list of 5 lowest rated episodes
