@@ -4,62 +4,30 @@
 
 ## Overview
 
-The goal of this project is for you to practice what you have learned in the APIs and Web Scraping chapter of this program. For this project, you will choose both an API to obtain data from and a web page to scrape. For the API portion of the project will need to make calls to your chosen API, successfully obtain a response, request data, convert it into a Pandas data frame, and export it as a CSV file. For the web scraping portion of the project, you will need to scrape the HTML from your chosen page, parse the HTML to extract the necessary information, and either save the results to a text (txt) file if it is text or into a CSV file if it is tabular data.
+El juego de Pokemon Go se diferencia cada vez más de los juegos de consola, con tipos distintos de pokemones que se pueden encontrar y con distintas features. Por eso necesitamos obtener estadísticas más precisas para poder tener mejor información sobre los mejores counters y ataques posibles.
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
+Para esto extraeremos la siguiente información de dos fuentes: 
 
----
+1.   De la distinta información de la api https://pokemon-go1.p.rapidapi.com
+    - Nro de pokemon y nombre
+    - Si el pokemon ha sido liberado en el juego
+    - Tipo de pokemon: Un pokemon puede ser de varios tipos, por ejemplo charmander es un dragon de tipo fuego y su evolución charizard es de dos tipos, fuego y volador.
+    - Forma de pokemon: Un pokemon puede ser de varios tipos por ejemplo castform es un pokemon que va cambiando de apariencia de acuerdo al clima que se encuentra. Existen pokemones que pueden ser de un tipo y tener ataques y/o forma de otro, por lo que hay que separar la forma del tipo
+    - HP (vital points): Puntos de vida que tiene un pokemon
+    - Attack: Capacidad de ataque
+    - Defensa: Capacidad de defensa
+    - MAX HP: La máxima cantidad de HP que puede tener de un pokemon al máximo nivel
+    
+    (damage that can be inflicted) and deffense in the case of attack. We get those values
+    We find the data needs to be cleaned up a little bit to relex the game standard: Mewtwo Armored pokemon it's set to Mewtwo A. There's a lot of nulls that are set to be Normal pokemon form.We hot encode this variable to be more readable.
 
-## Technical Requirements
+2. De la web https://pokemondb.net/go/pokedex que contiene la información complementaria a la API
+    - % de captura de un pokemon, existen pokemones más difíciles de atrapar que otros
+    - % de que el pokemon escape
+    - Movimientos rápidos
+    - Movimientos cargados
+    - Link de la imagen del pokemon
+    
+La información de la API y la de la web están en un formato un poco distinto por lo que se han realizado algunas tareas de limpieza para que sean iguales y puedan mezclarse correctamente. Además para el dataset final se han descartado las formas Fall_2019, Shadow y Purified ya que tienen los mismos tipos y counters que el tipo normal.
 
-The technical requirements for this project are as follows:
-
-* You must obtain data from an API using Python.
-* You must scrape and clean HTML from a web page using Python.
-* The results should be two files - one containing the tabular results of your API request and the other containing the results of your web page scrape.
-* Your code should be saved in a Jupyter Notebook and your results should be saved in a folder named output.
-* You should include a README.md file that describes the steps you took and your thought process for obtaining data from the API and web page.
-
-## Necessary Deliverables
-
-The following deliverables should be pushed to your Github repo for this chapter.
-
-* **A Jupyter Notebook (.ipynb) file** that contains the code used to work with your API and scrape your web page.
-* **An output folder** containing the outputs of your API and scraping efforts.
-* **A ``README.md`` file** containing a detailed explanation of your approach and code for retrieving data from the API and scraping the web page as well as your results, obstacles encountered, and lessons learned.
-
-## Suggested Ways to Get Started
-
-* **Find an API to work with** - a great place to start looking would be [API List](https://apilist.fun/) and [Public APIs](https://github.com/toddmotto/public-apis). If you need authorization for your chosen API, make sure to give yourself enough time for the service to review and accept your application. Have a couple back-up APIs chosen just in case!
-* **Find a web page to scrape** and determine the content you would like to scrape from it - blogs and news sites are typically good candidates for scraping text content, and [Wikipedia](https://www.wikipedia.org/) is usually a good source for HTML tables (search for "list of...").
-* **Break the project down into different steps** - note the steps covered in the API and web scraping lessons, try to follow them, and make adjustments as you encounter the obstacles that are inevitable due to all APIs and web pages being different.
-* **Use the tools in your tool kit** - your knowledge of intermediate Python as well as some of the things you've learned in previous chapters. This is a great way to start tying everything you've learned together!
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
-
-## Useful Resources
-
-* [Requests Library Documentation: Quickstart](http://docs.python-requests.org/en/master/user/quickstart/)
-* [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Stack Overflow Python Requests Questions](https://stackoverflow.com/questions/tagged/python-requests)
-* [StackOverflow BeautifulSoup Questions](https://stackoverflow.com/questions/tagged/beautifulsoup)
-
-## Project Feedback + Evaluation
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
-
+Lo más complicado del ejercicio fue limpiar las formas de pokemon por ser un texto libre, y al ser parte de la llave primaria necesitaba estar perfecto para el match, pero era necesaria para reflejar de forma mas veraz la información del juego.
