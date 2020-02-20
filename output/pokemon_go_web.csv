@@ -1,0 +1,624 @@
+pokemon_id,pokemon_name,type,attack,defense,base_hp,pct_catch,pct_flee,fast_moves,charge_moves,img_link,form
+1,Bulbasaur,Grass Poison,128,118,111,20%,10%,Vine WhipTackle,Seed BombSludge BombPower WhipFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/bulbasaur.png,Normal
+2,Ivysaur,Grass Poison,155,151,143,10%,7%,Vine WhipRazor Leaf,Sludge BombSolar BeamPower WhipFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/ivysaur.png,Normal
+3,Venusaur,Grass Poison,190,198,189,5%,5%,Vine WhipRazor Leaf,Petal BlizzardSludge BombSolar BeamFrenzy Plant (Community Day)Frustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/venusaur.png,Normal
+4,Charmander,Fire ,118,116,93,20%,10%,EmberScratch,FlamethrowerFlame ChargeFlame BurstFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/charmander.png,Normal
+5,Charmeleon,Fire ,151,158,126,10%,7%,EmberFire Fang,FlamethrowerFlame BurstFire PunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/charmeleon.png,Normal
+6,Charizard,Fire Flying,186,223,173,5%,5%,Air SlashFire Spin,Dragon ClawFire BlastOverheatBlast Burn (Community Day)Frustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/charizard.png,Normal
+7,Squirtle,Water ,127,94,121,20%,10%,TackleBubble,Aqua JetAqua TailWater PulseFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/squirtle.png,Normal
+8,Wartortle,Water ,153,126,155,10%,7%,BiteWater Gun,Ice BeamAqua JetHydro PumpFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/wartortle.png,Normal
+9,Blastoise,Water ,188,171,207,5%,5%,BiteWater Gun,Flash CannonIce BeamHydro PumpHydro Cannon (Community Day)Skull BashFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/blastoise.png,Normal
+10,Caterpie,Bug ,128,55,55,50%,20%,Bug BiteTackle,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/caterpie.png,Normal
+11,Metapod,Bug ,137,45,80,25%,9%,Bug BiteTackle,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/metapod.png,Normal
+12,Butterfree,Bug Flying,155,167,137,12.5%,6%,ConfusionStruggle Bug,Bug BuzzSignal BeamPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/butterfree.png,Normal
+13,Weedle,Bug Poison,120,63,50,50%,20%,Bug BitePoison Sting,StruggleFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/weedle.png,Normal
+14,Kakuna,Bug Poison,128,46,75,25%,9%,Bug BitePoison Sting,StruggleFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/kakuna.png,Normal
+15,Beedrill,Bug Poison,163,169,130,12.5%,6%,Poison JabInfestation,Aerial AceSludge BombX-ScissorFell StingerFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/beedrill.png,Normal
+16,Pidgey,Normal Flying,120,85,73,50%,20%,Quick AttackTackle,Aerial AceTwisterAir Cutter,https://img.pokemondb.net/sprites/sword-shield/icon/pidgey.png,Normal
+17,Pidgeotto,Normal Flying,160,117,105,25%,9%,Wing AttackSteel Wing,Aerial AceTwisterAir Cutter,https://img.pokemondb.net/sprites/sword-shield/icon/pidgeotto.png,Normal
+18,Pidgeot,Normal Flying,195,166,154,12.5%,6%,Steel WingAir Slash,Aerial AceHurricaneBrave Bird,https://img.pokemondb.net/sprites/sword-shield/icon/pidgeot.png,Normal
+19,Rattata,Normal ,102,103,70,50%,20%,Quick AttackTackle,DigHyper FangBody SlamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/rattata.png,Normal
+19,Rattata Alolan Rattata,Dark Normal,102,103,70,50%,20%,Quick AttackTackle,Shadow BallHyper FangCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/rattata-alolan.png,Alola
+20,Raticate,Normal ,146,161,139,20%,7%,BiteQuick Attack,Hyper BeamDigHyper FangFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/raticate.png,Normal
+20,Raticate Alolan Raticate,Dark Normal,181,135,154,20%,7%,BiteQuick Attack,Hyper BeamHyper FangCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/raticate-alolan.png,Alola
+21,Spearow,Normal Flying,120,112,60,50%,15%,PeckQuick Attack,Drill PeckAerial AceSky Attack,https://img.pokemondb.net/sprites/sword-shield/icon/spearow.png,Normal
+22,Fearow,Normal Flying,163,182,133,20%,7%,PeckSteel Wing,Aerial AceDrill RunSky Attack,https://img.pokemondb.net/sprites/sword-shield/icon/fearow.png,Normal
+23,Ekans,Poison ,111,110,97,50%,15%,AcidPoison Sting,WrapPoison FangSludge Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/ekans.png,Normal
+24,Arbok,Poison ,155,167,153,20%,7%,BiteAcidDragon Tail,Dark PulseSludge WaveGunk ShotAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/arbok.png,Normal
+25,Pikachu,Electric ,111,112,96,20%,10%,Thunder ShockQuick Attack,DischargeThunderboltWild ChargeSurf (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/pikachu.png,Normal
+26,Raichu,Electric ,155,193,151,10%,6%,Thunder ShockSparkVolt SwitchCharm,Thunder PunchBrick BreakWild ChargeSkull Bash,https://img.pokemondb.net/sprites/sword-shield/icon/raichu.png,Normal
+26,Raichu Alolan Raichu,Electric Psychic,155,201,154,10%,6%,Thunder ShockSparkVolt Switch,Thunder PunchPsychicWild ChargeGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/raichu-alolan.png,Alola
+27,Sandshrew,Ground ,137,126,120,50%,10%,Mud ShotScratch,DigRock SlideSand TombFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew.png,Normal
+27,Sandshrew Alolan Sandshrew,Ice Steel,137,125,129,50%,10%,Metal ClawPowder Snow,BlizzardNight SlashGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew-alolan.png,Alola
+28,Sandslash,Ground ,181,182,175,20%,6%,Mud ShotMetal Claw,EarthquakeRock TombBulldozeFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/sandslash.png,Normal
+28,Sandslash Alolan Sandslash,Ice Steel,181,177,195,20%,6%,Metal ClawPowder Snow,Ice PunchBlizzardBulldozeGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/sandslash-alolan.png,Alola
+29,Nidoran♀,Poison ,146,86,89,50%,15%,BitePoison Sting,Poison FangSludge BombBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-f.png,Normal
+30,Nidorina,Poison ,172,117,120,25%,7%,BitePoison Sting,DigPoison FangSludge Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/nidorina.png,Normal
+31,Nidoqueen,Poison Ground,207,180,173,12.5%,5%,BitePoison Jab,EarthquakeStone EdgeSludge WaveEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/nidoqueen.png,Normal
+32,Nidoran♂,Poison ,130,105,76,50%,15%,PeckPoison Sting,Sludge BombHorn AttackBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-m.png,Normal
+33,Nidorino,Poison ,156,137,111,25%,7%,Poison JabPoison Sting,DigSludge BombHorn Attack,https://img.pokemondb.net/sprites/sword-shield/icon/nidorino.png,Normal
+34,Nidoking,Poison Ground,191,204,156,12.5%,5%,Poison JabIron Tail,MegahornEarthquakeSludge WaveEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/nidoking.png,Normal
+35,Clefairy,Fairy ,172,107,108,30%,10%,PoundZen Headbutt,Disarming VoiceMoonblastBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/clefairy.png,Normal
+36,Clefable,Fairy ,216,178,162,10%,6%,Zen HeadbuttCharge BeamCharm,Dazzling GleamMoonblastPsychicMeteor Mash,https://img.pokemondb.net/sprites/sword-shield/icon/clefable.png,Normal
+37,Vulpix,Fire ,116,96,109,30%,10%,EmberQuick Attack,FlamethrowerFlame ChargeBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/vulpix.png,Normal
+37,Vulpix Alolan Vulpix,Ice ,116,96,109,30%,10%,Zen HeadbuttPowder Snow,Dark PulseIce BeamBlizzard,https://img.pokemondb.net/sprites/sword-shield/icon/vulpix-alolan.png,Alola
+38,Ninetales,Fire ,177,169,190,10%,6%,Feint AttackFire Spin,Heat WavePsyshockSolar BeamOverheat,https://img.pokemondb.net/sprites/sword-shield/icon/ninetales.png,Normal
+38,Ninetales Alolan Ninetales,Ice Fairy,177,170,193,10%,6%,Feint AttackPowder SnowCharm,Ice BeamBlizzardPsyshockDazzling Gleam,https://img.pokemondb.net/sprites/sword-shield/icon/ninetales-alolan.png,Alola
+39,Jigglypuff,Normal Fairy,251,80,41,50%,10%,PoundFeint Attack,Disarming VoiceDazzling GleamGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/jigglypuff.png,Normal
+40,Wigglytuff,Normal Fairy,295,156,90,20%,6%,PoundFeint AttackCharm,Hyper BeamIce BeamDazzling GleamPlay Rough,https://img.pokemondb.net/sprites/sword-shield/icon/wigglytuff.png,Normal
+41,Zubat,Poison Flying,120,83,73,50%,20%,BiteQuick Attack,Poison FangAir CutterSwiftFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/zubat.png,Normal
+42,Golbat,Poison Flying,181,161,150,20%,7%,BiteWing Attack,Poison FangShadow BallAir CutterFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/golbat.png,Normal
+43,Oddish,Grass Poison,128,131,112,60%,15%,Razor LeafAcid,Seed BombMoonblastSludge BombFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/oddish.png,Normal
+44,Gloom,Grass Poison,155,153,136,30%,7%,Razor LeafAcid,Petal BlizzardMoonblastSludge BombFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/gloom.png,Normal
+45,Vileplume,Grass Poison,181,202,167,15%,5%,Razor LeafAcid,Petal BlizzardMoonblastSludge BombSolar BeamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/vileplume.png,Normal
+46,Paras,Bug Grass,111,121,99,40%,15%,Bug BiteScratch,Seed BombCross PoisonX-Scissor,https://img.pokemondb.net/sprites/sword-shield/icon/paras.png,Normal
+47,Parasect,Bug Grass,155,165,146,20%,7%,Fury CutterStruggle Bug,Cross PoisonX-ScissorSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/parasect.png,Normal
+48,Venonat,Bug Poison,155,100,100,50%,15%,Bug BiteConfusion,PsybeamPoison FangSignal BeamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/venonat.png,Normal
+49,Venomoth,Bug Poison,172,179,143,20%,7%,ConfusionInfestation,Bug BuzzPoison FangPsychicSilver WindFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/venomoth.png,Normal
+50,Diglett,Ground ,67,109,78,50%,10%,ScratchMud-Slap,DigRock TombMud Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/diglett.png,Normal
+50,Diglett Alolan Diglett,Ground Steel,67,108,81,50%,10%,Metal ClawMud-Slap,DigRock TombMud Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/diglett-alolan.png,Alola
+51,Dugtrio,Ground ,111,167,134,20%,6%,Sucker PunchMud-Slap,EarthquakeStone EdgeMud Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio.png,Normal
+51,Dugtrio Alolan Dugtrio,Ground Steel,111,201,142,20%,6%,Metal ClawMud-Slap,EarthquakeIron HeadMud Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio-alolan.png,Alola
+52,Meowth,Normal ,120,92,78,50%,15%,BiteScratch,Dark PulseNight SlashFoul PlayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/meowth.png,Normal
+52,Meowth Alolan Meowth,Dark ,120,99,78,50%,15%,BiteScratch,Dark PulseNight SlashFoul Play,https://img.pokemondb.net/sprites/sword-shield/icon/meowth-alolan.png,Alola
+53,Persian,Normal ,163,150,136,20%,7%,ScratchFeint Attack,Power GemPlay RoughFoul PlayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/persian.png,Normal
+53,Persian Alolan Persian,Dark ,163,158,136,20%,7%,ScratchFeint Attack,Dark PulsePlay RoughFoul Play,https://img.pokemondb.net/sprites/sword-shield/icon/persian-alolan.png,Alola
+54,Psyduck,Water ,137,122,95,50%,10%,Water GunZen Headbutt,Cross ChopPsybeamAqua TailFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/psyduck.png,Normal
+55,Golduck,Water ,190,191,162,20%,6%,Water GunConfusion,Cross ChopIce BeamBubble BeamHydro PumpPsychicFrustration (Shadow)Return (Shadow)Synchronoise,https://img.pokemondb.net/sprites/sword-shield/icon/golduck.png,Normal
+56,Mankey,Fighting ,120,148,82,50%,10%,Karate ChopScratch,Cross ChopLow SweepBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/mankey.png,Normal
+57,Primeape,Fighting ,163,207,138,20%,6%,Low KickCounter,Night SlashLow SweepClose Combat,https://img.pokemondb.net/sprites/sword-shield/icon/primeape.png,Normal
+58,Growlithe,Fire ,146,136,93,30%,10%,BiteEmber,Flame WheelFlamethrowerBody SlamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/growlithe.png,Normal
+59,Arcanine,Fire ,207,227,166,10%,6%,Fire FangSnarlThunder Fang,FlamethrowerFire BlastWild ChargeCrunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/arcanine.png,Normal
+60,Poliwag,Water ,120,101,82,50%,15%,Mud ShotBubble,Bubble BeamMud BombBody SlamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/poliwag.png,Normal
+61,Poliwhirl,Water ,163,130,123,25%,7%,Mud ShotBubble,Bubble BeamMud BombWater PulseFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/poliwhirl.png,Normal
+62,Poliwrath,Water Fighting,207,182,184,12.5%,5%,Mud ShotBubbleRock Smash,Ice PunchHydro PumpDynamic PunchPower-Up PunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/poliwrath.png,Normal
+63,Abra,Psychic ,93,195,82,50%,99%,Zen HeadbuttCharge Beam,PsyshockShadow BallSignal BeamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/abra.png,Normal
+64,Kadabra,Psychic ,120,232,117,25%,7%,Psycho CutConfusion,PsybeamShadow BallDazzling GleamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/kadabra.png,Normal
+65,Alakazam,Psychic ,146,271,167,10%,5%,Psycho CutConfusion,Shadow BallFire PunchFocus BlastFuture SightFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/alakazam.png,Normal
+66,Machop,Fighting ,172,137,82,50%,10%,Karate ChopRock Smash,Cross ChopLow SweepBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/machop.png,Normal
+67,Machoke,Fighting ,190,177,125,25%,7%,Low KickKarate Chop,SubmissionBrick BreakDynamic Punch,https://img.pokemondb.net/sprites/sword-shield/icon/machoke.png,Normal
+68,Machamp,Fighting ,207,234,159,10%,5%,Bullet PunchCounter,Cross ChopRock SlideClose CombatDynamic PunchHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/machamp.png,Normal
+69,Bellsprout,Grass Poison,137,139,61,50%,15%,Vine WhipAcid,WrapSludge BombPower WhipFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/bellsprout.png,Normal
+70,Weepinbell,Grass Poison,163,172,92,25%,7%,AcidBullet Seed,Seed BombSludge BombPower WhipFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/weepinbell.png,Normal
+71,Victreebel,Grass Poison,190,207,135,12.5%,5%,Razor LeafAcid,Sludge BombSolar BeamLeaf BladeAcid SprayLeaf TornadoFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/victreebel.png,Normal
+72,Tentacool,Water Poison,120,97,149,50%,15%,Poison StingBubble,WrapBubble BeamWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/tentacool.png,Normal
+73,Tentacruel,Water Poison,190,166,209,20%,7%,Poison JabAcid,BlizzardSludge WaveHydro PumpAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/tentacruel.png,Normal
+74,Geodude,Rock Ground,120,132,132,50%,10%,TackleRock Throw,DigRock TombRock Slide,https://img.pokemondb.net/sprites/sword-shield/icon/geodude.png,Normal
+74,Geodude Alolan Geodude,Rock Electric,120,132,132,50%,10%,Rock ThrowVolt Switch,Rock TombRock SlideThunderbolt,https://img.pokemondb.net/sprites/sword-shield/icon/geodude-alolan.png,Alola
+75,Graveler,Rock Ground,146,164,164,25%,7%,Rock ThrowMud-Slap,DigStone EdgeRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/graveler.png,Normal
+75,Graveler Alolan Graveler,Rock Electric,146,164,164,25%,7%,Rock ThrowVolt Switch,Stone EdgeThunderboltRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/graveler-alolan.png,Alola
+76,Golem,Rock Ground,190,211,198,12.5%,5%,Rock ThrowMud-Slap,EarthquakeStone EdgeAncient PowerRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/golem.png,Normal
+76,Golem Alolan Golem,Rock Electric,190,211,198,12.5%,5%,Rock ThrowVolt Switch,Stone EdgeWild ChargeRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/golem-alolan.png,Alola
+77,Ponyta,Fire ,137,170,127,40%,10%,EmberTackle,Flame WheelFlame ChargeStomp,https://img.pokemondb.net/sprites/sword-shield/icon/ponyta.png,Normal
+78,Rapidash,Fire ,163,207,162,15%,6%,Low KickFire Spin,Heat WaveDrill RunFire Blast,https://img.pokemondb.net/sprites/sword-shield/icon/rapidash.png,Normal
+79,Slowpoke,Water Psychic,207,109,98,50%,10%,Water GunConfusion,PsyshockWater PulsePsychic,https://img.pokemondb.net/sprites/sword-shield/icon/slowpoke.png,Normal
+80,Slowbro,Water Psychic,216,177,180,20%,6%,Water GunConfusion,Ice BeamWater PulsePsychic,https://img.pokemondb.net/sprites/sword-shield/icon/slowbro.png,Normal
+81,Magnemite,Electric Steel,93,165,121,50%,10%,Thunder ShockSpark,DischargeMagnet BombThunderboltFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/magnemite.png,Normal
+82,Magneton,Electric Steel,137,223,169,20%,6%,Thunder ShockSparkCharge Beam,DischargeFlash CannonMagnet BombZap CannonFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/magneton.png,Normal
+83,Farfetch'd,Normal Flying,141,124,115,30%,9%,Fury CutterAir Slash,Aerial AceLeaf BladeAir Cutter,https://img.pokemondb.net/sprites/sword-shield/icon/farfetchd.png,Normal
+84,Doduo,Normal Flying,111,158,83,50%,10%,PeckQuick Attack,Drill PeckAerial AceBrave Bird,https://img.pokemondb.net/sprites/sword-shield/icon/doduo.png,Normal
+85,Dodrio,Normal Flying,155,218,140,20%,6%,Feint AttackSteel Wing,Drill PeckAerial AceBrave Bird,https://img.pokemondb.net/sprites/sword-shield/icon/dodrio.png,Normal
+86,Seel,Water ,163,85,121,50%,9%,LickIce Shard,Aqua TailIcy WindAurora Beam,https://img.pokemondb.net/sprites/sword-shield/icon/seel.png,Normal
+87,Dewgong,Water Ice,207,139,177,20%,6%,Frost BreathIron Tail,BlizzardWater PulseAurora Beam,https://img.pokemondb.net/sprites/sword-shield/icon/dewgong.png,Normal
+88,Grimer,Poison ,190,135,90,50%,10%,Poison JabMud-Slap,SludgeSludge BombMud BombFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/grimer.png,Normal
+88,Grimer Alolan Grimer,Poison Dark,190,135,90,50%,10%,BitePoison Jab,Sludge BombGunk ShotCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/grimer-alolan.png,Alola
+89,Muk,Poison ,233,190,172,20%,6%,Poison JabInfestation,Dark PulseThunder PunchSludge WaveGunk ShotAcid SprayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/muk.png,Normal
+89,Muk Alolan Muk,Poison Dark,233,190,172,20%,6%,BitePoison JabSnarl,Dark PulseSludge WaveGunk ShotAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/muk-alolan.png,Alola
+90,Shellder,Water ,102,116,134,50%,10%,Ice ShardTackle,Bubble BeamWater PulseIcy Wind,https://img.pokemondb.net/sprites/sword-shield/icon/shellder.png,Normal
+91,Cloyster,Water Ice,137,186,256,20%,6%,Ice ShardFrost Breath,Hydro PumpIcy WindAurora BeamAvalanche,https://img.pokemondb.net/sprites/sword-shield/icon/cloyster.png,Normal
+92,Gastly,Ghost Poison,102,186,67,40%,10%,LickAstonish,Dark PulseSludge BombNight Shade,https://img.pokemondb.net/sprites/sword-shield/icon/gastly.png,Normal
+93,Haunter,Ghost Poison,128,223,107,20%,7%,Shadow ClawAstonish,Dark PulseShadow PunchShadow BallSludge Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/haunter.png,Normal
+94,Gengar,Ghost Poison,155,261,149,10%,5%,Sucker PunchShadow ClawHex,Shadow BallSludge BombFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/gengar.png,Normal
+95,Onix,Rock Ground,111,85,232,20%,9%,TackleRock Throw,Stone EdgeSand TombHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/onix.png,Normal
+96,Drowzee,Psychic ,155,89,136,50%,10%,PoundConfusion,PsybeamPsyshockPsychicFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/drowzee.png,Normal
+97,Hypno,Psychic ,198,144,193,20%,6%,Zen HeadbuttConfusion,Ice PunchShadow BallThunder PunchPsychicFire PunchFocus BlastFuture SightFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/hypno.png,Normal
+98,Krabby,Water ,102,181,124,50%,15%,Mud ShotBubble,Vise GripBubble BeamWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/krabby.png,Normal
+99,Kingler,Water ,146,240,181,20%,7%,Metal ClawBubble,Vise GripX-ScissorWater PulseCrabhammer,https://img.pokemondb.net/sprites/sword-shield/icon/kingler.png,Normal
+100,Voltorb,Electric ,120,109,111,50%,10%,SparkTackle,DischargeThunderboltGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/voltorb.png,Normal
+101,Electrode,Electric ,155,173,173,20%,6%,SparkVolt Switch,Hyper BeamDischargeThunderboltFoul Play,https://img.pokemondb.net/sprites/sword-shield/icon/electrode.png,Normal
+102,Exeggcute,Grass Psychic,155,107,125,50%,10%,ConfusionBullet Seed,Seed BombAncient PowerPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/exeggcute.png,Normal
+103,Exeggutor,Grass Psychic,216,233,149,20%,6%,ConfusionBullet SeedExtrasensory,Seed BombPsychicSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/exeggutor.png,Normal
+103,Exeggutor Alolan Exeggutor,Grass Dragon,216,230,153,20%,6%,Dragon TailBullet Seed,Seed BombDragon PulseSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/exeggutor-alolan.png,Alola
+104,Cubone,Ground ,137,90,144,40%,10%,Mud-SlapRock Smash,DigBone ClubBulldozeFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/cubone.png,Normal
+105,Marowak,Ground ,155,144,186,15%,6%,Mud-SlapRock Smash,DigEarthquakeBone ClubFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/marowak.png,Normal
+105,Marowak Alolan Marowak,Fire Ghost,155,144,186,15%,6%,Rock SmashHexFire Spin,Flame WheelShadow BallBone ClubFire Blast,https://img.pokemondb.net/sprites/sword-shield/icon/marowak-alolan.png,Alola
+106,Hitmonlee,Fighting ,137,224,181,20%,9%,Low KickRock Smash,Stone EdgeLow SweepClose CombatFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/hitmonlee.png,Normal
+107,Hitmonchan,Fighting ,137,193,197,20%,9%,Bullet PunchCounter,Ice PunchThunder PunchFire PunchClose CombatPower-Up PunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/hitmonchan.png,Normal
+108,Lickitung,Normal ,207,108,137,20%,9%,LickZen Headbutt,Hyper BeamPower WhipStompBody Slam (legacy),https://img.pokemondb.net/sprites/sword-shield/icon/lickitung.png,Normal
+109,Koffing,Poison ,120,119,141,50%,10%,TackleInfestation,Dark PulseSludgeSludge Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/koffing.png,Normal
+110,Weezing,Poison ,163,174,197,20%,6%,TackleInfestation,Dark PulseShadow BallThunderboltSludge Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/weezing.png,Normal
+110,Weezing Galarian Weezing,Poison Fairy,163,174,197,20%,6%,Tackle,Hyper BeamSludgePlay RoughOverheat,https://img.pokemondb.net/sprites/sword-shield/icon/weezing-galarian.png,Galarian
+111,Rhyhorn,Ground Rock,190,140,127,50%,10%,Mud-SlapRock Smash,BulldozeHorn AttackStomp,https://img.pokemondb.net/sprites/sword-shield/icon/rhyhorn.png,Normal
+112,Rhydon,Ground Rock,233,222,171,5%,6%,Mud-SlapRock Smash,EarthquakeStone EdgeSurf,https://img.pokemondb.net/sprites/sword-shield/icon/rhydon.png,Normal
+113,Chansey,Normal ,487,60,128,20%,9%,PoundZen Headbutt,Hyper BeamDazzling GleamPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/chansey.png,Normal
+114,Tangela,Grass ,163,183,169,40%,9%,Vine WhipInfestation,Sludge BombSolar BeamGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/tangela.png,Normal
+115,Kangaskhan,Normal ,233,181,165,20%,9%,Low KickMud-Slap,EarthquakeOutrageCrunchPower-Up Punch,https://img.pokemondb.net/sprites/sword-shield/icon/kangaskhan.png,Normal
+116,Horsea,Water ,102,129,103,50%,10%,Water GunBubble,Flash CannonBubble BeamDragon Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/horsea.png,Normal
+117,Seadra,Water ,146,187,156,20%,6%,Dragon BreathWater Gun,Dragon PulseHydro PumpAurora Beam,https://img.pokemondb.net/sprites/sword-shield/icon/seadra.png,Normal
+118,Goldeen,Water ,128,123,110,50%,15%,PeckMud Shot,Aqua TailWater PulseHorn Attack,https://img.pokemondb.net/sprites/sword-shield/icon/goldeen.png,Normal
+119,Seaking,Water ,190,175,147,20%,7%,PeckWaterfall,MegahornIce BeamWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/seaking.png,Normal
+120,Staryu,Water ,102,137,112,50%,15%,TackleWater Gun,Bubble BeamPower GemSwift,https://img.pokemondb.net/sprites/sword-shield/icon/staryu.png,Normal
+121,Starmie,Water Psychic,155,210,184,20%,6%,Water GunHidden Power,Ice BeamPower GemThunderHydro PumpPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/starmie.png,Normal
+122,Mr. Mime,Psychic Fairy,120,192,205,30%,9%,Zen HeadbuttConfusion,PsybeamShadow BallPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/mr-mime.png,Normal
+123,Scyther,Bug Flying,172,218,170,30%,9%,Fury CutterAir Slash,Aerial AceNight SlashX-ScissorFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/scyther.png,Normal
+124,Jynx,Ice Psychic,163,223,151,30%,9%,Frost BreathConfusion,PsyshockDraining KissFocus BlastAvalanche,https://img.pokemondb.net/sprites/sword-shield/icon/jynx.png,Normal
+125,Electabuzz,Electric ,163,198,158,20%,9%,Thunder ShockLow Kick,Thunder PunchThunderThunderboltFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/electabuzz.png,Normal
+126,Magmar,Fire ,163,206,154,20%,9%,Karate ChopEmber,FlamethrowerFire BlastFire PunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/magmar.png,Normal
+127,Pinsir,Bug ,163,238,182,30%,9%,Fury CutterBug BiteRock Smash,Vise GripX-ScissorClose CombatSuperpower,https://img.pokemondb.net/sprites/sword-shield/icon/pinsir.png,Normal
+128,Tauros,Normal ,181,198,183,30%,9%,TackleZen Headbutt,EarthquakeIron HeadHorn Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tauros.png,Normal
+129,Magikarp,Water ,85,29,85,70%,15%,Splash,StruggleFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/magikarp.png,Normal
+130,Gyarados,Water Flying,216,237,186,10%,7%,BiteDragon BreathWaterfall,TwisterHydro PumpOutrageCrunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/gyarados.png,Normal
+131,Lapras,Water Ice,277,165,174,5%,9%,Frost BreathWater Gun,BlizzardHydro PumpSurfSkull BashFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/lapras.png,Normal
+132,Ditto,Normal ,134,91,91,20%,10%,Transform,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/ditto.png,Normal
+133,Eevee,Normal ,146,104,114,40%,10%,Quick AttackTackle,DigSwiftLast Resort (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/eevee.png,Normal
+134,Vaporeon,Water ,277,205,161,12.5%,6%,Water Gun,Aqua TailWater PulseHydro PumpLast Resort (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/vaporeon.png,Normal
+135,Jolteon,Electric ,163,232,182,12.5%,6%,Thunder ShockVolt Switch,DischargeThunderThunderboltLast Resort (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/jolteon.png,Normal
+136,Flareon,Fire ,163,246,179,12.5%,6%,EmberFire Spin,FlamethrowerFire BlastOverheatLast Resort (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/flareon.png,Normal
+137,Porygon,Normal ,163,153,136,40%,9%,Charge BeamHidden Power,Hyper BeamSolar BeamZap CannonFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/porygon.png,Normal
+138,Omanyte,Rock Water,111,155,153,40%,9%,Mud ShotWater Gun,Bubble BeamAncient PowerRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/omanyte.png,Normal
+139,Omastar,Rock Water,172,207,201,15%,5%,Mud ShotWater Gun,Ancient PowerHydro PumpRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/omastar.png,Normal
+140,Kabuto,Rock Water,102,148,140,40%,9%,Mud ShotScratch,Aqua JetAncient PowerRock Tomb,https://img.pokemondb.net/sprites/sword-shield/icon/kabuto.png,Normal
+141,Kabutops,Rock Water,155,220,186,15%,5%,Mud ShotRock SmashWaterfall,Stone EdgeAncient PowerWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/kabutops.png,Normal
+142,Aerodactyl,Rock Flying,190,221,159,20%,9%,BiteRock ThrowSteel Wing,Hyper BeamAncient PowerRock SlideIron HeadEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/aerodactyl.png,Normal
+143,Snorlax,Normal ,330,190,169,5%,9%,LickZen Headbutt,Hyper BeamEarthquakeBody SlamHeavy SlamOutrageSkull BashSuperpowerFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/snorlax.png,Normal
+144,Articuno,Ice Flying,207,192,236,3%,10%,Ice ShardFrost Breath,Ice BeamBlizzardAncient PowerIcy WindFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/articuno.png,Normal
+145,Zapdos,Electric Flying,207,253,185,3%,10%,Charge Beam,Drill PeckAncient PowerThunderThunderboltZap CannonFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/zapdos.png,Normal
+146,Moltres,Fire Flying,207,251,181,3%,10%,Wing AttackFire Spin,Heat WaveAncient PowerFire BlastOverheatFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/moltres.png,Normal
+147,Dratini,Dragon ,121,119,91,40%,9%,Dragon BreathIron Tail,WrapAqua TailTwisterFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/dratini.png,Normal
+148,Dragonair,Dragon ,156,163,135,10%,6%,Dragon BreathIron Tail,WrapAqua TailDragon PulseFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/dragonair.png,Normal
+149,Dragonite,Dragon Flying,209,263,198,5%,5%,Dragon BreathSteel WingDragon Tail,Hyper BeamDragon ClawHurricaneOutrageDraco Meteor (Community Day)Frustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/dragonite.png,Normal
+150,Mewtwo,Psychic ,214,300,182,6%,10%,Psycho CutConfusion,FlamethrowerIce BeamThunderboltPsychicFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo.png,Normal
+150,Mewtwo Armored Mewtwo,Psychic ,214,182,278,6%,0%,ConfusionIron Tail,EarthquakeRock SlideDynamic PunchFuture Sight,https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo-armored.png,Armored
+151,Mew,Psychic ,225,210,210,100%,0%,Shadow ClawFrost BreathPoundCutPoison JabSteel WingRock SmashCharge BeamVolt SwitchDragon TailInfestationStruggle BugSnarlWaterfall,Hyper BeamDark PulseStone EdgeFlash CannonIce BeamBlizzardLow SweepPsyshockAncient PowerRock SlideThunderThunderboltDragon ClawDazzling GleamBulldozeFlame ChargePsychicSolar BeamFocus BlastWild ChargeGyro BallOverheatGrass KnotEnergy BallSurf,https://img.pokemondb.net/sprites/sword-shield/icon/mew.png,Normal
+152,Chikorita,Grass ,128,92,122,20%,10%,Vine WhipTackle,Body SlamGrass KnotEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/chikorita.png,Normal
+153,Bayleef,Grass ,155,122,155,12.5%,7%,Razor LeafTackle,Ancient PowerGrass KnotEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/bayleef.png,Normal
+154,Meganium,Grass ,190,168,202,5%,5%,Vine WhipRazor Leaf,EarthquakePetal BlizzardSolar BeamFrenzy Plant (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/meganium.png,Normal
+155,Cyndaquil,Fire ,118,116,93,20%,10%,EmberTackle,FlamethrowerFlame ChargeSwift,https://img.pokemondb.net/sprites/sword-shield/icon/cyndaquil.png,Normal
+156,Quilava,Fire ,151,158,126,12.5%,7%,EmberTackle,FlamethrowerDigFlame Charge,https://img.pokemondb.net/sprites/sword-shield/icon/quilava.png,Normal
+157,Typhlosion,Fire ,186,223,173,5%,5%,EmberShadow Claw,Fire BlastSolar BeamOverheatBlast Burn (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/typhlosion.png,Normal
+158,Totodile,Water ,137,117,109,20%,10%,ScratchWater Gun,Aqua JetWater PulseCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/totodile.png,Normal
+159,Croconaw,Water ,163,150,142,12.5%,7%,ScratchWater Gun,Ice PunchWater PulseCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/croconaw.png,Normal
+160,Feraligatr,Water ,198,205,188,5%,5%,BiteWaterfallIce Fang,Ice BeamHydro PumpCrunchHydro Cannon (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/feraligatr.png,Normal
+161,Sentret,Normal ,111,79,73,50%,20%,Quick AttackScratch,DigBrick BreakGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/sentret.png,Normal
+162,Furret,Normal ,198,148,125,15%,7%,Sucker PunchQuick Attack,Hyper BeamDigBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/furret.png,Normal
+163,Hoothoot,Normal Flying,155,67,88,50%,15%,PeckFeint Attack,Aerial AceSky AttackNight Shade,https://img.pokemondb.net/sprites/sword-shield/icon/hoothoot.png,Normal
+164,Noctowl,Normal Flying,225,145,156,15%,7%,Wing AttackExtrasensory,PsychicSky AttackNight Shade,https://img.pokemondb.net/sprites/sword-shield/icon/noctowl.png,Normal
+165,Ledyba,Bug Flying,120,72,118,50%,20%,Bug BiteTackle,Aerial AceSwiftSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/ledyba.png,Normal
+166,Ledian,Bug Flying,146,107,179,15%,7%,Bug BiteStruggle Bug,Aerial AceBug BuzzSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/ledian.png,Normal
+167,Spinarak,Bug Poison,120,105,73,50%,20%,Bug BitePoison Sting,Night SlashCross PoisonSignal Beam,https://img.pokemondb.net/sprites/sword-shield/icon/spinarak.png,Normal
+168,Ariados,Bug Poison,172,161,124,15%,7%,Poison StingInfestation,MegahornShadow SneakCross Poison,https://img.pokemondb.net/sprites/sword-shield/icon/ariados.png,Normal
+169,Crobat,Poison Flying,198,194,178,10%,5%,BiteAir Slash,Shadow BallSludge BombAir CutterFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/crobat.png,Normal
+170,Chinchou,Water Electric,181,106,97,40%,10%,SparkBubble,Bubble BeamThunderboltWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/chinchou.png,Normal
+171,Lanturn,Water Electric,268,146,137,15%,7%,SparkWater GunCharge Beam,ThunderThunderboltHydro Pump,https://img.pokemondb.net/sprites/sword-shield/icon/lanturn.png,Normal
+172,Pichu,Electric ,85,77,53,—,5%,Thunder Shock,Thunder PunchThunderboltDisarming Voice,https://img.pokemondb.net/sprites/sword-shield/icon/pichu.png,Normal
+173,Cleffa,Fairy ,137,75,79,—,5%,PoundZen Headbutt,PsyshockSignal BeamGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/cleffa.png,Normal
+174,Igglybuff,Normal Fairy,207,69,32,—,5%,PoundFeint Attack,Shadow BallPsychicWild Charge,https://img.pokemondb.net/sprites/sword-shield/icon/igglybuff.png,Normal
+175,Togepi,Fairy ,111,67,116,—,5%,PeckHidden Power,PsyshockAncient PowerDazzling Gleam,https://img.pokemondb.net/sprites/sword-shield/icon/togepi.png,Normal
+176,Togetic,Fairy Flying,146,139,181,20%,5%,ExtrasensoryHidden Power,Aerial AceAncient PowerDazzling Gleam,https://img.pokemondb.net/sprites/sword-shield/icon/togetic.png,Normal
+177,Natu,Psychic Flying,120,134,89,40%,15%,PeckQuick Attack,Drill PeckPsyshockNight Shade,https://img.pokemondb.net/sprites/sword-shield/icon/natu.png,Normal
+178,Xatu,Psychic Flying,163,192,146,15%,7%,Feint AttackAir Slash,Aerial AceOminous WindFuture Sight,https://img.pokemondb.net/sprites/sword-shield/icon/xatu.png,Normal
+179,Mareep,Electric ,146,114,79,50%,10%,Thunder ShockTackle,DischargeThunderboltBody SlamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/mareep.png,Normal
+180,Flaaffy,Electric ,172,145,109,25%,7%,TackleCharge Beam,DischargePower GemThunderboltFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/flaaffy.png,Normal
+181,Ampharos,Electric ,207,211,169,12.5%,5%,Charge BeamVolt Switch,Power GemThunder PunchThunderDragon Pulse (Community Day)Focus BlastZap CannonFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/ampharos.png,Normal
+182,Bellossom,Grass ,181,169,186,5%,5%,Razor LeafAcid,Petal BlizzardDazzling GleamLeaf BladeFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/bellossom.png,Normal
+183,Marill,Water Fairy,172,37,93,50%,10%,TackleBubble,Bubble BeamAqua TailBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/marill.png,Normal
+184,Azumarill,Water Fairy,225,112,152,15%,7%,BubbleRock Smash,Ice BeamPlay RoughHydro Pump,https://img.pokemondb.net/sprites/sword-shield/icon/azumarill.png,Normal
+185,Sudowoodo,Rock ,172,167,176,12.5%,5%,Rock ThrowCounter,EarthquakeStone EdgeRock Slide,https://img.pokemondb.net/sprites/sword-shield/icon/sudowoodo.png,Normal
+186,Politoed,Water ,207,174,179,10%,5%,Mud ShotBubble,BlizzardHydro PumpSurfFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/politoed.png,Normal
+187,Hoppip,Grass Flying,111,67,94,50%,12%,TackleBullet Seed,Seed BombDazzling GleamGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/hoppip.png,Normal
+188,Skiploom,Grass Flying,146,91,120,25%,7%,TackleBullet Seed,Dazzling GleamGrass KnotEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/skiploom.png,Normal
+189,Jumpluff,Grass Flying,181,118,183,12.5%,5%,InfestationBullet Seed,Dazzling GleamSolar BeamEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/jumpluff.png,Normal
+190,Aipom,Normal ,146,136,112,20%,9%,ScratchAstonish,Aerial AceLow SweepSwift,https://img.pokemondb.net/sprites/sword-shield/icon/aipom.png,Normal
+191,Sunkern,Grass ,102,55,55,50%,9%,Razor LeafCut,Seed BombGrass KnotEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/sunkern.png,Normal
+192,Sunflora,Grass ,181,185,135,10%,7%,Razor LeafBullet Seed,Petal BlizzardSludge BombSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/sunflora.png,Normal
+193,Yanma,Bug Flying,163,154,94,30%,10%,Wing AttackQuick Attack,Aerial AceAncient PowerSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/yanma.png,Normal
+194,Wooper,Water Ground,146,75,66,40%,10%,Mud ShotWater Gun,DigMud BombBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/wooper.png,Normal
+195,Quagsire,Water Ground,216,152,143,15%,7%,Mud ShotWater Gun,EarthquakeStone EdgeSludge BombAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/quagsire.png,Normal
+196,Espeon,Psychic ,163,261,175,12.5%,5%,Zen HeadbuttConfusion,PsybeamPsychicFuture SightLast Resort (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/espeon.png,Normal
+197,Umbreon,Dark ,216,126,240,12.5%,5%,Feint AttackSnarl,Dark PulseFoul PlayLast Resort (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/umbreon.png,Normal
+198,Murkrow,Dark Flying,155,175,87,20%,10%,PeckFeint Attack,Dark PulseDrill PeckFoul Play,https://img.pokemondb.net/sprites/sword-shield/icon/murkrow.png,Normal
+199,Slowking,Water Psychic,216,177,180,10%,5%,Water GunConfusion,BlizzardFire BlastPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/slowking.png,Normal
+200,Misdreavus,Ghost ,155,167,154,30%,7%,AstonishHex,Dark PulseShadow SneakOminous Wind,https://img.pokemondb.net/sprites/sword-shield/icon/misdreavus.png,Normal
+201,Unown,Psychic ,134,136,91,30%,10%,Hidden Power,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/unown.png,Normal
+202,Wobbuffet,Psychic ,382,60,106,25%,7%,SplashCounterCharm,Mirror CoatFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/wobbuffet.png,Normal
+203,Girafarig,Normal Psychic,172,182,133,30%,7%,TackleConfusion,ThunderboltPsychicMirror Coat,https://img.pokemondb.net/sprites/sword-shield/icon/girafarig.png,Normal
+204,Pineco,Bug ,137,108,122,40%,12%,Bug BiteTackle,Rock TombSand TombGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/pineco.png,Normal
+205,Forretress,Bug Steel,181,161,205,15%,7%,Bug BiteStruggle Bug,EarthquakeRock TombSand TombHeavy SlamMirror Shot,https://img.pokemondb.net/sprites/sword-shield/icon/forretress.png,Normal
+206,Dunsparce,Normal ,225,131,128,30%,20%,BiteAstonish,DigDrill RunRock Slide,https://img.pokemondb.net/sprites/sword-shield/icon/dunsparce.png,Normal
+207,Gligar,Ground Flying,163,143,184,20%,7%,Fury CutterWing Attack,DigAerial AceNight Slash,https://img.pokemondb.net/sprites/sword-shield/icon/gligar.png,Normal
+208,Steelix,Steel Ground,181,148,272,10%,5%,Dragon TailIron TailThunder Fang,EarthquakeHeavy SlamCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/steelix.png,Normal
+209,Snubbull,Fairy ,155,137,85,40%,10%,BiteTackle,Dazzling GleamBrick BreakCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/snubbull.png,Normal
+210,Granbull,Fairy ,207,212,131,15%,8%,BiteSnarlCharm,Play RoughClose CombatCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/granbull.png,Normal
+211,Qwilfish,Water Poison,163,184,138,30%,8%,Water GunPoison Sting,Ice BeamAqua TailSludge WaveAcid SprayFell Stinger,https://img.pokemondb.net/sprites/sword-shield/icon/qwilfish.png,Normal
+212,Scizor,Bug Steel,172,236,181,5%,5%,Fury CutterBullet Punch,Night SlashIron HeadX-ScissorFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/scizor.png,Normal
+213,Shuckle,Bug Rock,85,17,396,30%,7%,Rock ThrowStruggle Bug,Stone EdgeRock BlastGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/shuckle.png,Normal
+214,Heracross,Bug Fighting,190,234,179,30%,9%,CounterStruggle Bug,MegahornEarthquakeClose Combat,https://img.pokemondb.net/sprites/sword-shield/icon/heracross.png,Normal
+215,Sneasel,Dark Ice,146,189,146,20%,7%,Ice ShardFeint Attack,Ice PunchAvalancheFoul PlayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/sneasel.png,Normal
+216,Teddiursa,Normal ,155,142,93,50%,20%,LickScratch,Cross ChopPlay RoughCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/teddiursa.png,Normal
+217,Ursaring,Normal ,207,236,144,15%,7%,Shadow ClawMetal ClawCounter,Hyper BeamPlay RoughClose Combat,https://img.pokemondb.net/sprites/sword-shield/icon/ursaring.png,Normal
+218,Slugma,Fire ,120,118,71,30%,10%,EmberRock Throw,Rock SlideFlame ChargeFlame Burst,https://img.pokemondb.net/sprites/sword-shield/icon/slugma.png,Normal
+219,Magcargo,Fire Rock,137,139,191,12.5%,6%,EmberRock Throw,Stone EdgeHeat WaveOverheat,https://img.pokemondb.net/sprites/sword-shield/icon/magcargo.png,Normal
+220,Swinub,Ice Ground,137,90,69,30%,10%,TacklePowder Snow,Rock SlideIcy WindBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/swinub.png,Normal
+221,Piloswine,Ice Ground,225,181,138,12.5%,6%,Ice ShardPowder Snow,Stone EdgeBulldozeAvalanche,https://img.pokemondb.net/sprites/sword-shield/icon/piloswine.png,Normal
+222,Corsola,Water Rock,146,118,156,30%,12%,TackleBubble,Bubble BeamPower GemRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/corsola.png,Normal
+223,Remoraid,Water ,111,127,69,50%,10%,Mud ShotWater Gun,Water PulseAurora BeamRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/remoraid.png,Normal
+224,Octillery,Water ,181,197,141,15%,7%,Mud ShotWater Gun,Gunk ShotWater PulseAurora BeamAcid SprayOctazooka,https://img.pokemondb.net/sprites/sword-shield/icon/octillery.png,Normal
+225,Delibird,Ice Flying,128,128,90,20%,20%,Present,Ice PunchAerial AceIcy WindFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/delibird.png,Normal
+226,Mantine,Water Flying,163,148,226,30%,7%,Wing AttackBubbleBullet Seed,Ice BeamAerial AceBubble BeamWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/mantine.png,Normal
+227,Skarmory,Steel Flying,163,148,226,20%,9%,Steel WingAir Slash,Flash CannonBrave BirdSky Attack,https://img.pokemondb.net/sprites/sword-shield/icon/skarmory.png,Normal
+228,Houndour,Dark Fire,128,152,83,40%,10%,EmberFeint Attack,Dark PulseFlamethrowerCrunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/houndour.png,Normal
+229,Houndoom,Dark Fire,181,224,144,15%,6%,Fire FangSnarl,FlamethrowerFire BlastCrunchFoul PlayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/houndoom.png,Normal
+230,Kingdra,Water Dragon,181,194,194,10%,5%,Dragon BreathWaterfall,BlizzardHydro PumpOutrageOctazooka,https://img.pokemondb.net/sprites/sword-shield/icon/kingdra.png,Normal
+231,Phanpy,Ground ,207,107,98,50%,20%,TackleRock Smash,Rock SlideBulldozeBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/phanpy.png,Normal
+232,Donphan,Ground ,207,214,185,12.5%,7%,TackleMud-SlapCounterCharm,EarthquakePlay RoughHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/donphan.png,Normal
+233,Porygon2,Normal ,198,198,180,5%,5%,,Frustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/porygon2.png,Normal
+234,Stantler,Normal ,177,192,131,30%,8%,TackleZen Headbutt,MegahornStompWild ChargeFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/stantler.png,Normal
+235,Smeargle,Normal ,146,40,83,25%,7%,,,https://img.pokemondb.net/sprites/sword-shield/icon/smeargle.png,Normal
+236,Tyrogue,Fighting ,111,64,64,—,20%,TackleRock Smash,Low SweepRock SlideBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/tyrogue.png,Normal
+237,Hitmontop,Fighting ,137,173,207,10%,5%,Rock SmashCounter,Stone EdgeClose CombatGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/hitmontop.png,Normal
+238,Smoochum,Ice Psychic,128,153,91,—,20%,PoundPowder Snow,Ice PunchIce BeamPsyshock,https://img.pokemondb.net/sprites/sword-shield/icon/smoochum.png,Normal
+239,Elekid,Electric ,128,135,101,—,20%,Thunder ShockLow Kick,DischargeThunder PunchBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/elekid.png,Normal
+240,Magby,Fire ,128,151,99,—,20%,Karate ChopEmber,Flame BurstFire PunchBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/magby.png,Normal
+241,Miltank,Normal ,216,157,193,20%,8%,TackleZen Headbutt,Ice BeamThunderboltStompBody SlamGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/miltank.png,Normal
+242,Blissey,Normal ,496,129,169,5%,5%,PoundZen Headbutt,Hyper BeamDazzling GleamPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/blissey.png,Normal
+243,Raikou,Electric ,207,241,195,2%,4%,Thunder ShockVolt Switch,Shadow BallThunderThunderboltWild Charge,https://img.pokemondb.net/sprites/sword-shield/icon/raikou.png,Normal
+244,Entei,Fire ,251,235,171,2%,4%,Fire FangFire Spin,FlamethrowerIron HeadFire BlastOverheat,https://img.pokemondb.net/sprites/sword-shield/icon/entei.png,Normal
+245,Suicune,Water ,225,180,235,2%,4%,ExtrasensorySnarlIce Fang,Ice BeamBubble BeamWater PulseHydro Pump,https://img.pokemondb.net/sprites/sword-shield/icon/suicune.png,Normal
+246,Larvitar,Rock Ground,137,115,93,40%,10%,BiteRock Smash,Ancient PowerStompCrunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/larvitar.png,Normal
+247,Pupitar,Rock Ground,172,155,133,10%,7%,BiteRock Smash,DigAncient PowerCrunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/pupitar.png,Normal
+248,Tyranitar,Rock Dark,225,251,207,5%,4%,BiteIron TailSmack Down (Community Day),Stone EdgeFire BlastCrunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/tyranitar.png,Normal
+249,Lugia,Psychic Flying,235,193,310,2%,4%,Dragon TailExtrasensory,Hydro PumpSky AttackFuture Sight,https://img.pokemondb.net/sprites/sword-shield/icon/lugia.png,Normal
+250,Ho-oh,Fire Flying,214,239,244,2%,4%,Steel WingExtrasensoryHidden Power,Fire BlastSolar BeamBrave Bird,https://img.pokemondb.net/sprites/sword-shield/icon/ho-oh.png,Normal
+251,Celebi,Psychic Grass,225,210,210,100%,0%,ConfusionCharge Beam,Hyper BeamSeed BombDazzling GleamPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/celebi.png,Normal
+252,Treecko,Grass ,120,124,94,20%,10%,PoundBullet Seed,Aerial AceGrass KnotEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/treecko.png,Normal
+253,Grovyle,Grass ,137,172,120,10%,7%,Quick AttackBullet Seed,Aerial AceLeaf BladeGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/grovyle.png,Normal
+254,Sceptile,Grass ,172,223,169,5%,5%,Fury CutterBullet Seed,EarthquakeAerial AceDragon ClawLeaf BladeFrenzy Plant (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/sceptile.png,Normal
+255,Torchic,Fire ,128,130,87,20%,10%,EmberScratch,FlamethrowerRock TombFlame Charge,https://img.pokemondb.net/sprites/sword-shield/icon/torchic.png,Normal
+256,Combusken,Fire Fighting,155,163,115,10%,7%,EmberPeck,FlamethrowerRock SlideFlame Charge,https://img.pokemondb.net/sprites/sword-shield/icon/combusken.png,Normal
+257,Blaziken,Fire Fighting,190,240,141,5%,5%,CounterFire Spin,Focus BlastBrave BirdOverheatBlast Burn (Community Day)Blaze Kick,https://img.pokemondb.net/sprites/sword-shield/icon/blaziken.png,Normal
+258,Mudkip,Water ,137,126,93,20%,10%,TackleWater Gun,SludgeDigStompFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/mudkip.png,Normal
+259,Marshtomp,Water Ground,172,156,133,10%,7%,Mud ShotWater Gun,SludgeMud BombSurfFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/marshtomp.png,Normal
+260,Swampert,Water Ground,225,208,175,5%,5%,Mud ShotWater Gun,EarthquakeSludge WaveSurfHydro Cannon (Community Day)Muddy WaterFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/swampert.png,Normal
+261,Poochyena,Dark ,111,96,61,50%,20%,TackleSnarl,DigPoison FangCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/poochyena.png,Normal
+262,Mightyena,Dark ,172,171,132,20%,7%,BiteFire FangThunder FangIce Fang,Poison FangPlay RoughCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/mightyena.png,Normal
+263,Zigzagoon,Normal ,116,58,80,50%,20%,TackleRock Smash,DigThunderboltGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/zigzagoon.png,Normal
+264,Linoone,Normal ,186,142,128,20%,7%,Shadow ClawTackle,DigThunderGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/linoone.png,Normal
+265,Wurmple,Bug ,128,75,59,50%,20%,Bug BiteTackle,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/wurmple.png,Normal
+266,Silcoon,Bug ,137,60,77,25%,9%,Bug BitePoison Sting,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/silcoon.png,Normal
+267,Beautifly,Bug Flying,155,189,98,12.5%,6%,InfestationStruggle Bug,Bug BuzzAir CutterSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/beautifly.png,Normal
+268,Cascoon,Bug ,137,60,77,25%,9%,Bug BitePoison Sting,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/cascoon.png,Normal
+269,Dustox,Bug Poison,155,98,162,12.5%,6%,ConfusionStruggle Bug,Bug BuzzSludge BombSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/dustox.png,Normal
+270,Lotad,Water Grass,120,71,77,50%,20%,Razor LeafWater Gun,Bubble BeamEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/lotad.png,Normal
+271,Lombre,Water Grass,155,112,119,25%,9%,Razor LeafBubble,Ice BeamBubble BeamGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/lombre.png,Normal
+272,Ludicolo,Water Grass,190,173,176,12.5%,6%,Razor LeafBubble,Ice BeamBlizzardHydro PumpSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/ludicolo.png,Normal
+273,Seedot,Grass ,120,71,77,50%,20%,Quick AttackBullet Seed,Grass KnotEnergy BallFoul PlayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/seedot.png,Normal
+274,Nuzleaf,Grass Dark,172,134,78,25%,9%,Razor LeafFeint Attack,Leaf BladeGrass KnotFoul PlayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/nuzleaf.png,Normal
+275,Shiftry,Grass Dark,207,200,121,12.5%,6%,Razor LeafFeint AttackSnarl,Leaf BladeHurricaneFoul PlayLeaf TornadoFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/shiftry.png,Normal
+276,Taillow,Normal Flying,120,106,61,50%,20%,PeckQuick Attack,Aerial Ace,https://img.pokemondb.net/sprites/sword-shield/icon/taillow.png,Normal
+277,Swellow,Normal Flying,155,185,124,20%,7%,Wing AttackSteel Wing,Aerial AceBrave BirdSky Attack,https://img.pokemondb.net/sprites/sword-shield/icon/swellow.png,Normal
+278,Wingull,Water Flying,120,106,61,50%,20%,Quick AttackWater Gun,Ice BeamWater PulseAir Cutter,https://img.pokemondb.net/sprites/sword-shield/icon/wingull.png,Normal
+279,Pelipper,Water Flying,155,175,174,20%,7%,Wing AttackWater Gun,BlizzardHydro PumpHurricane,https://img.pokemondb.net/sprites/sword-shield/icon/pelipper.png,Normal
+280,Ralts,Psychic Fairy,99,79,59,40%,9%,ConfusionCharge Beam,PsyshockShadow SneakDisarming VoiceFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/ralts.png,Normal
+281,Kirlia,Psychic Fairy,116,117,90,10%,6%,ConfusionCharge Beam,Shadow SneakDisarming VoicePsychicFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/kirlia.png,Normal
+282,Gardevoir,Psychic Fairy,169,237,195,5%,5%,ConfusionCharge BeamCharm,Shadow BallDazzling GleamPsychicFrustration (Shadow)Return (Shadow)Synchronoise (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/gardevoir.png,Normal
+283,Surskit,Bug Water,120,93,87,50%,20%,Bug BiteBubble,Bubble BeamAqua JetSignal Beam,https://img.pokemondb.net/sprites/sword-shield/icon/surskit.png,Normal
+284,Masquerain,Bug Flying,172,192,150,20%,7%,Air SlashInfestation,Bubble BeamOminous WindAir CutterSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/masquerain.png,Normal
+285,Shroomish,Grass ,155,74,110,50%,20%,TackleBullet Seed,Seed BombGrass KnotEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/shroomish.png,Normal
+286,Breloom,Grass Fighting,155,241,144,20%,7%,CounterBullet Seed,Seed BombSludge BombDynamic Punch,https://img.pokemondb.net/sprites/sword-shield/icon/breloom.png,Normal
+287,Slakoth,Normal ,155,104,92,40%,9%,Yawn,Night SlashBrick BreakBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/slakoth.png,Normal
+288,Vigoroth,Normal ,190,159,145,10%,6%,ScratchCounter,BulldozeBrick BreakBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/vigoroth.png,Normal
+289,Slaking,Normal ,284,290,166,5%,5%,Yawn,Hyper BeamEarthquakePlay RoughBody Slam (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/slaking.png,Normal
+290,Nincada,Bug Ground,104,80,126,20%,10%,Bug BiteScratch,Aerial AceBug BuzzNight Slash,https://img.pokemondb.net/sprites/sword-shield/icon/nincada.png,Normal
+291,Ninjask,Bug Flying,156,199,112,10%,7%,Fury CutterMetal Claw,Aerial AceBug BuzzShadow Ball,https://img.pokemondb.net/sprites/sword-shield/icon/ninjask.png,Normal
+292,Shedinja,Bug Ghost,1,153,73,5%,5%,Bug BiteShadow Claw,DigAerial AceShadow Sneak,https://img.pokemondb.net/sprites/sword-shield/icon/shedinja.png,Normal
+293,Whismur,Normal ,162,92,42,50%,20%,PoundAstonish,FlamethrowerDisarming VoiceStomp,https://img.pokemondb.net/sprites/sword-shield/icon/whismur.png,Normal
+294,Loudred,Normal ,197,134,81,25%,9%,BiteRock Smash,FlamethrowerDisarming VoiceStomp,https://img.pokemondb.net/sprites/sword-shield/icon/loudred.png,Normal
+295,Exploud,Normal ,232,179,137,12.5%,6%,BiteAstonish,Disarming VoiceFire BlastCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/exploud.png,Normal
+296,Makuhita,Fighting ,176,99,54,50%,10%,TackleRock Smash,Cross ChopLow SweepHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/makuhita.png,Normal
+297,Hariyama,Fighting ,302,209,114,20%,6%,Bullet PunchCounter,Close CombatDynamic PunchHeavy SlamSuperpower,https://img.pokemondb.net/sprites/sword-shield/icon/hariyama.png,Normal
+298,Azurill,Normal Fairy,137,36,71,10%,4%,SplashBubble,Ice BeamBubble BeamBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/azurill.png,Normal
+299,Nosepass,Rock ,102,82,215,20%,9%,SparkRock Throw,Rock SlideThunderboltRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/nosepass.png,Normal
+300,Skitty,Normal ,137,84,79,50%,10%,TackleFeint Attack,DigDisarming VoiceWild Charge,https://img.pokemondb.net/sprites/sword-shield/icon/skitty.png,Normal
+301,Delcatty,Normal ,172,132,127,20%,6%,Zen HeadbuttFeint AttackCharm,Disarming VoicePlay RoughWild Charge,https://img.pokemondb.net/sprites/sword-shield/icon/delcatty.png,Normal
+302,Sableye,Dark Ghost,137,141,136,20%,7%,Shadow ClawFeint Attack,Power GemShadow SneakFoul PlayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/sableye.png,Normal
+303,Mawile,Steel Fairy,137,155,141,50%,9%,BiteFire FangAstonishIce Fang,Vise GripIron HeadPlay RoughPower-Up Punch,https://img.pokemondb.net/sprites/sword-shield/icon/mawile.png,Normal
+304,Aron,Steel Rock,137,121,141,50%,20%,TackleMetal Claw,Rock TombIron HeadBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/aron.png,Normal
+305,Lairon,Steel Rock,155,158,198,25%,9%,Metal ClawIron Tail,Rock SlideBody SlamHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/lairon.png,Normal
+306,Aggron,Steel Rock,172,198,257,12.5%,6%,Dragon TailIron TailSmack Down,Stone EdgeThunderHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/aggron.png,Normal
+307,Meditite,Fighting Psychic,102,78,107,50%,10%,ConfusionRock Smash,Ice PunchLow SweepPsyshock,https://img.pokemondb.net/sprites/sword-shield/icon/meditite.png,Normal
+308,Medicham,Fighting Psychic,155,121,152,20%,6%,Psycho CutCounter,Ice PunchPsychicDynamic PunchPower-Up Punch,https://img.pokemondb.net/sprites/sword-shield/icon/medicham.png,Normal
+309,Electrike,Electric ,120,123,78,50%,10%,SparkQuick Attack,DischargeThunderboltSwift,https://img.pokemondb.net/sprites/sword-shield/icon/electrike.png,Normal
+310,Manectric,Electric ,172,215,127,20%,6%,Charge BeamSnarl,ThunderFlame BurstWild Charge,https://img.pokemondb.net/sprites/sword-shield/icon/manectric.png,Normal
+311,Plusle,Electric ,155,167,129,30%,9%,SparkQuick Attack,DischargeThunderboltSwiftGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/plusle.png,Normal
+312,Minun,Electric ,155,147,150,30%,9%,SparkQuick Attack,DischargeThunderboltSwiftGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/minun.png,Normal
+313,Volbeat,Bug ,163,143,166,30%,9%,TackleStruggle Bug,Bug BuzzThunderboltSignal Beam,https://img.pokemondb.net/sprites/sword-shield/icon/volbeat.png,Normal
+314,Illumise,Bug ,163,143,166,30%,9%,TackleStruggle Bug,Bug BuzzDazzling GleamSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/illumise.png,Normal
+315,Roselia,Grass Poison,137,186,131,30%,9%,Razor LeafPoison Jab,Petal BlizzardDazzling GleamSludge Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/roselia.png,Normal
+316,Gulpin,Poison ,172,80,99,50%,10%,PoundRock Smash,SludgeIce BeamGunk Shot,https://img.pokemondb.net/sprites/sword-shield/icon/gulpin.png,Normal
+317,Swalot,Poison ,225,140,159,20%,6%,Rock SmashInfestation,Ice BeamSludge BombGunk ShotAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/swalot.png,Normal
+318,Carvanha,Water Dark,128,171,39,50%,10%,BiteSnarl,Poison FangAqua JetCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/carvanha.png,Normal
+319,Sharpedo,Water Dark,172,243,83,20%,6%,BiteWaterfall,Poison FangHydro PumpCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/sharpedo.png,Normal
+320,Wailmer,Water ,277,136,68,50%,10%,Water GunSplash,Water PulseBody SlamHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/wailmer.png,Normal
+321,Wailord,Water ,347,175,87,20%,6%,Water GunZen Headbutt,Hyper BeamBlizzardSurf,https://img.pokemondb.net/sprites/sword-shield/icon/wailord.png,Normal
+322,Numel,Fire Ground,155,119,79,50%,10%,EmberTackle,Heat WaveBulldozeStomp,https://img.pokemondb.net/sprites/sword-shield/icon/numel.png,Normal
+323,Camerupt,Fire Ground,172,194,136,20%,6%,EmberRock Smash,EarthquakeSolar BeamOverheatEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/camerupt.png,Normal
+324,Torkoal,Fire ,172,151,203,30%,9%,EmberFire Spin,EarthquakeSolar BeamOverheat,https://img.pokemondb.net/sprites/sword-shield/icon/torkoal.png,Normal
+325,Spoink,Psychic ,155,125,122,50%,10%,SplashZen Headbutt,PsybeamShadow BallMirror Coat,https://img.pokemondb.net/sprites/sword-shield/icon/spoink.png,Normal
+326,Grumpig,Psychic ,190,171,188,20%,6%,Charge BeamExtrasensory,Shadow BallPsychicMirror Coat,https://img.pokemondb.net/sprites/sword-shield/icon/grumpig.png,Normal
+327,Spinda,Normal ,155,116,116,30%,9%,Sucker PunchPsycho Cut,DigRock TombIcy Wind,https://img.pokemondb.net/sprites/sword-shield/icon/spinda.png,Normal
+328,Trapinch,Ground ,128,162,78,40%,9%,Mud ShotStruggle Bug,DigSand TombCrunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/trapinch.png,Normal
+329,Vibrava,Ground Dragon,137,134,99,10%,6%,Dragon BreathMud Shot,Bug BuzzBulldozeSand TombFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/vibrava.png,Normal
+330,Flygon,Ground Dragon,190,205,168,5%,5%,Mud ShotDragon Tail,EarthquakeStone EdgeDragon ClawEarth Power (Community Day)Frustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/flygon.png,Normal
+331,Cacnea,Grass ,137,156,74,50%,10%,Sucker PunchPoison Sting,Seed BombBrick BreakGrass KnotFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/cacnea.png,Normal
+332,Cacturne,Grass Dark,172,221,115,20%,6%,Sucker PunchPoison Jab,Dark PulseDynamic PunchGrass KnotFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/cacturne.png,Normal
+333,Swablu,Normal Flying,128,76,132,50%,10%,PeckAstonish,Ice BeamAerial AceDisarming Voice,https://img.pokemondb.net/sprites/sword-shield/icon/swablu.png,Normal
+334,Altaria,Dragon Flying,181,141,201,20%,6%,Dragon BreathPeck,Dragon PulseDazzling GleamSky Attack,https://img.pokemondb.net/sprites/sword-shield/icon/altaria.png,Normal
+335,Zangoose,Normal ,177,222,124,30%,9%,Fury CutterShadow Claw,DigNight SlashClose Combat,https://img.pokemondb.net/sprites/sword-shield/icon/zangoose.png,Normal
+336,Seviper,Poison ,177,196,118,30%,9%,Poison JabIron Tail,WrapPoison FangCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/seviper.png,Normal
+337,Lunatone,Rock Psychic,207,178,153,30%,9%,Rock ThrowConfusion,Rock SlideMoonblastPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/lunatone.png,Normal
+338,Solrock,Rock Psychic,207,178,153,30%,9%,Rock ThrowConfusion,Rock SlidePsychicSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/solrock.png,Normal
+339,Barboach,Water Ground,137,93,82,50%,10%,Mud ShotWater Gun,Ice BeamAqua TailMud Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/barboach.png,Normal
+340,Whiscash,Water Ground,242,151,141,20%,6%,Mud ShotWater Gun,BlizzardMud BombWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/whiscash.png,Normal
+341,Corphish,Water ,125,141,99,50%,10%,BubbleRock Smash,Vise GripBubble BeamAqua Jet,https://img.pokemondb.net/sprites/sword-shield/icon/corphish.png,Normal
+342,Crawdaunt,Water Dark,160,224,142,20%,6%,SnarlWaterfall,Vise GripNight SlashBubble BeamCrabhammer,https://img.pokemondb.net/sprites/sword-shield/icon/crawdaunt.png,Normal
+343,Baltoy,Ground Psychic,120,77,124,50%,10%,ConfusionExtrasensory,DigPsybeamGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/baltoy.png,Normal
+344,Claydol,Ground Psychic,155,140,229,20%,6%,Mud-SlapConfusionExtrasensory,EarthquakePsychicGyro BallEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/claydol.png,Normal
+345,Lileep,Rock Grass,165,105,150,50%,10%,AcidInfestation,Ancient PowerGrass KnotMirror Coat,https://img.pokemondb.net/sprites/sword-shield/icon/lileep.png,Normal
+346,Cradily,Rock Grass,200,152,194,20%,6%,AcidInfestation,Stone EdgeBulldozeGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/cradily.png,Normal
+347,Anorith,Rock Bug,128,176,100,50%,10%,ScratchStruggle Bug,Aqua JetAncient PowerCross Poison,https://img.pokemondb.net/sprites/sword-shield/icon/anorith.png,Normal
+348,Armaldo,Rock Bug,181,222,174,20%,6%,Fury CutterStruggle Bug,Cross PoisonWater PulseRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/armaldo.png,Normal
+349,Feebas,Water ,85,29,85,70%,15%,TackleSplash,Mirror Coat,https://img.pokemondb.net/sprites/sword-shield/icon/feebas.png,Normal
+350,Milotic,Water ,216,192,219,10%,7%,Dragon TailWaterfall,Hyper BeamBlizzardSurf,https://img.pokemondb.net/sprites/sword-shield/icon/milotic.png,Normal
+351,Castform,Normal ,172,139,139,30%,10%,TackleHex,HurricaneEnergy BallWeather Ball,https://img.pokemondb.net/sprites/sword-shield/icon/castform.png,Normal
+351,Castform Sunny Form,Fire ,172,139,139,30%,10%,EmberTackle,Fire BlastSolar BeamWeather Ball,https://img.pokemondb.net/s.png,Sunny
+351,Castform Rainy Form,Water ,172,139,139,30%,10%,TackleWater Gun,ThunderHydro PumpWeather Ball,https://img.pokemondb.net/s.png,Rainy
+351,Castform Snowy Form,Ice ,172,139,139,30%,10%,TacklePowder Snow,Ice BeamBlizzardWeather Ball,https://img.pokemondb.net/s.png,Snowy
+353,Shuppet,Ghost ,127,138,65,40%,10%,Feint AttackAstonish,Shadow SneakOminous WindNight ShadeFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/shuppet.png,Normal
+354,Banette,Ghost ,162,218,126,20%,7%,Shadow ClawHex,Shadow BallThunderDazzling GleamFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/banette.png,Normal
+355,Duskull,Ghost ,85,70,162,40%,10%,AstonishHex,Shadow SneakOminous WindNight ShadeFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/duskull.png,Normal
+356,Dusclops,Ghost ,120,124,234,20%,7%,Feint AttackHex,Ice PunchShadow PunchFire PunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/dusclops.png,Normal
+357,Tropius,Grass Flying,223,136,163,30%,10%,Razor LeafAir Slash,Aerial AceLeaf BladeStomp,https://img.pokemondb.net/sprites/sword-shield/icon/tropius.png,Normal
+358,Chimecho,Psychic ,181,175,170,30%,10%,AstonishExtrasensory,PsyshockShadow BallEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/chimecho.png,Normal
+359,Absol,Dark ,163,246,120,50%,10%,Psycho CutSnarl,Dark PulseMegahornThunderFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/absol.png,Normal
+360,Wynaut,Psychic ,216,41,86,30%,10%,SplashCounter,Mirror Coat,https://img.pokemondb.net/sprites/sword-shield/icon/wynaut.png,Normal
+361,Snorunt,Ice ,137,95,95,50%,10%,Powder SnowHex,Shadow BallIcy WindAvalanche,https://img.pokemondb.net/sprites/sword-shield/icon/snorunt.png,Normal
+362,Glalie,Ice ,190,162,162,20%,6%,Ice ShardFrost Breath,Shadow BallAvalancheGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/glalie.png,Normal
+363,Spheal,Ice Water,172,95,90,50%,10%,Water GunRock Smash,Water PulseBody SlamAurora Beam,https://img.pokemondb.net/sprites/sword-shield/icon/spheal.png,Normal
+364,Sealeo,Ice Water,207,137,132,25%,7%,Water GunPowder Snow,Water PulseBody SlamAurora Beam,https://img.pokemondb.net/sprites/sword-shield/icon/sealeo.png,Normal
+365,Walrein,Ice Water,242,182,176,12.5%,5%,Frost BreathWaterfall,EarthquakeBlizzardWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/walrein.png,Normal
+366,Clamperl,Water ,111,133,135,50%,10%,Water Gun,Ice BeamWater PulseBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/clamperl.png,Normal
+367,Huntail,Water ,146,197,179,20%,6%,BiteWater Gun,Ice BeamAqua TailCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/huntail.png,Normal
+368,Gorebyss,Water ,146,211,179,20%,6%,Water GunConfusion,Draining KissWater PulsePsychic,https://img.pokemondb.net/sprites/sword-shield/icon/gorebyss.png,Normal
+369,Relicanth,Water Rock,225,162,203,90%,1%,Water GunZen Headbutt,Aqua TailAncient PowerHydro Pump,https://img.pokemondb.net/sprites/sword-shield/icon/relicanth.png,Normal
+370,Luvdisc,Water ,125,81,128,30%,10%,Water GunSplash,Aqua JetDraining KissWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/luvdisc.png,Normal
+371,Bagon,Dragon ,128,134,93,40%,9%,BiteEmber,FlamethrowerTwisterCrunchFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/bagon.png,Normal
+372,Shelgon,Dragon ,163,172,155,10%,6%,Dragon BreathEmber,FlamethrowerTwisterDragon PulseFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/shelgon.png,Normal
+373,Salamence,Dragon Flying,216,277,168,5%,5%,BiteFire FangDragon Tail,Fire BlastHydro PumpOutrage (Community Day)Draco MeteorFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/salamence.png,Normal
+374,Beldum,Steel Psychic,120,96,132,40%,9%,Take Down,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/beldum.png,Normal
+375,Metang,Steel Psychic,155,138,176,10%,6%,Metal ClawZen Headbutt,PsyshockPsychicGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/metang.png,Normal
+376,Metagross,Steel Psychic,190,257,228,5%,5%,Bullet PunchZen Headbutt,EarthquakeFlash CannonPsychicMeteor Mash (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/metagross.png,Normal
+377,Regirock,Rock ,190,179,309,2%,1%,Rock ThrowRock SmashLock-On,Stone EdgeFocus BlastZap Cannon,https://img.pokemondb.net/sprites/sword-shield/icon/regirock.png,Normal
+378,Regice,Ice ,190,179,309,2%,1%,Frost BreathRock SmashLock-On,EarthquakeBlizzardFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/regice.png,Normal
+379,Registeel,Steel ,190,143,285,2%,1%,Metal ClawRock SmashLock-On,Hyper BeamFlash CannonFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/registeel.png,Normal
+380,Latias,Dragon Psychic,190,228,246,2%,1%,Dragon BreathZen HeadbuttCharm,ThunderPsychicOutrage,https://img.pokemondb.net/sprites/sword-shield/icon/latias.png,Normal
+381,Latios,Dragon Psychic,190,268,212,2%,1%,Dragon BreathZen Headbutt,Dragon ClawPsychicSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/latios.png,Normal
+382,Kyogre,Water ,205,270,228,2%,1%,Waterfall,BlizzardThunderHydro PumpSurf,https://img.pokemondb.net/sprites/sword-shield/icon/kyogre.png,Normal
+383,Groudon,Ground ,205,270,228,2%,1%,Mud ShotDragon Tail,EarthquakeFire BlastSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/groudon.png,Normal
+384,Rayquaza,Dragon Flying,213,284,170,2%,1%,Dragon TailAir Slash,Aerial AceAncient PowerOutrage,https://img.pokemondb.net/sprites/sword-shield/icon/rayquaza.png,Normal
+385,Jirachi,Steel Psychic,225,210,210,100%,0%,ConfusionCharge Beam,Dazzling GleamPsychicDoom Desire,https://img.pokemondb.net/sprites/sword-shield/icon/jirachi.png,Normal
+386,Deoxys Normal Forme,Psychic ,137,345,115,6%,1%,Zen HeadbuttCharge Beam,Hyper BeamZap CannonPsycho Boost,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-normal.png,Normal
+386,Deoxys Attack Forme,Psychic ,137,414,46,6%,1%,Poison JabZen Headbutt,Dark PulseZap CannonPsycho Boost,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-attack.png,Attack
+386,Deoxys Defense Forme,Psychic ,137,144,330,6%,1%,Zen HeadbuttCounter,Rock SlideThunderboltPsycho Boost,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-defense.png,Defense
+386,Deoxys Speed Forme,Psychic ,137,230,218,6%,1%,Zen HeadbuttCharge Beam,ThunderboltSwiftPsycho Boost,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-speed.png,Speed
+387,Turtwig,Grass ,146,119,110,20%,10%,Razor LeafTackle,Seed BombBody SlamEnergy BallFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/turtwig.png,Normal
+388,Grotle,Grass ,181,157,143,10%,7%,BiteRazor Leaf,Solar BeamBody SlamEnergy BallFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/grotle.png,Normal
+389,Torterra,Grass Ground,216,202,188,5%,5%,BiteRazor Leaf,EarthquakeStone EdgeSolar BeamSand TombFrenzy Plant (Community Day)Frustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/torterra.png,Normal
+390,Chimchar,Fire ,127,113,86,20%,10%,EmberScratch,Flame WheelFlamethrowerFlame Charge,https://img.pokemondb.net/sprites/sword-shield/icon/chimchar.png,Normal
+391,Monferno,Fire Fighting,162,158,105,10%,7%,EmberRock Smash,Flame WheelFlamethrowerLow Sweep,https://img.pokemondb.net/sprites/sword-shield/icon/monferno.png,Normal
+392,Infernape,Fire Fighting,183,222,151,5%,5%,Rock SmashFire Spin,FlamethrowerSolar BeamClose CombatBlast Burn (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/infernape.png,Normal
+393,Piplup,Water ,142,112,102,20%,10%,PoundBubble,Drill PeckBubble BeamIcy Wind,https://img.pokemondb.net/sprites/sword-shield/icon/piplup.png,Normal
+394,Prinplup,Water ,162,150,139,10%,7%,Metal ClawBubble,Bubble BeamHydro PumpIcy Wind,https://img.pokemondb.net/sprites/sword-shield/icon/prinplup.png,Normal
+395,Empoleon,Water Steel,197,210,186,5%,5%,Metal ClawWaterfall,Flash CannonBlizzardHydro PumpHydro Cannon (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/empoleon.png,Normal
+396,Starly,Normal Flying,120,101,58,50%,20%,Quick AttackTackle,Aerial AceBrave Bird,https://img.pokemondb.net/sprites/sword-shield/icon/starly.png,Normal
+397,Staravia,Normal Flying,146,142,94,25%,9%,Wing AttackQuick Attack,Heat WaveAerial AceBrave Bird,https://img.pokemondb.net/sprites/sword-shield/icon/staravia.png,Normal
+398,Staraptor,Normal Flying,198,234,140,12.5%,6%,Wing AttackQuick Attack,Heat WaveClose CombatBrave Bird,https://img.pokemondb.net/sprites/sword-shield/icon/staraptor.png,Normal
+399,Bidoof,Normal ,153,80,73,50%,20%,TackleTake Down,Hyper FangGrass KnotCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/bidoof.png,Normal
+400,Bibarel,Normal Water,188,162,119,20%,7%,Water GunTake Down,Hyper BeamHyper FangSurf,https://img.pokemondb.net/sprites/sword-shield/icon/bibarel.png,Normal
+401,Kricketot,Bug ,114,45,74,50%,20%,Bug BiteStruggle Bug,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/kricketot.png,Normal
+402,Kricketune,Bug ,184,160,100,20%,7%,Fury CutterStruggle Bug,Aerial AceBug BuzzX-Scissor,https://img.pokemondb.net/sprites/sword-shield/icon/kricketune.png,Normal
+403,Shinx,Electric ,128,117,64,50%,10%,SparkTackle,DischargeThunderboltSwift,https://img.pokemondb.net/sprites/sword-shield/icon/shinx.png,Normal
+404,Luxio,Electric ,155,159,95,25%,7%,BiteSpark,ThunderboltWild ChargeCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/luxio.png,Normal
+405,Luxray,Electric ,190,232,156,12.5%,5%,SparkSnarlHidden Power,Hyper BeamWild ChargeCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/luxray.png,Normal
+406,Budew,Grass Poison,120,91,109,10%,4%,Razor LeafHidden Power,Grass KnotEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/budew.png,Normal
+407,Roserade,Grass Poison,155,243,185,15%,7%,Razor LeafPoison Jab,Dazzling GleamSludge BombSolar BeamGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/roserade.png,Normal
+408,Cranidos,Rock ,167,218,71,50%,10%,Zen HeadbuttTake Down,Ancient PowerRock TombBulldoze,https://img.pokemondb.net/sprites/sword-shield/icon/cranidos.png,Normal
+409,Rampardos,Rock ,219,295,109,20%,6%,Zen HeadbuttSmack Down,FlamethrowerRock SlideOutrage,https://img.pokemondb.net/sprites/sword-shield/icon/rampardos.png,Normal
+410,Shieldon,Rock Steel,102,76,195,50%,10%,TackleIron Tail,Ancient PowerRock TombHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/shieldon.png,Normal
+411,Bastiodon,Rock Steel,155,94,286,20%,6%,Iron TailSmack Down,FlamethrowerStone EdgeFlash Cannon,https://img.pokemondb.net/sprites/sword-shield/icon/bastiodon.png,Normal
+412,Burmy Plant Cloak,Bug ,120,53,83,50%,20%,Bug BiteTackle,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/burmy-plant.png,Plant
+412,Burmy Sandy Cloak,Bug ,120,53,83,50%,0%,Bug BiteTackle,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/burmy-sandy.png,Sandy
+412,Burmy Trash Cloak,Bug ,120,53,83,50%,0%,Bug BiteTackle,Struggle,https://img.pokemondb.net/sprites/sword-shield/icon/burmy-trash.png,Trash
+413,Wormadam Plant Cloak,Bug Grass,155,141,180,15%,7%,Bug BiteConfusion,PsybeamBug BuzzEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-plant.png,Plant
+413,Wormadam Sandy Cloak,Bug Ground,155,141,180,15%,7%,Bug BiteConfusion,PsybeamBug BuzzBulldoze,https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-sandy.png,Sandy
+413,Wormadam Trash Cloak,Bug Steel,155,127,175,15%,7%,Bug BiteConfusion,PsybeamBug BuzzIron Head,https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-trash.png,Trash
+414,Mothim,Bug Flying,172,185,98,15%,7%,Bug BiteAir Slash,PsybeamAerial AceBug Buzz,https://img.pokemondb.net/sprites/sword-shield/icon/mothim.png,Normal
+415,Combee,Bug Flying,102,59,83,15%,7%,Bug Bite,Bug Buzz,https://img.pokemondb.net/sprites/sword-shield/icon/combee.png,Normal
+416,Vespiquen,Bug Flying,172,149,190,15%,7%,Fury CutterBug BitePoison StingAir Slash,Bug BuzzPower GemX-ScissorFell Stinger,https://img.pokemondb.net/sprites/sword-shield/icon/vespiquen.png,Normal
+417,Pachirisu,Electric ,155,94,172,30%,9%,SparkVolt Switch,Thunder PunchThunderThunderbolt,https://img.pokemondb.net/sprites/sword-shield/icon/pachirisu.png,Normal
+418,Buizel,Water ,146,132,67,50%,10%,Quick AttackWater Gun,Aqua JetWater PulseSwift,https://img.pokemondb.net/sprites/sword-shield/icon/buizel.png,Normal
+419,Floatzel,Water ,198,221,114,20%,6%,Water GunWaterfall,Aqua JetHydro PumpSwift,https://img.pokemondb.net/sprites/sword-shield/icon/floatzel.png,Normal
+420,Cherubi,Grass ,128,108,92,50%,9%,TackleBullet Seed,Petal BlizzardSeed BombDazzling Gleam,https://img.pokemondb.net/sprites/sword-shield/icon/cherubi.png,Normal
+421,Cherrim Overcast Form,Grass ,172,170,153,10%,7%,Razor LeafBullet Seed,Hyper BeamDazzling GleamSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/cherrim-overcast.png,Overcast
+421,Cherrim Sunshine Form,Grass ,172,170,153,10%,0%,Razor LeafBullet Seed,Hyper BeamDazzling GleamSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/cherrim-sunshine.png,Sunny
+422,Shellos East Sea,Water ,183,103,105,50%,10%,Mud-SlapHidden Power,Mud BombWater PulseBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/shellos-east.png,East_sea
+422,Shellos West Sea,Water ,183,103,105,50%,0%,Mud-SlapHidden Power,Mud BombWater PulseBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/shellos-west.png,West_sea
+423,Gastrodon East Sea,Water Ground,244,169,143,20%,6%,Mud-SlapHidden Power,Water PulseBody SlamEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/gastrodon-east.png,East_sea
+423,Gastrodon West Sea,Water Ground,244,169,143,20%,0%,Mud-SlapHidden Power,Water PulseBody SlamEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/gastrodon-west.png,West_sea
+424,Ambipom,Normal ,181,205,143,20%,6%,ScratchAstonish,Hyper BeamAerial AceLow Sweep,https://img.pokemondb.net/sprites/sword-shield/icon/ambipom.png,Normal
+425,Drifloon,Ghost Flying,207,117,80,40%,10%,AstonishHex,Ominous WindShadow BallIcy Wind,https://img.pokemondb.net/sprites/sword-shield/icon/drifloon.png,Normal
+426,Drifblim,Ghost Flying,312,180,102,20%,7%,AstonishHex,Ominous WindShadow BallIcy Wind,https://img.pokemondb.net/sprites/sword-shield/icon/drifblim.png,Normal
+427,Buneary,Normal ,146,130,105,50%,10%,Quick AttackPound,Fire PunchSwift,https://img.pokemondb.net/sprites/sword-shield/icon/buneary.png,Normal
+428,Lopunny,Normal ,163,156,194,20%,6%,Low KickPound,Hyper BeamFire PunchFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/lopunny.png,Normal
+429,Mismagius,Ghost ,155,211,187,10%,7%,Sucker PunchHex,Dark PulseShadow BallDazzling Gleam,https://img.pokemondb.net/sprites/sword-shield/icon/mismagius.png,Normal
+430,Honchkrow,Dark Flying,225,243,103,10%,7%,PeckSnarl,Dark PulsePsychicBrave BirdSky Attack,https://img.pokemondb.net/sprites/sword-shield/icon/honchkrow.png,Normal
+431,Glameow,Normal ,135,109,82,40%,10%,Quick AttackScratch,Aerial AceThunderboltPlay Rough,https://img.pokemondb.net/sprites/sword-shield/icon/glameow.png,Normal
+432,Purugly,Normal ,174,172,133,15%,8%,Shadow ClawScratch,Aerial AceThunderPlay Rough,https://img.pokemondb.net/sprites/sword-shield/icon/purugly.png,Normal
+433,Chingling,Psychic ,128,114,94,10%,4%,Zen HeadbuttAstonish,WrapPsyshockShadow Ball,https://img.pokemondb.net/sprites/sword-shield/icon/chingling.png,Normal
+434,Stunky,Poison Dark,160,121,90,50%,10%,BiteScratch,FlamethrowerSludge BombCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/stunky.png,Normal
+435,Skuntank,Poison Dark,230,184,132,20%,6%,BitePoison Jab,FlamethrowerSludge BombCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/skuntank.png,Normal
+436,Bronzor,Steel Psychic,149,43,154,50%,10%,TackleConfusion,PsyshockGyro BallHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/bronzor.png,Normal
+437,Bronzong,Steel Psychic,167,161,213,20%,6%,ConfusionFeint Attack,Flash CannonPsyshockBulldozePsychicHeavy Slam,https://img.pokemondb.net/sprites/sword-shield/icon/bronzong.png,Normal
+438,Bonsly,Rock ,137,124,133,10%,4%,Rock ThrowCounter,EarthquakeRock TombRock Slide,https://img.pokemondb.net/sprites/sword-shield/icon/bonsly.png,Normal
+439,Mime Jr.,Psychic Fairy,85,125,142,10%,4%,PoundConfusion,PsybeamPsyshockPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/mime-jr.png,Normal
+440,Happiny,Normal ,225,25,77,10%,4%,PoundZen Headbutt,Psychic,https://img.pokemondb.net/sprites/sword-shield/icon/happiny.png,Normal
+441,Chatot,Normal Flying,183,183,91,30%,9%,PeckSteel Wing,Heat WaveSky AttackNight Shade,https://img.pokemondb.net/sprites/sword-shield/icon/chatot.png,Normal
+442,Spiritomb,Ghost Dark,137,169,199,10%,4%,Sucker PunchFeint Attack,Shadow SneakOminous WindShadow Ball,https://img.pokemondb.net/sprites/sword-shield/icon/spiritomb.png,Normal
+443,Gible,Dragon Ground,151,124,84,40%,9%,Mud ShotTake Down,DigTwisterBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/gible.png,Normal
+444,Gabite,Dragon Ground,169,172,125,10%,6%,Mud ShotTake Down,FlamethrowerDigTwister,https://img.pokemondb.net/sprites/sword-shield/icon/gabite.png,Normal
+445,Garchomp,Dragon Ground,239,261,193,5%,5%,Mud ShotDragon Tail,EarthquakeFire BlastSand TombOutrage,https://img.pokemondb.net/sprites/sword-shield/icon/garchomp.png,Normal
+446,Munchlax,Normal ,286,137,117,10%,4%,LickTackle,Gunk ShotBulldozeBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/munchlax.png,Normal
+447,Riolu,Fighting ,120,127,78,—,20%,Quick AttackCounter,Cross ChopLow SweepBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/riolu.png,Normal
+448,Lucario,Fighting Steel,172,236,144,10%,5%,Bullet PunchCounter,Flash CannonShadow BallClose CombatPower-Up PunchAura Sphere,https://img.pokemondb.net/sprites/sword-shield/icon/lucario.png,Normal
+449,Hippopotas,Ground ,169,124,118,40%,10%,BiteTackle,DigRock TombBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/hippopotas.png,Normal
+450,Hippowdon,Ground ,239,201,191,15%,8%,BiteFire FangThunder FangIce Fang,EarthquakeStone EdgeBody SlamEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/hippowdon.png,Normal
+451,Skorupi,Poison Bug,120,93,151,40%,10%,Poison StingInfestation,Aqua TailCross PoisonSludge Bomb,https://img.pokemondb.net/sprites/sword-shield/icon/skorupi.png,Normal
+452,Drapion,Poison Dark,172,180,202,15%,8%,BitePoison StingInfestationIce Fang,Aqua TailSludge BombCrunchFell Stinger,https://img.pokemondb.net/sprites/sword-shield/icon/drapion.png,Normal
+453,Croagunk,Poison Fighting,134,116,76,40%,12%,Poison JabPoison Sting,Low SweepSludge BombBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/croagunk.png,Normal
+454,Toxicroak,Poison Fighting,195,211,133,15%,7%,Poison JabCounter,Sludge BombMud BombDynamic Punch,https://img.pokemondb.net/sprites/sword-shield/icon/toxicroak.png,Normal
+455,Carnivine,Grass ,179,187,136,90%,1%,BiteVine Whip,Power WhipEnergy BallCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/carnivine.png,Normal
+456,Finneon,Water ,135,96,116,50%,10%,PoundWater Gun,Ice BeamWater PulseSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/finneon.png,Normal
+457,Lumineon,Water ,170,142,170,20%,6%,Water GunWaterfall,BlizzardWater PulseSilver Wind,https://img.pokemondb.net/sprites/sword-shield/icon/lumineon.png,Normal
+458,Mantyke,Water Flying,128,105,179,10%,4%,TackleBubble,Ice BeamAerial AceWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/mantyke.png,Normal
+459,Snover,Grass Ice,155,115,105,30%,10%,Ice ShardPowder Snow,Ice BeamStompEnergy BallFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/snover.png,Normal
+460,Abomasnow,Grass Ice,207,178,158,12.5%,6%,Razor LeafPowder Snow,BlizzardEnergy BallOutrageFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/abomasnow.png,Normal
+461,Weavile,Dark Ice,172,243,171,15%,9%,Ice ShardFeint AttackSnarl,Focus BlastAvalancheFoul PlayFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/weavile.png,Normal
+462,Magnezone,Electric Steel,172,238,205,12.5%,5%,SparkCharge Beam,Flash CannonWild ChargeZap CannonMirror ShotFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/magnezone.png,Normal
+463,Lickilicky,Normal ,242,161,181,15%,9%,LickZen Headbutt,Hyper BeamEarthquakeShadow BallSolar BeamBody Slam (legacy),https://img.pokemondb.net/sprites/sword-shield/icon/lickilicky.png,Normal
+464,Rhyperior,Ground Rock,251,241,190,5%,5%,Mud-SlapSmack Down,EarthquakeStone EdgeSurfSkull BashSuperpower,https://img.pokemondb.net/sprites/sword-shield/icon/rhyperior.png,Normal
+465,Tangrowth,Grass ,225,207,184,15%,10%,Vine WhipInfestation,Ancient PowerSludge BombSolar BeamPower Whip,https://img.pokemondb.net/sprites/sword-shield/icon/tangrowth.png,Normal
+466,Electivire,Electric ,181,249,163,15%,10%,Thunder ShockLow Kick,Ice PunchThunder PunchThunderWild ChargeFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/electivire.png,Normal
+467,Magmortar,Fire ,181,247,172,15%,10%,Karate ChopFire Spin,Fire BlastPsychicFire PunchBrick BreakFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/magmortar.png,Normal
+468,Togekiss,Fairy Flying,198,225,217,1%,5%,Air SlashHidden PowerCharm,FlamethrowerAerial AceAncient PowerDazzling Gleam,https://img.pokemondb.net/sprites/sword-shield/icon/togekiss.png,Normal
+469,Yanmega,Bug Flying,200,231,156,17.5%,5%,Bug BiteWing Attack,Aerial AceBug BuzzAncient Power,https://img.pokemondb.net/sprites/sword-shield/icon/yanmega.png,Normal
+470,Leafeon,Grass ,163,216,219,12.5%,6%,Razor LeafQuick Attack,Solar BeamLeaf BladeEnergy BallLast Resort (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/leafeon.png,Normal
+471,Glaceon,Ice ,163,238,205,12.5%,6%,Ice ShardFrost Breath,Ice BeamIcy WindAvalancheLast Resort (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/glaceon.png,Normal
+472,Gliscor,Ground Flying,181,185,222,12.5%,9%,Fury CutterWing Attack,EarthquakeAerial AceNight SlashSand Tomb,https://img.pokemondb.net/sprites/sword-shield/icon/gliscor.png,Normal
+473,Mamoswine,Ice Ground,242,247,146,5%,5%,Mud-SlapPowder Snow,Stone EdgeAncient Power (Community Day)BulldozeAvalanche,https://img.pokemondb.net/sprites/sword-shield/icon/mamoswine.png,Normal
+474,Porygon-Z,Normal ,198,264,150,5%,5%,Charge BeamHidden PowerLock-On,Hyper BeamBlizzardSolar BeamZap CannonFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/porygon-z.png,Normal
+475,Gallade,Psychic Fighting,169,237,195,50%,5%,Low KickConfusionCharm,PsychicLeaf BladeClose CombatFrustration (Shadow)Return (Shadow)Synchronoise (Community Day),https://img.pokemondb.net/sprites/sword-shield/icon/gallade.png,Normal
+476,Probopass,Rock Steel,155,135,275,10%,7%,SparkRock Throw,Rock SlideMagnet BombThunderbolt,https://img.pokemondb.net/sprites/sword-shield/icon/probopass.png,Normal
+477,Dusknoir,Ghost ,128,180,254,10%,5%,AstonishHex,Dark PulseOminous WindPsychicFrustration (Shadow)Return (Shadow),https://img.pokemondb.net/sprites/sword-shield/icon/dusknoir.png,Normal
+478,Froslass,Ice Ghost,172,171,150,20%,7%,Powder SnowHex,Shadow BallAvalancheCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/froslass.png,Normal
+480,Uxie,Psychic ,181,156,270,2%,0%,ConfusionExtrasensory,ThunderSwiftFuture Sight,https://img.pokemondb.net/sprites/sword-shield/icon/uxie.png,Normal
+481,Mesprit,Psychic ,190,212,212,2%,0%,ConfusionExtrasensory,BlizzardSwiftFuture Sight,https://img.pokemondb.net/sprites/sword-shield/icon/mesprit.png,Normal
+482,Azelf,Psychic ,181,270,151,2%,0%,ConfusionExtrasensory,Fire BlastSwiftFuture Sight,https://img.pokemondb.net/sprites/sword-shield/icon/azelf.png,Normal
+483,Dialga,Steel Dragon,205,275,211,2%,4%,Dragon BreathMetal Claw,Iron HeadThunderDraco Meteor,https://img.pokemondb.net/sprites/sword-shield/icon/dialga.png,Normal
+484,Palkia,Water Dragon,189,280,215,2%,4%,Dragon BreathDragon Tail,Fire BlastHydro PumpDraco Meteor,https://img.pokemondb.net/sprites/sword-shield/icon/palkia.png,Normal
+485,Heatran,Fire Steel,209,251,213,2%,4%,Bug BiteFire Spin,FlamethrowerStone EdgeIron HeadFire Blast,https://img.pokemondb.net/sprites/sword-shield/icon/heatran.png,Normal
+486,Regigigas,Normal ,221,287,210,6%,4%,Zen HeadbuttHidden Power,ThunderFocus BlastGiga Impact,https://img.pokemondb.net/sprites/sword-shield/icon/regigigas.png,Normal
+487,Giratina Altered Forme,Ghost Dragon,284,187,225,2%,4%,Dragon BreathShadow Claw,Ancient PowerShadow SneakDragon Claw,https://img.pokemondb.net/sprites/sword-shield/icon/giratina-altered.png,Altered
+487,Giratina Origin Forme,Ghost Dragon,284,225,187,2%,4%,Shadow ClawDragon Tail,Ominous WindShadow BallDragon Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/giratina-origin.png,Origin
+488,Cresselia,Psychic ,260,152,258,2%,4%,Psycho CutConfusion,MoonblastAurora BeamFuture Sight,https://img.pokemondb.net/sprites/sword-shield/icon/cresselia.png,Normal
+491,Darkrai,Dark ,172,285,198,2%,0%,Feint AttackSnarl,Dark PulseShadow BallFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/darkrai.png,Normal
+495,Snivy,Grass ,128,88,107,20%,10%,Vine WhipTackle,WrapSeed BombEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/snivy.png,Normal
+496,Servine,Grass ,155,122,152,10%,10%,Vine WhipIron Tail,WrapGrass KnotLeaf Tornado,https://img.pokemondb.net/sprites/sword-shield/icon/servine.png,Normal
+497,Serperior,Grass ,181,161,204,5%,5%,Vine WhipIron Tail,Aerial AceGrass KnotLeaf Tornado,https://img.pokemondb.net/sprites/sword-shield/icon/serperior.png,Normal
+498,Tepig,Fire ,163,115,85,20%,10%,EmberTackle,FlamethrowerFlame ChargeBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/tepig.png,Normal
+499,Pignite,Fire Fighting,207,173,106,10%,7%,EmberTackle,FlamethrowerRock TombFlame Charge,https://img.pokemondb.net/sprites/sword-shield/icon/pignite.png,Normal
+500,Emboar,Fire Fighting,242,235,127,5%,5%,Low KickEmber,Heat WaveRock SlideFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/emboar.png,Normal
+501,Oshawott,Water ,146,117,85,20%,10%,TackleWater Gun,Night SlashAqua TailWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/oshawott.png,Normal
+502,Dewott,Water ,181,159,116,10%,7%,Fury CutterWater Gun,Aqua TailX-ScissorWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/dewott.png,Normal
+503,Samurott,Water ,216,212,157,5%,5%,Fury CutterWaterfall,MegahornBlizzardHydro Pump,https://img.pokemondb.net/sprites/sword-shield/icon/samurott.png,Normal
+504,Patrat,Normal ,128,98,73,50%,20%,BiteTackle,DigHyper FangGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/patrat.png,Normal
+505,Watchog,Normal ,155,165,139,20%,7%,BiteLow Kick,Hyper FangGrass KnotCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/watchog.png,Normal
+506,Lillipup,Normal ,128,107,86,50%,20%,TackleTake Down,DigRock TombThunderbolt,https://img.pokemondb.net/sprites/sword-shield/icon/lillipup.png,Normal
+507,Herdier,Normal ,163,145,126,25%,9%,LickTake Down,DigThunderboltPlay Rough,https://img.pokemondb.net/sprites/sword-shield/icon/herdier.png,Normal
+508,Stoutland,Normal ,198,206,182,12.5%,5%,LickTake DownIce Fang,Play RoughWild ChargeCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/stoutland.png,Normal
+509,Purrloin,Dark ,121,98,73,50%,20%,Sucker PunchScratch,Dark PulseNight SlashPlay Rough,https://img.pokemondb.net/sprites/sword-shield/icon/purrloin.png,Normal
+510,Liepard,Dark ,162,187,106,20%,7%,SnarlCharm,Dark PulsePlay RoughGunk Shot,https://img.pokemondb.net/sprites/sword-shield/icon/liepard.png,Normal
+511,Pansage,Grass ,137,104,94,50%,20%,Vine WhipScratch,Seed BombEnergy BallCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/pansage.png,Normal
+512,Simisage,Grass ,181,206,133,50%,20%,BiteVine Whip,Solar BeamGrass KnotCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/simisage.png,Normal
+513,Pansear,Fire ,137,104,94,20%,7%,ScratchFire Spin,Flame ChargeFlame BurstCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/pansear.png,Normal
+514,Simisear,Fire ,181,206,133,50%,20%,BiteFire Spin,FlamethrowerFire BlastCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/simisear.png,Normal
+515,Panpour,Water ,137,104,94,50%,20%,ScratchWater Gun,Water PulseCrunchSurf,https://img.pokemondb.net/sprites/sword-shield/icon/panpour.png,Normal
+516,Simipour,Water ,181,206,133,20%,7%,BiteWater Gun,Hydro PumpCrunchSurf,https://img.pokemondb.net/sprites/sword-shield/icon/simipour.png,Normal
+519,Pidove,Normal Flying,137,98,80,50%,20%,Quick AttackAir Slash,Heat WaveAerial AceAir Cutter,https://img.pokemondb.net/sprites/sword-shield/icon/pidove.png,Normal
+520,Tranquill,Normal Flying,158,144,107,25%,9%,Steel WingAir Slash,Heat WaveAerial AceSky Attack,https://img.pokemondb.net/sprites/sword-shield/icon/tranquill.png,Normal
+521,Unfezant,Normal Flying,190,226,146,12.5%,5%,Steel WingAir Slash,Hyper BeamHeat WaveSky Attack,https://img.pokemondb.net/sprites/sword-shield/icon/unfezant.png,Normal
+522,Blitzle,Electric ,128,118,64,30%,10%,SparkQuick Attack,DischargeThunderboltFlame Charge,https://img.pokemondb.net/sprites/sword-shield/icon/blitzle.png,Normal
+523,Zebstrika,Electric ,181,211,136,10%,7%,SparkLow Kick,DischargeFlame ChargeWild Charge,https://img.pokemondb.net/sprites/sword-shield/icon/zebstrika.png,Normal
+524,Roggenrola,Rock ,146,121,110,50%,15%,TackleSmack Down,Stone EdgeBulldozeRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/roggenrola.png,Normal
+525,Boldore,Rock ,172,174,143,25%,7%,Mud-SlapSmack Down,Stone EdgeRock SlideBulldoze,https://img.pokemondb.net/sprites/sword-shield/icon/boldore.png,Normal
+526,Gigalith,Rock ,198,226,201,12.5%,5%,Mud-SlapSmack Down,Rock SlideSolar BeamHeavy SlamSuperpower,https://img.pokemondb.net/sprites/sword-shield/icon/gigalith.png,Normal
+527,Woobat,Psychic Flying,163,107,85,50%,20%,ConfusionAir Slash,Aerial AcePsyshockAir Cutter,https://img.pokemondb.net/sprites/sword-shield/icon/woobat.png,Normal
+528,Swoobat,Psychic Flying,167,161,119,20%,7%,ConfusionAir Slash,Aerial AcePsychicFuture Sight,https://img.pokemondb.net/sprites/sword-shield/icon/swoobat.png,Normal
+529,Drilbur,Ground ,155,154,85,50%,20%,ScratchMud-Slap,DigDrill RunRock Tomb,https://img.pokemondb.net/sprites/sword-shield/icon/drilbur.png,Normal
+530,Excadrill,Ground Steel,242,255,129,20%,7%,Metal ClawMud-Slap,EarthquakeDrill RunRock SlideIron Head,https://img.pokemondb.net/sprites/sword-shield/icon/excadrill.png,Normal
+531,Audino,Normal ,230,114,163,5%,5%,PoundZen Headbutt,Hyper BeamDisarming VoiceDazzling Gleam,https://img.pokemondb.net/sprites/sword-shield/icon/audino.png,Normal
+532,Timburr,Fighting ,181,134,87,50%,15%,Low KickPound,Low SweepRock TombBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/timburr.png,Normal
+533,Gurdurr,Fighting ,198,180,134,25%,7%,Low KickPoison Jab,Stone EdgeLow SweepBrick Break,https://img.pokemondb.net/sprites/sword-shield/icon/gurdurr.png,Normal
+534,Conkeldurr,Fighting ,233,243,158,12.5%,5%,Poison JabCounter,Stone EdgeDynamic PunchFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/conkeldurr.png,Normal
+535,Tympole,Water ,137,98,78,50%,15%,Mud ShotBubble,Sludge WaveMud BombWater Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/tympole.png,Normal
+536,Palpitoad,Water Ground,181,128,109,25%,7%,Mud ShotBubble,Sludge WaveWater PulseEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/palpitoad.png,Normal
+537,Seismitoad,Water Ground,233,188,150,12.5%,5%,Mud ShotBubble,Sludge BombEarth PowerMuddy Water,https://img.pokemondb.net/sprites/sword-shield/icon/seismitoad.png,Normal
+538,Throh,Fighting ,260,172,160,20%,7%,Low KickZen Headbutt,Low SweepBody SlamFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/throh.png,Normal
+539,Sawk,Fighting ,181,231,153,20%,7%,Low KickPoison Jab,Low SweepBody SlamFocus Blast,https://img.pokemondb.net/sprites/sword-shield/icon/sawk.png,Normal
+543,Venipede,Bug Poison,102,83,99,30%,10%,Bug BitePoison Sting,Sludge BombSignal BeamGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/venipede.png,Normal
+544,Whirlipede,Bug Poison,120,100,173,15%,5%,Bug BitePoison Sting,Sludge BombSignal BeamGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/whirlipede.png,Normal
+545,Scolipede,Bug Poison,155,203,175,20%,7%,Bug BitePoison Jab,MegahornSludge BombX-ScissorGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/scolipede.png,Normal
+550,Basculin Red-Striped Form,Water ,172,189,129,20%,7%,TackleWater Gun,Aqua JetAqua TailMuddy Water,https://img.pokemondb.net/sprites/sword-shield/icon/basculin-red-striped.png,Red_striped
+550,Basculin Blue-Striped Form,Water ,172,189,129,20%,7%,TackleWater Gun,Aqua JetAqua TailMuddy Water,https://img.pokemondb.net/sprites/sword-shield/icon/basculin-blue-striped.png,Blue_striped
+554,Darumaka,Fire ,172,153,86,30%,9%,TackleFire Fang,Flame ChargeFire Punch,https://img.pokemondb.net/sprites/sword-shield/icon/darumaka.png,Normal
+555,Darmanitan Standard Mode,Fire ,233,263,114,10%,7%,TackleFire Fang,Rock SlidePsychicFocus BlastOverheat,https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-standard.png,Standard
+556,Maractus,Grass ,181,201,130,20%,7%,Poison JabBullet Seed,Aerial AcePetal BlizzardSolar Beam,https://img.pokemondb.net/sprites/sword-shield/icon/maractus.png,Normal
+557,Dwebble,Bug Rock,137,118,128,30%,10%,CutSmack Down,Rock TombX-ScissorRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/dwebble.png,Normal
+558,Crustle,Bug Rock,172,188,200,10%,7%,Fury CutterSmack Down,Rock SlideX-ScissorRock Blast,https://img.pokemondb.net/sprites/sword-shield/icon/crustle.png,Normal
+559,Scraggy,Dark Fighting,137,132,132,30%,9%,Feint AttackRock Smash,Brick BreakFoul PlayAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/scraggy.png,Normal
+560,Scrafty,Dark Fighting,163,163,222,10%,7%,CounterSnarl,Foul PlayAcid SprayPower-Up Punch,https://img.pokemondb.net/sprites/sword-shield/icon/scrafty.png,Normal
+561,Sigilyph,Psychic Flying,176,204,167,20%,7%,Zen HeadbuttAir Slash,PsybeamAncient PowerSignal BeamAir Cutter,https://img.pokemondb.net/sprites/sword-shield/icon/sigilyph.png,Normal
+562,Yamask,Ghost ,116,95,141,30%,10%,Zen HeadbuttAstonish,Dark PulseOminous WindShadow Ball,https://img.pokemondb.net/sprites/sword-shield/icon/yamask.png,Normal
+563,Cofagrigus,Ghost ,151,163,237,10%,7%,Zen HeadbuttAstonish,Dark PulseShadow BallPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/cofagrigus.png,Normal
+564,Tirtouga,Water Rock,144,134,146,30%,10%,BiteWater Gun,Ancient PowerBody SlamSurf,https://img.pokemondb.net/sprites/sword-shield/icon/tirtouga.png,Normal
+565,Carracosta,Water Rock,179,192,197,10%,7%,Rock ThrowWater Gun,Ancient PowerBody SlamSurf,https://img.pokemondb.net/sprites/sword-shield/icon/carracosta.png,Normal
+566,Archen,Rock Flying,146,213,89,30%,9%,Wing AttackQuick Attack,Ancient PowerDragon ClawCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/archen.png,Normal
+567,Archeops,Rock Flying,181,292,139,10%,7%,Wing AttackSteel Wing,Ancient PowerDragon ClawCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/archeops.png,Normal
+568,Trubbish,Poison ,137,96,122,30%,9%,PoundTake Down,Seed BombGunk Shot,https://img.pokemondb.net/sprites/sword-shield/icon/trubbish.png,Normal
+569,Garbodor,Poison ,190,181,164,10%,7%,InfestationTake Down,Seed BombGunk ShotBody SlamAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/garbodor.png,Normal
+572,Minccino,Normal ,146,98,80,30%,10%,PoundCharm,Aqua TailThunderboltSwift,https://img.pokemondb.net/sprites/sword-shield/icon/minccino.png,Normal
+573,Cinccino,Normal ,181,198,130,10%,7%,PoundCharm,Hyper BeamAqua TailThunderbolt,https://img.pokemondb.net/sprites/sword-shield/icon/cinccino.png,Normal
+588,Karrablast,Bug ,137,137,87,30%,10%,Fury CutterPeck,Aerial AceDrill RunSignal BeamX-Scissor,https://img.pokemondb.net/sprites/sword-shield/icon/karrablast.png,Normal
+589,Escavalier,Bug Steel,172,223,187,12.5%,5%,Bug BiteCounter,MegahornAerial AceDrill RunAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/escavalier.png,Normal
+590,Foongus,Grass Poison,170,97,91,30%,10%,Feint AttackAstonish,Body SlamGrass KnotEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/foongus.png,Normal
+591,Amoonguss,Grass Poison,249,155,139,12.5%,5%,Feint AttackAstonish,Sludge BombGrass KnotFoul Play,https://img.pokemondb.net/sprites/sword-shield/icon/amoonguss.png,Normal
+594,Alomomola,Water ,338,138,131,20%,7%,Hidden PowerWaterfall,BlizzardHydro PumpPsychic,https://img.pokemondb.net/sprites/sword-shield/icon/alomomola.png,Normal
+595,Joltik,Bug Electric,137,110,98,30%,10%,Sucker PunchCharge Beam,DischargeBug BuzzCross Poison,https://img.pokemondb.net/sprites/sword-shield/icon/joltik.png,Normal
+596,Galvantula,Bug Electric,172,201,128,12.5%,5%,Fury CutterVolt Switch,DischargeBug BuzzCross PoisonEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/galvantula.png,Normal
+597,Ferroseed,Grass Steel,127,82,155,30%,9%,TackleMetal Claw,Flash CannonIron HeadGyro Ball,https://img.pokemondb.net/sprites/sword-shield/icon/ferroseed.png,Normal
+598,Ferrothorn,Grass Steel,179,158,223,12.5%,5%,Metal ClawBullet Seed,Flash CannonThunderPower WhipAcid SprayMirror Shot,https://img.pokemondb.net/sprites/sword-shield/icon/ferrothorn.png,Normal
+599,Klink,Steel ,120,98,121,40%,10%,Charge BeamVolt Switch,Vise GripDischargeZap Cannon,https://img.pokemondb.net/sprites/sword-shield/icon/klink.png,Normal
+600,Klang,Steel ,155,150,174,10%,7%,Thunder ShockCharge Beam,Vise GripThunderboltZap Cannon,https://img.pokemondb.net/sprites/sword-shield/icon/klang.png,Normal
+601,Klinklang,Steel ,155,199,214,5%,5%,Thunder ShockCharge Beam,Hyper BeamFlash CannonZap CannonMirror Shot,https://img.pokemondb.net/sprites/sword-shield/icon/klinklang.png,Normal
+607,Litwick,Ghost Fire,137,108,98,40%,9%,EmberAstonish,Heat WaveFlame ChargeFlame Burst,https://img.pokemondb.net/sprites/sword-shield/icon/litwick.png,Normal
+608,Lampent,Ghost Fire,155,169,115,10%,7%,EmberAstonish,Heat WaveFlame BurstEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/lampent.png,Normal
+609,Chandelure,Ghost Fire,155,271,182,5%,5%,HexFire Spin,Shadow BallOverheatEnergy Ball,https://img.pokemondb.net/sprites/sword-shield/icon/chandelure.png,Normal
+610,Axew,Dragon ,130,154,101,40%,9%,ScratchIron Tail,Aqua TailDragon PulseDragon Claw,https://img.pokemondb.net/sprites/sword-shield/icon/axew.png,Normal
+611,Fraxure,Dragon ,165,212,123,10%,7%,Dragon TailIron Tail,Night SlashAqua TailDragon Claw,https://img.pokemondb.net/sprites/sword-shield/icon/fraxure.png,Normal
+612,Haxorus,Dragon ,183,284,172,5%,5%,CounterDragon Tail,EarthquakeNight SlashDragon ClawSurf,https://img.pokemondb.net/sprites/sword-shield/icon/haxorus.png,Normal
+613,Cubchoo,Ice ,146,128,74,30%,10%,Powder SnowCharm,Ice PunchPlay RoughIcy Wind,https://img.pokemondb.net/sprites/sword-shield/icon/cubchoo.png,Normal
+614,Beartic,Ice ,216,233,152,15%,5%,Powder SnowCharm,Ice PunchPlay RoughSurf,https://img.pokemondb.net/sprites/sword-shield/icon/beartic.png,Normal
+615,Cryogonal,Ice ,190,190,218,20%,7%,Ice ShardFrost Breath,Night SlashWater PulseSolar BeamAurora Beam,https://img.pokemondb.net/sprites/sword-shield/icon/cryogonal.png,Normal
+616,Shelmet,Bug ,137,72,140,30%,10%,AcidInfestation,Bug BuzzSignal BeamBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/shelmet.png,Normal
+617,Accelgor,Bug ,190,220,120,15%,5%,AcidInfestation,Bug BuzzSignal BeamFocus BlastAcid Spray,https://img.pokemondb.net/sprites/sword-shield/icon/accelgor.png,Normal
+622,Golett,Ground Ghost,153,127,92,30%,10%,Mud-SlapAstonish,Shadow PunchBrick BreakNight Shade,https://img.pokemondb.net/sprites/sword-shield/icon/golett.png,Normal
+623,Golurk,Ground Ghost,205,222,154,15%,5%,Mud-SlapAstonish,Shadow PunchDynamic PunchEarth Power,https://img.pokemondb.net/sprites/sword-shield/icon/golurk.png,Normal
+631,Heatmor,Fire ,198,204,129,20%,7%,LickFire Spin,FlamethrowerThunder PunchPower-Up Punch,https://img.pokemondb.net/sprites/sword-shield/icon/heatmor.png,Normal
+632,Durant,Bug Steel,151,217,188,20%,7%,Bug BiteMetal Claw,Stone EdgeIron HeadX-Scissor,https://img.pokemondb.net/sprites/sword-shield/icon/durant.png,Normal
+633,Deino,Dark Dragon,141,116,93,40%,9%,Dragon BreathTackle,Dragon PulseBody SlamCrunch,https://img.pokemondb.net/sprites/sword-shield/icon/deino.png,Normal
+634,Zweilous,Dark Dragon,176,159,135,10%,7%,BiteDragon Breath,Dark PulseDragon PulseBody Slam,https://img.pokemondb.net/sprites/sword-shield/icon/zweilous.png,Normal
+635,Hydreigon,Dark Dragon,211,256,188,5%,5%,BiteDragon Breath,Dark PulseFlash CannonDragon Pulse,https://img.pokemondb.net/sprites/sword-shield/icon/hydreigon.png,Normal
+638,Cobalion,Steel Fighting,209,192,229,2%,1%,Metal ClawZen Headbutt,Stone EdgeIron HeadClose Combat,https://img.pokemondb.net/sprites/sword-shield/icon/cobalion.png,Normal
+639,Terrakion,Rock Fighting,209,260,192,2%,1%,Zen HeadbuttSmack Down,EarthquakeRock SlideClose Combat,https://img.pokemondb.net/sprites/sword-shield/icon/terrakion.png,Normal
+640,Virizion,Grass Fighting,209,192,229,2%,1%,Quick AttackZen Headbutt,Stone EdgeLeaf BladeClose Combat,https://img.pokemondb.net/sprites/sword-shield/icon/virizion.png,Normal
+641,Tornadus Incarnate Forme,Flying ,188,266,164,2%,1%,BiteAir Slash,Hyper BeamDark PulseHurricaneGrass Knot,https://img.pokemondb.net/sprites/sword-shield/icon/tornadus-incarnate.png,Incarnate
+808,Meltan,Steel ,130,118,99,30%,0%,Thunder Shock,Flash CannonThunderbolt,https://img.pokemondb.net/sprites/sword-shield/icon/meltan.png,Normal
+809,Melmetal,Steel ,264,226,190,30%,0%,Thunder Shock,Hyper BeamFlash CannonRock SlideThunderboltSuperpower,https://img.pokemondb.net/sprites/sword-shield/icon/melmetal.png,Normal
