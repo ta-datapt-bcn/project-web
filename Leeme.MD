@@ -53,4 +53,6 @@ Please refer to the Jupyter Notebook, which is explained in [here](https://githu
 
 ## Results
 
+![GitHub Logo](/images/logo.png)
+
 
