@@ -21,6 +21,8 @@ Gabriela Pardo de Andrade Aljure
 
 For my project I have selected de Star Wars API: SWAPI (swapi.co/api/). 
 
+The objective of this project is to create a data set of all the Star Wars Episodes with the Titles of the movie and the Characters, Planets, Starships, Vehicles, Species, Movies poster and hyperlinks to the official website for each episode.
+
 Issues encountered:
 
 -Main Api is made up of SubApis.
@@ -31,7 +33,7 @@ Issues encountered:
 
     1) To introduce the images in the DF It turned into: IPython.core.display.HTML which did not let me becaus: HTML' object has no attribute 'style' and to make the link clickable I was using: .style.format
     
-    2) I could make a link clickable but when I turned it into an HTML object it would lose format.
+    2) I could make a link clickable but when I turned it into an HTML object it would lose the clickable format.
 
 
 
@@ -45,7 +47,7 @@ Issues encountered:
 
 ## Workflow
 
-
+Please refer to the Jupyter Notebook, which is explained to detail
 
 
 <a name="results"></a>
