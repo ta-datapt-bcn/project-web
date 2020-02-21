@@ -10,7 +10,6 @@ Gabriela Pardo de Andrade Aljure
 
 ## Content
 - [Project Description](#project)
-- [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Results](#results)
 
@@ -20,6 +19,8 @@ Gabriela Pardo de Andrade Aljure
 
 
 For my project I have selected de Star Wars API: SWAPI (swapi.co/api/). 
+
+![DataFrame 1](/img/./main_api.jpg)
 
 The objective of this project is to create a data set of all the Star Wars Episodes with the Titles of the movie and the Characters, Planets, Starships, Vehicles, Species, Movies poster and hyperlinks to the official website for each episode.
 
@@ -38,13 +39,6 @@ Issues encountered:
     2) I could make a link clickable but when I turned it into an HTML object it would lose the clickable format.
 
 
-
-<a name="dataset"></a>
-
-## Dataset
-
-
-
 <a name="workflow"></a>
 
 ## Workflow
@@ -56,4 +50,5 @@ Please refer to the Jupyter Notebook, which is explained in [here](https://githu
 
 ## Results
 
-![DataFrame 1](/img/./sw_clickable.jpg)
+![DataFrame 1](/img/./sw_images.jpg)
+![DataFrame 2](/img/./sw_clickable.jpg)
