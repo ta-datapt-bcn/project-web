@@ -96,4 +96,4 @@ We have been able to obtain just the data we initially thought would be needet. 
 - Lower outliers, so... Pokémon that are very rarely used in VGC but you should still be careful with.
 
 ## Correlations
-It seems that "lower" outliers are more depandant on their base stats mean compared to the population overall but there's little difference so wou shoul try to focus on other variables. I personally think it could be their battle roles, but this information was not in any of the datasets I worked with or that were at least discarded candidates.
+It seems that "lower" outliers are more depandant on their base stats mean compared to the population overall but there's a very little difference so we should try to focus on other variables. I personally think it could be their battle roles, but this information was not in any of the datasets I worked with or were at least candidates that ended being discarded.
