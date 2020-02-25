@@ -2,6 +2,9 @@
 
 # CLASH ROYALE - Project Web - FINDING THE BEST DECK
 
+Jose Angel Casado
+Data Analytics Part Time Dic 2019
+
 ## Introducción
 
 Mi proyecto está basado e inspirado en el juego para smartphones y tablets CLASH ROYALE. Un juego de la conocida empresa de desarrollo de juegos SUPERCELL.
