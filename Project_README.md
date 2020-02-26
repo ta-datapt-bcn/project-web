@@ -37,3 +37,14 @@ Una vez tengamos el mazo de 8 cartas, introducir el mazo dentro de la API y extr
 
 Juntando ambas informaciones de la WEB y de la API veremos que tan bueno es el mazo creado y si valdria para competir a alto nivel.
 
+## Obstáculos encontrados
+
+- Al hacer el Web Scraping quedaban muchos espacios entre carácteres que no he sabido limpiar con scraping. Al crear el DataFrame ya los he podido eliminar.
+- Surge un problema en la web de statsroyale.com que en momentos del día, todos los parámetros de las cartas, como el winrate o el %uso se ponen a 0. Y depende de cuando se ejecute el programa, puede dar valores nulos.
+- El merge final para unir datos de web con datos de API no he conseguido sacarlo.
+
+## Lecciones aprendidas
+
+Pese a que mi nivel de Web Scraping y conocimiento de APIS es muy mejorable, siento que gracias a este proyecto he podido mejorar mis habilidades.
+Además al ser un proyecto más creativo y de búsqueda ha sido entretenido y me ha animado a buscar mucha información por mi cuenta y aprendiendo más.
+
