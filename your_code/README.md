@@ -28,7 +28,7 @@ The goal of this project is to practice APIs and Web Scraping. Optain data from 
 
 ## Data
 
-API: OMDB http://www.omdbapi.com/#usage
+API: OMDB http://www.omdbapi.com/#usage <br>
 Web Sraping: IMDB https://www.imdb.com/
 
 <a name="workflow"></a>
@@ -45,40 +45,16 @@ Web Sraping: IMDB https://www.imdb.com/
 - Prepare one dataframe with information from API and IMDB and export
 - Analyze if there is any correlation between the Release Day days to Valentine's day and the rating value
 
-More in detail:
-
-2  API
-2.1  Preparing movie title list
-2.2  Extracting full info about each movie from the generated list
-2.3  Cleaning Dataset
-2.4  Saving results to CSV
-2.5  Saving poster images
-3  WEB SCRAPING
-3.1  Preparing the list of IMDB IDs
-3.2  Extracting Director, Title, Rating, Year, Videos Link from IMDB
-3.3  Saving result to CSV
-4  DATA CHECK
-4.1  Check why in two columns have different year (data from API)
-4.2  API data vs web scraping IMDB
-4.3  Creating one dataframe with the most important info from API and IMDB, saving to CSV
-5  CORRELATION BETWEEN RATING AND VALENTINE'S DAY
-5.1  Getting the number of days to Valentine's day per movie
-5.2  Binning the data based on the days to Valentine's day
-5.3  Checking the correlation between the rating and the days to Valentine's day
-5.4  Checking the % of the movies that have been release very close - close to Valentine's day
-6  Results
-
-
 Libraries used:
 
-pandas
-json
-requests
-bs4
-urllib.request
-re
-numpy
-time
+- pandas
+- json
+- requests
+- bs4
+- urllib.request
+- re
+- numpy
+- time
 
 <a name="results"></a>
 
