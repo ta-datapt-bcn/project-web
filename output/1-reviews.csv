@@ -1,0 +1,572 @@
+date,rating,title,pros,cons,advice,reviewer,url
+2021-03-13,3,Good product bad pay,The product is amazing and so are the people!,Not the greatest base pay and no real leadership,None,Account Executive,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW43952934.htm
+2021-03-04,5,I love Typeform!,"Good CEO, salary &amp; time","Coffee, lunch and snacks and time off",None,Growth Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW43500767.htm
+2021-03-02,5,Good,This is no pros and i like it,Highly efficient and care for employes,None,Data Entry,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW43372871.htm
+2021-02-11,5,Best onboarding ever. 🤩,"Professional, driven and empathetic humans who truly put their values and ethic into their work, teams and output. Positive, progressive, modern thinkers who are also approachable, friendly, aligned, organized, ambitious and more than capable. They also go out of their way to support and promote humanitarian and other positive causes, initiatives and organizations, partnering to help facilitate positive change.","Timezone workarounds due to international hybrid work culture, due to Covid-19 and also more of a modern reality than an actual Con.","One day, it would be absolutely amazing to acquire national/international government capacities, in order to actively reform, digitize and expedite broken, dated, confusing and overwhelmed analog systems.  🙏🏼",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW42376252.htm
+2021-02-10,5,Feedback,Smooth interview process. Friendly and Authentic People.,So far no need for constructive feedback :),None,People Ops,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW42259875.htm
+2021-01-29,5,General Review,Very good communication among team members / chill ambience,I can't say something bad,None,Senior Graphic Designer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW41617837.htm
+2021-01-27,5,Company that really cares.,"I've been an employee at Typeform for over a year now and up till now, I can only say that it´s been an amazing journey despite the Covid -19 situation. From my very first conversation with Alex, followed by a fantastic onboarding with Kasia, I was made to feel at home with from the get-go. 
+
+6 -months into the job the Covid pandemic struck the whole of Europe. At no given moment did I ever feel that my job was at risk or even unsettled. The people team gave weekly updates informing Typeformers of the latest news, regarding business and Covid. During the pandemic, the company went the extra mile to ensure that everyone was cared for with continuous help and support. 
+
+A company that evolves - Typeform is now a remote-first organisation which has adapted in record time to the new circumstances and continues to learn on how to create amazing experiences without having to be in an office.
+
+Is the company perfect? No, but like any start-up is definitely on its way to being up there with some of the big players. It´s effortless to criticise what the Org. hasn't got but is important to recognise the business for all the good things that it has.",Urgent need of a more diverse workforce in Engineering - this is not a problem only common to Typeform.,None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW41481871.htm
+2021-01-22,3,Good place to work,Perks and benefits are amazing,"Lack of Strategy or constant change of priorities
+Lack of communication across teams that difficults alignment",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW41273724.htm
+2021-01-14,5,Just onboarded,"Amazing experience until now, a very welcoming team ready to help you any time and make you full included",Too early to comment on that,None,Customer Success,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW40678385.htm
+2021-01-13,5,Great brand vision and company culture,"Talented and driven teams, supportive and empathetic peers, strong brand values and excellent HR team. Genuinely feel happy to come to work.","Slight lack of clarity and direction at times, but this is outweighed by a desire to figure things out.",None,Marketing,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW40591580.htm
+2021-01-12,4,Good place to work in,"Many good engineers, PMs and managers with great initiatives","Engineering seniorship is lacking experience in mitigating migrations, focusing on important parts, make companywide decisions – most of the teams live in silos not trying to care about what others are doing",Decide on who deserves what based on your true understanding of who contributes to what.,Front End Developer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW40550175.htm
+2021-01-01,4,Best service,"Best company with good Services .
+Good Employment and staff.","I want daily Payment work in this company 
+I will do my best work and submit it on time.","Keep doing:D 
+Nice Employment and great work.",Data Entry,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW39984318.htm
+2020-12-22,5,"Great culture, high impact and accountability","- Great humans and professionals
+- Learning opportunity
+- Responsibility
+- Flexibility
+- Flat organization and bottom-up approach","- High competition in the industry
+- Not a secure environment (many changes)",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW39728827.htm
+2020-12-20,5,-,Great place to work. They care a lot for their people,I am new and haven't seen negative things yet,None,Data Analyst,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW39646691.htm
+2020-12-16,5,Excellent place to work!,"Flexible schedules, excellent benefits, excellent work-life balance and friendly co-workers.",We share why someone is fired or let go. No need to tell someone's personal business. Just say that the person is no longer with the company.,None other than the con mentioned.,Customer Support,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW39531727.htm
+2020-12-11,2,Pointless company,The salary is high. As they are scared of people leaving you have a lot of negotiation power.,"The product stop making sense long time ago, the founders are out and all the people who made the product great left. Only those who cannot find a better job stay",Try to onboard someone who knows how to innovate again.,Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW39377019.htm
+2020-11-16,5,"Great perks, culture","Typeform really takes care of its people. When the pandemic hit, we all got a €1000 stimulus to create a home office. Lunch is included (€9 a day) through Cobee. If you're a designer you get a 4K screen and so on. The relocation package is generous and the move was simple and straightforward.
+
+The culture is friendly, welcoming, and working in the design team feels like a dream come true. You can expect your career as a product designer to develop in a natural way (thanks to the director of design).","-The tech debt is wide and deep; the backend is unruly but we are constantly expected to build features using it and hit OKRs. There are talks about speedups and code health but they live and die along the lines of ""how is this connected to growth directly?"" and ""can you do it in a sprint or two?""
+-You'll get a ""laptop"" to work on. Make sure you negotiate for a 16"" macbook Pro as part of your offer; otherwise they'll give you an entry level 13"" pro you'll be stuck with. Upgrading equipment is shady, and some folks in IT support expect bribes in order to help you out. Bribes include these company coins (internal bonus points you can give others).
+-some teams don't have PMs so they have to figure things out as they go. But this is improving with new hires!",What would happen if we... built nothing? How long until it hurt the bottom line?  If the line will be ok for a while... how do we set our code up for future success?,Product Designer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW38384952.htm
+2020-11-05,5,Good company,a good brand with very useful software,"With the recent changes, requires a lot of foundational structuring for scalability as the company grows",None,Anonymous,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW38051463.htm
+2020-11-02,4,All Around Company,"Great benefits package; Flexible schedule; Awesome additional perks (e.g. Gym reimbursements, additional perks like learning budget, and thoughtful gifts)",Limited US Remote growth opportunities; Could be more transparent about salaries; Timezone challenges.,Very limited for remote employees,Technical Customer Support Advocate,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW37902697.htm
+2020-10-23,5,Great place to work,"Good compensation
+Good enviroment
+Very good perks (lunch, gym, unlimited holidays)",Needs to mature their data oriented culture,None,Data Scientist,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW37528015.htm
+2020-10-21,2,Not the best,"Good salary, Good benefits, Nice office","No input in anything, poor management",None,Front End Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW37429677.htm
+2020-10-21,4,Great environment where you can have impact,"You have the opportunity to work with a lot of very talented, kind and humble people. The company has huge growth potential and customers love the product. Good salaries and perks. Curious to see what will happen in the next years!",Typeform is growing super fast and that comes with some challenges. There is more work that needs to be done in terms of diversity and inclusion and there is a need to improve in terms of offering clear career paths (training).,More diversity needed in LT,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW37422606.htm
+2020-10-08,4,A company with a lot of potential,Work on a product and company that is well respected in the industry and has huge growth potential. Salary and perks are definitely above average (at least in Spain).,"We are in that awkward puberty phase of startup growth. Lots of changes are happening, so things seem chaotic and take a lot of time. They are necessary changes though, and I think they will contribute to the long term success of Typeform.",None,Product Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW36886287.htm
+2020-10-03,4,good,very good work environment with seniors,extended hours sometimes only in weekends,None,Business Analyst,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW36673780.htm
+2020-07-23,4,Human,A great work environment in sunny Barcelona.,Young company constantly changing challenges.,None,Facilities Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW34389284.htm
+2020-06-19,4,Great perks and atmosphere,A growing company with an amazing culture and perks. You can grow and learn and have all the support you need to do so.,Sometimes there is a lack of structure and power imbalances.,None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW33790785.htm
+2020-05-25,5,Good job thank you for,If you do hard work earn money,I will earn more money,None,Teacher,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW33344045.htm
+2020-05-21,5,"Nice company, great software.",Customers love Typeform. Most people who work here are really smart and passionate about building cool software.,Time zones can make it hard to collaborate sometimes.,"Continue focusing on product, solving for the customer.",Partnerships,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW33294333.htm
+2020-05-20,3,It used to be great but still good!,"Great product, fun environment, great minds, stable, one of the best paying companies in Barcelona, amazing office, flex (-ish) hours, and very nice people where you could make international friends for life.",New management changed the whole culture. People used to trust the management before that. A bit of sneaky attitude. More politics than ever before. More than half of the company left or was fired. Career/development path was promised for long time without delivering.,Look in the mirror.,Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW33281137.htm
+2020-05-18,5,Company with values,"I started working at Typeform just few months ago and I can tell already it’s the best company I’ve worked for. Since day 1 (or even before day 1) I felt welcomed and taken care of, it’s not one of these old companies with non-existing onboarding process where you have to find all the information about the structure, your role and the company yourself. The person in charge of onboarding along with the whole HR team and home team (yes, they have dedicated team to make the company feel like home!) are one of the warmest people I ever met. They really make a difference and value amazing company values. My jar dropped many times these first days (the attitude, the sense of being united and welcome, such support, beautiful office, free lunches). And it didn’t disappoint me later on. My team is a very supportive and experienced group of people and I can learn and have an impact here. Now, despite these uncertain times Typeform is thriving. After all, we’re a tool to remote communication. And one of the best. And looks like working remotely is also handled very well and I am very happy about it. So proud to be here!",There's a lot of things to do so it's not company for just sitting for 8 hours.,Keep doing what you're doing and value your people :),Software Developer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW33229118.htm
+2020-02-11,4,Good perks. Good environment. Nice people.,Flexible hours. Unlimited holidays. Growth possibilities.,FGC. Lots of learnings along the way.,Company culture is a must. Keep it in mind for hiring (specially on leadership levels),Design Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW31805765.htm
+2019-12-23,5,Great people making awesome products,"When you have really great people working together towards the same goals, all the outcome will definitely be outstanding and delightful for their consumers. This is how I can define Typeform. A company made of great people (not only because they're good professionals, but they're great from their heart too). 
+
+Despite all the changes in the company culture in the last few years, everyone there is working hard towards a common goal and making sure that anyone in the company feels they exist and are valuable pieces of the business.
+
+Things I can definitely highlight:
+
+- An excellent infrastructure (in a sunny corner of the World!)
+- Friendly people and outstanding professionals
+- Great culture and atmosphere
+- Awesome perks (including a budget for self-improvement &amp; learning)
+- A generous offer and relocation budget
+
+My sincere gratitude for all the opportunities.
+
+A special THANK YOU to all the people I did interact with. To name a few:
+
+- Alex C.
+- Gorgious D.
+- Albert A.
+- Pau M.
+- Cinta C.
+- Patricia B.","No companies are made only from good moments and I am sure Typeform is not an exception on that matters. Not everyone has the same understanding of the same things.
+
+However, I truly believe that if you're bound to something in common and working hard toward the same goal as everyone else in the company, every single bad moment or situation will be easily overcome in the best way possible.
+
+So, no cons. ;)","Keep the good work up! Make sure to keep working hard to make Typeform a better company to work for, with all the processes well defined but, at the same time, please do not lose the sense of humanity you all have right now. ;)",Senior Team Lead,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30995184.htm
+2019-12-03,1,Fake It until you make it,"- It was a great company with opportunities to grow for individuals
+- perks","- culture of fair
+- people dismissing for openly asking questions
+- no way for issues escalation
+- yes-man appreciation
+- no transparency in processes","I would rise a few questions to think about
+- do you really believe that aggressive and offensive answers to negative reviews on glassdoor are the right way to work with the negative feedback from ex-colleagues?  
+
+- Is it an idea from ""culture expert"" to create fake reviews to fix the culture or one of the company's best practices nowadays.",Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30690430.htm
+2019-11-26,5,"Stable growth, awesome new colleagues and culture","- the company is growing and meeting its goals
+- new team members bring a lot of experience
+- great culture of 'being a little more human' both in the product (focus on customers' needs), and in the way we work (goals are challenging but realistic, there is space for focused work, but also to unwind at the barception, people are very nice to each other)
+- flexibility around working from home
+- the product is beautiful and keeps getting better
+- the data infrastructure is good","- not much really, some people are leaving, but at the moment I think it's a natural fluctuation
+- needs faster product iteration and tool adoption to stay ahead of the competition","- regularly explain to all teams how they contribute to the north star metric and set their OKRs accordingly; if the focus is on execution, each team should ideally push one crystal clear metric at a time 
+- introduce a regular anonymous opinion survey to see if there are specific areas of concern or teams that are unhappy
+- invest resources into building an employer brand (tech blog, design blog, meetups, sponsoring) and praise individual contributions",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30590795.htm
+2019-11-22,4,Working at Typeform is embarking on an incredible journey!,"Working at Typeform has been the best decision of my life and I'm grateful for working here. There been highs and lows and that's what makes it an enriching experience! For the pros:
+
+- The product &amp; brand is known all over the world and used by a wide range of users (from SMBs to Fortune500) and from all industries: retail, banking, tech, governmental org, non-profits... Ask around you and it's likely that someone who knows a bit about surveys has heard about Typeform. 
+- From a customer-facing perspective, it's an amazing opportunity to 1. practises your language skills (for example: I interact with customers in English, Spanish and French on a daily basis!) 2. learn from a lot of various use cases &amp; industry-specific challenges and truly allows to put on a 'consultant' hat to best advise customers). 
+- The product is adding more new features and is making good progresses towards being the gold standard in surveys, quizzes and forms. As an example, in 2019, the market leader (for form builders) revamped their product to add the 1 question at a time interface, straight-up copying Typeform's initial idea. If that's not market recognition, I don't know what that is.  
+- The user base &amp; customer base has been growing at a steady pace over the past years and the company metrics are in the green (MRR/ARR, churn rate, product adoption, etc.)
+- The leadership team is made of experts from the local tech scene as well as experienced professionals from Silicon Valley, thus making for a good mix of various experiences. 
+- The company has offices in Barcelona and San Francisco where it benefits from the local ecosystem in terms of strategic partnerships with other top-notch SaaS platforms (Slack, Google, Hubspot...). 
+- There are huge opportunities to test and learn in the customer success team; new ways to execute on 1 to 1 or 1 to many strategies, high-touch, low-touch, tech-touch, you name it. 
+- I have worked for a bunch of companies and the level of trust and autonomy given to Typeform employees is by far the highest. 
+Think: flexible hours, unlimited holidays, remote work up to 3weeks/months from wherever you want (I've taken calls from crowded café in Paris, empty dinners in Oakland, California or from the dining room of my parent's house).  I worked for companies where leaving at 5pm is seen as taking your afternoon off... I sometimes get approached by tech companies who still have outdated management practises (9 to 6) and where remote working is nowhere near being a reality - unless your definition of remote work is being allowed to work from home on Wednesdays afternoon to wait for your Ikea delivery.  As far as I know, Typeform is the only company in Barcelona to offer this. 
+
+Bonus: the amount of free stuff you get at Typeform is ridiculous. For starters: free lunches everyday (local, fresh, organic food) with menus for all diets (veggie, vegan, omni)! Typeform has its own bar &amp; café. Our baristas serve amazing coffees or cocktails for special occasions. Beautifully decorated offices that makes it enjoyable to work here. Free gym membership with access to 500+ gyms all across Spain. Sunny terrasse in Poblenou with bbq &amp; beers &amp; 10min away from the beach. The list goes on and I'm sure I forgot some things.","Of course, there are cons and I strongly recommend anybody reading Glassdoor reviews to be skeptical about 100% positive (or 100% negative reviews). From reading some of the reviews below, I can assure you that they all misrepresent and caricature what's actually going on behind the scene. 
+
+- It's sometimes difficult to make sense of all the information that is shared with the employees and keep track of objectives &amp; focus areas. The company recently decided to put screens around the offices with the recap of the company's results, our objectives &amp; updates to make sure everybody is aware of them. Let's see if it works.
+- There are organisational frameworks that have been deployed at scale within the org with out taking into account their actual relevance for some teams. This should be reviewed imo.  
+- Past 200 employees it's difficult to keep track of who's who and we could benefit from having a 'buddy program' to get to know newcomers and help them get familiar with Typeform. 
+- The career path took longer than expected to be fully operational but it's finally here and I'm confident it will help people grow in their role moving forward. 
+- There have been some growing pains &amp; cultural changes in the recent months that have affected the overall morale of the company and so it's not always been funny around here. But this is a common issue for hyper-growth startups and so not specific to Typeform.","- Revisit the OKR process
+- Make the buddy program great again :)))",Customer Success Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30519250.htm
+2019-11-07,5,Excellent team with an incredibly versatile product,"- Excellent growth
+- Great work environment
+- Good opportunity to drive initiatives
+- Great perks","Timezone difference can be challenging, but any tech company will experience this.",Keep hiring great people to drive the change needed to achieve the set goals.,Head of Product Marketing,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30255279.htm
+2019-11-06,1,No longer a top start-up. Deified mediocre bottom tier leadership.,"- L&amp;D budget.
+- Unlimited holidays (this is just a bait, if you do what you are really supposed to do there's no time for longer holidays than the standard amount).
+- Free lunch, fruits and excellent coffee. Nice offices although wrong neighborhood.
+- Health insurance with Cigna which is a really good one.
+- Slippers.
+As you can see these pros are just social benefits. There were not any pros related to the role I was developing. Basically I lost 2 years of my life. The company pretends to be a top-notch tech company but they are completely lost.
+
+Salary is not bad. In the past it was above industry benchmark, currently average or below industry.","To sum up, back in the past, the leadership team was not the best in the world, however they had an idea and they worked wholeheartedly towards it.
+
+Then, Joaquim Lecha was appointed as an advisor for the board of directors, suddenly some months later he was appointed COO and then CEO. This was Typeform's death sentence. Joaquim Lecha doesn't have charisma to be a CEO. He doesn't have any clarity and he is extremely boring, nobody is engaged after hearing his discourse.
+
+After this, his friends, a new CFO and a new CPO joined typeform. And then the pattern was repeated with other positions.
+
+Do you have great ideas that will eclipse the C-level team? Save them and use them in another company. Current C-level team will always believe that are better than you...","Be honest, say that you are not prepared for this.
+David &amp; Robert, find a new leadership team, convince the investors to replace the current team and start from scratch as if you were back in 2012.",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30245645.htm
+2019-11-05,5,Exciting company with a great product,The team at Typeform is really solid and the product is loved by our customers.  The company has a really exciting growth plan and product roadmap for the next 2 years. The offices are located in Barcelona and San Francisco so you have a chance to travel to two great cities for work,"Working with teams located in other timezones can be challenging, but this challenge isn't unique to Typeform",Continue to be aggressive in hiring sharp people that can help the company achieve its growth goals over the next 2 years.,Anonymous Employee,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30210276.htm
+2019-11-05,4,Great place to work,"-Atmosphere 
+-Career growth 
+-Benefits are ok. 
+-Company potential","-Salary could be better or have bonus plan incentive. 
+-Flexibility and work life balance doesnt seem to be a priority anymore","The easy thing is to follow what more established corporations do and implement the same restrictive measures they have. The core of this company should be to innovate even I'm the way we work and ensure that everyone is productive and aligned while maintaining a good culture and work life balance. Easier said than done, true. But that's why C levels get paid high salaries: to innovate and think outside the box and bring success to business.",Technical Support,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30198308.htm
+2019-10-31,5,"nice history, awesome product, great momentum","Fantastic product, that our customers love. I'm lucky enough to be on a role where I hear a lot of praises from partners and customers about the value Typeform brings to their workflows.
+Great people, solid culture","Yes the culture is changing a bit as the company is growing, and that road can be bumpy sometimes, but people's hearts are in the right place and we can feel a nice momentum","A ship with so many new faces can be hard to steer, but you know that. Keep people's happiness in mind and we'll get there together!",Partnerships,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30123595.htm
+2019-10-26,5,Rapid Growth and Culture Change,"- The company is growing very rapidly breaking growth records in new users and revenue and has reached profitability.
+- Plenty of growth opportunities for people who look to learn new skills and advance their careers.
+- Amazing offices and you get to work from Barcelona!
+- Very innovative with new products such as VideoAsk and Conversational Interface.","- A few ""old-timers"" actively or passively opposing the changes.",- Move from the detractors. It's clear there are a few people who don't care about the company's success and their negativity can affect others.,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW30029241.htm
+2019-10-22,1,Great if you enjoy following amateur and biased leadership and,"When I joined the ambience was so positive, you could find like-minded people easily and almost everyone were very spontaneous sharing and collaborating (exception the couple chaps favorite to the founders, who were impossible to work with). The energy was amazing and we had opportunities to try ideas. Unfortunately that was blinding because they told some of the 20-somethings they were hiring from all around the world that ""you are so amazing just keep being amazing and have lots of fun"", and some teams had zero accountability while others struggled under pressure. You need to have a childish and very emotional side to be comfortable, and make sure that you are friends with the right people to get a good payslip, opportunities, and promotions. Then everything should go well for you. Also goes well if you are taking care of something vital but not fancy that requires hard work, but keep in mind that it doesn't guarantee acknowledgement of your value. It also helps if you like booze, perks and parties. People supported each other a lot, but there was also a lot of drama because personal and professional stuff were always mixing. We spend much time out of office together (expats have nobody else in the city). All the positives there have a dark side.","I'm not sure when it all started going downhill, but there was a moment it was obvious: once the previous leadership team stabilized things a bit, the new CEO, the founders, and the investors started sacking everyone in C-level and replacing them with a bunch of yes people scratched from the bottom of the barrel. It doesn't matter what you've achieved, if you were promoted by the old team you are as good as dead. Worst part is that the new C-levels have barely any relevant experience to play the part beyond ""whatever the CEO and the founders please"". Some C levels were sacked very fast because they were strong voices while others played along with the CEO and prepared their exit leaving with full pockets and handing over their teams to those who will do the sacking (or encouraging people to leave).
+
+If you think all this is high-level and irrelevant to you as a modest member of a team, wait until all that rains down rewarding the nodders and penalizing everyone else, lack of professionalism when making decisions, personal stories mixed with work, and thought censorship. There was a period of time that women dating managers got promotions. It even got to the point that two women were married to managers and promptly promoted way high in the company at the exact same time. Also don't dare to talk about unions, family needs, or issues with predatory co-workers who seem incapable of keeping it in their pants at work. Some employees are being put under ""performance review"" for asking the wrong questions, complaining about those topics or supporting those who speak up. Also happens to those disagreeing on something that they know more than the manager about. Literally, if you thumbsup the wrong comment on Slack then People Experience team will keep it on their list of reasons to fire you and they will tell everyone that you are toxic. With all this lots of great people with real knowledge left so definitely not a great place to work or grow professionally anymore. Never again a fancy startup if I can avoid it.","CEO: Your MBA and a month at Stanford don't mean you are the smartest in the room. I know that this will come as a shock to you but if you lie to people they end up noticing. Stop talking like a New Age book about enlightenment.
+Founders: Go back to primary school. Learn the meaning of accountability. Also, learn some maths. You have a dangerous aversion to numbers. 
+Leadership: Your shares worth nothing. The company will be sold for parts or given away to next round of investors as a bargain. Only investors, founders and CEO will see some cash out of this. They are going to do to you exactly what you are doing to everyone else.",Project Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29957461.htm
+2019-10-17,1,One of the worst experiences,They used to have a different product.,They think they are much cooler than they actually are. The product has zero evolution and competitors have managed to close any gaps. Now they are trying with other ideas desperately looking for something that would save the business. Check out on crunchbase their funding rounds and you will realize that it's been a while that nobody believes on their product.,Don't fool people. So many new hires join because you oversell expectations while the reality is very different. Maybe closing the company would be a wise choice.,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29860127.htm
+2019-10-16,1,Fake it til you make it,Very talented and lovely people to work with. Nice perks.,"Advice to job seekers: 
+
+-First, look at the negative review trends, the different writing style, English natives and non-natives expressing their opinions, how everything looks pretty much consistent, even though they're ""hidden"".
+
+Second, check the most recent positive reviews and check the consistency in the writing style. Looks like they're written by the same person, right? That same person that has one hour scheduled each week in their own calendar for ""Glassdoor reviews""... Actively replying to negative reviews or busy creating fake accounts to write more positive ones?",Hate to say I told you so.,Senior Ninja,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29849419.htm
+2019-10-12,2,Once upon a time… there was a company where employees where happy to work for,"The cafeteria is the best thing they have.
+Some supportive and smart engineers.
+Flexible working time.","They have fired competent and friendly managers and replaced them with obscure ones, without transparency and in some cases without even performing a technical interview. And this has been done to take the company to the next level... well they are drastically failing. 
+
+Firing became a normal practice and so others are leaving... so who stays exactly? Think about it! I will keep this one for me.
+
+They seems to ignore the risk to stay with few and weak developers in a couple of months, without being capable to run the business. This is the most scaring thing.
+
+The product is nice but not great, unfortunately it's broken at its bases which makes it not attractive/usable by big customers. 
+
+Engineering: average/weak with resistance to changes, lack of vision and no common architectural patterns, where each team, sometimes formed by 2 persons due to the leavers, are responsible for the architecture too. If you like mutability, null references and broken encapsulation that's the place for you. Or if you like to listen ""we need to break the pattern because...."".  Code review is almost absent. Comments are constantly ignored for the sake of let's delivery and probably not even read. That brought me to stop doing it. A waste of time.
+
+Leadership team: As a Colombian would say... ay no, qué horror. They don't even know how to organize an induction program (they didn't even know which team I was going to join and I was left by myself, inventing things to do). They are creating a toxic environment where people just want to leave and new joiners don't know what to do and are left with themselves, without a guidance.","Take your conclusion reading the cons of all reviews. If there are common patterns, something is wrong.",Senior Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29767019.htm
+2019-10-10,4,"The current 2,9 rating does not match with reality  ' IS A GREAT PLACE TO WORK ´","I think that when a start-up needs to start scaling-up, cultural changes are always hard for the employees who have been there since the very beginning. 
+
+If you are the kind of person goal-oriented, who wants to learn and make an impact, the ´new Typeform culture´ can provide you with this opportunity...
+
+However, if you prefer early-stage companies, this will not be your place.","Startup usual problems, thats all",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29730878.htm
+2019-10-08,1,A company that has lost its human touch,"- Very competent and smart colleagues
+- Good perks for Barcelona
+- A good addition to your CV","When the new CEO started and replaced the whole C-Level (in some cases, in a very opaque way), it was the beginning of the end of the human side of Typeform.
+
+After a series of catastrophic public meetings and firings of perfectly capable and liked professionals that voiced their criticism, management hired an external consultant and overhauled the values, only for HR to use new values against even more perfectly capable professionals and crush any criticism. Effectively, management is creating a toxic environment where any valid criticism will be silenced, and real issues (middle managers, directors or even C-levels with massive egos) are being swept under the rug, to hide the utter incompetence of an HR team that seems to answer more to the company shareholders than to the employees they allegedly represent.
+
+It’s a real pity, as it’s a company that in the past could proudly say they cared about their employees, but politicking, bad decisions, and management going out of their ways to defend their bad decisions are seriously threatening the future of the company.
+
+I know that my experience might have been different from other people’s, but that doesn’t invalidate it, as some other reviews seem to suggest.","Listen to your employees. The C-level, directors and managers have created an echo chamber where all top-down decisions sound like the best decision ever, but you are getting rid of the people who truly make Typeform (either because you fire them or because they seek a better work environment). They are the ones that make, promote and support a product that the tech world loves, and if they leave, you won’t be able to find people that know and love the product enough to make, promote and support it the way it deserves.",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29687351.htm
+2019-10-03,5,Same amazing company it always was,Transparency. Hard work. Fun. Outstanding colleagues. Learning.,"We are going through a bit of refoundational phase in some aspects. There is room for improvement in processes, understanding how to do things better and more efficient. 
+
+Management are making an effort to hear people out. Yet it is also true that decisions need to be made and not everyone will agree on everything.",Grow but keep people's idea of freedom at the forefront.,Anonymous,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29591559.htm
+2019-09-28,2,I did not enjoy my experience as much as I had hoped I would...,"Many of the regular employees still working at Typeform are amazing people. There are talented, passionate, and friendly people who are doing their best to take the company to the next level. I met many great friends working there, and many of my former colleagues could say the same.
+
+The lunches and barception were great ways to get to know people you didn't work with on a day-to-day basis, and they were much appreciated perks.","Talented people are leaving. Quickly. The quality of new hires is decreasing, because it's hard to keep up with the volume of leavers. This is especially harmful for a software company, because product knowledge and understanding legacy code is important. This creates bus risk.
+
+Good people were fired due to disagreements with people on the leadership team. How can you expect employees to trust the people at the top when they're firing the managers the employees trust, with no transparency? And to top it off, drastically under-qualified people have been brought on board with just as little transparency input from outsiders of the leadership team. The ""value"" these new leaders are adding is just more process, and then of course more meetings to talk about these ever-changing new processes. It's tiresome.
+
+The perks are nice, and the pay seems to be (a little bit under, but close to) inline with what other tech companies in Barcelona pay. However, Typeform is trying to compete globally. This means competing with engineering teams across Europe, North America, etc., which pay a lot higher. To attract more top talent, you have to pay top dollar. Right now, developers can look to other companies in Europe, or even remote positions and nearly double their salaries (more in some cases).
+
+Top-down management. Several times all teams were told to drop everything they were doing and focus on another initiative. This has created a tremendous maintenance monster that a few unlucky teams end up in charge of maintaining. Arbitrary, tight deadlines without scoping input from people who will actually be doing the work has led to some questionable quality of work and decreased morale.","Find a way to keep people from leaving. Agile teams are self-organizing. Top-down with unrealistic deadlines hurts morale and creates maintenance nightmares.
+
+I wanted so badly to love working at this company. I've been told by many that I joined right as things started to decline. There are still great people in the company, and I don't think it's too late to turn things around, but something's got to give. Listen to the people who are leaving. Hear what they have to say, and make adjustments accordingly.",Senior Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29502059.htm
+2019-09-20,5,Best place in Barcelona,"Been working at Typeform for the last 3 years and have to say I enjoyed almost every single day coming to the office.
+
+Apart from very thoughtful perks, like free organic lunches, gym membership, unlimited holidays, coffee and beer for free at Barception, and more... the culture is very healthy, honest and work focused. It is true that we are now on a journey for results, but it's an understandable transition while the company grows.
+
+Also, empathy around employees is very high. If you have a problem, need help with anything, most people are happy to jump in to help however they can.
+
+Work itself can be challenging, new things come up and also as any startup, you can ""build your own adventure"" and try to propose new initiatives, as long as you own them.","The downsides of working here would be the same as any startup. Lack of direction, you can feel a bit lost sometimes, and your recent work might go to the trash since strategies can change overnight.
+
+I understand sometimes it's not the nicest thing, but it's what I signed up for, so no complains.","A bit more of career path thinking would not hurt.
+And bold decision making to see things moving faster would be great.",Project Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29355746.htm
+2019-09-19,1,Avoid at any cost!!!,"Up to 6 months ago, the best people you ever worked with.  Amazing vibes. Great office and perks. All gone now. Destroyed by terrible leadership.","The new CEO is a sociopath. Sacked anyone who ever disagreed with him. Then replaced them with a bunch of mediocres who agree to anything he says and feed his insatiable ego. Most were appointed with no previous process.
+Lots of people being fired for no apparent reason other than speaking their mind. Everyone lives in fear. No progress whatsoever in over one year since the changes in leadership.",You managed to take over the best company in town and turn it into the worst. You should be proud.,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29333592.htm
+2019-09-18,3,It's losing everything that was amazing about it,"Cool product, smart people, great office and perks, up to date tech stack.","In mid 2018 everything started to fall apart slowly, but then increasingly fast in 2019. Founders were replaced, every C level left, almost all managers are gone now. This is now a company in which the best people are at the bottom of the organization, and no one from leadership seems to notice or care.",None,Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29306525.htm
+2019-09-18,4,Finally on a success track!,"Although typeform undergoes some changes, I do not agree with the negative ratings of my colleagues. I've worked for several startups in the past years and can say that typeform is not only a great place to work at but also an amazing opportunity for those who want to learn and grow. I think my experience in the startup world gives me a view on the status quo that is unbiased and based on facts and experience rather than personal opinions that are often stated as the truth. Yes, the company undergoes changes, changes that were urgently needed for the business in order to grow. Some of my colleagues look for an environment where you can hang out and chill. At the same time, they complain that nothing was moving in the past. Well, maybe you are part of the problem? Ever thought about that? Our C-level, that I work with regularly in person is actually truly outstanding - at least to me. They are skilled, fun and good people too - which is not always a given. I would want to know how many of the negative ratings have actually spoken to them to make up their opinion. Last but not least, I do not agree with the constant firing rumor. For me, any person that was let go so far was for a good reason. Either they were not skilled enough or they were looking for an environment where achievement and winning together was not on the top list of priorities - at least that is what I can observe from the outside as I have not worked close to all of them. I think it is not only the job of a Manager to take care of these things but also necessary to help others grow, especially when colleagues have a negative impact on teams or the company. I would be scared if my manager would not make a call in these cases. From colleagues to colleagues, to those who state their personal opinion based on rumors from angry people: Please leave the company as soon as possible. You are clearly not getting it and your personal opinion is not the truth.","The company currently undergoes changes that make it more challenging to achieve things, especially when you work with teams that lack skills and knowledge. I know that the company is working hard to bring in the right people and to upskill the others but it still causes some hiccups on the day2day.",Just keep on rolling! We have your back!,Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29294821.htm
+2019-09-08,2,Hoping Typeform can turn it around,"Lovely people to work with and you'll learn a lot although, more recently, you learn less from good examples and more from mistakes. Good lunches, Barception and the offices are nice. 
+
+Flexible working is great and I was able to get any software, trainings or tech that I asked for.","A lot of people have given up on giving feedback as it can feel that, at best, it will be ignored and, at worst, it will be held against you and used as evidence that you are not a cultural fit etc. When people stop giving their opinions they are then criticised for not contributing and, when you care about the company and your colleagues, this is a very tiring cycle to watch and be a part of.
+
+The move towards a more corporate and ruthless approach wasn't for me.  Typeform always used to treat people with respect and empathy but, after a pretty big backlash against what seemed like a never-ending stream of firings, a new set of values were eventually introduced with empathy as one of the focus points. The firings didn't seem to slow down for very long and it felt like Typeform had to try and put a process in place for something that had been a key part of its culture not long previously.
+One positive thing gained from this was the number of synonyms for firing I learned but, in the end, it just got too distracting and demoralising wondering who was going to be the next one to 'reach an agreement' and trying to make sense of it, and I stopped enjoying my work.
+Worst of all, after speaking to a number of these ex-employees it became clear that we weren't being told the truth by the Leadership Team which made me generally distrustful of what I was being told by management.","I understand it's just business but it feels like you're trying to hold onto something that isn't actually important to you, the company culture. The new values weren't necessary as we used to have values that the whole company embodied and believed in. Why this breakdown wasn't addressed earlier in the process, when feedback was being given, seems strange to me.
+
+Consider the possibility that some of you, or your managers, might not be doing a good job. If a number of people from one team are fired or leave in a short period of time then perhaps the issue is hiring the wrong people, creating a difficult working atmosphere or an inability to manage different personality types. At what point are you willing to consider a manager failing in their role as it seems it's always someone else's fault, usually the non-manager.",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29096080.htm
+2019-09-04,5,"Great culture, talented co-workers","It is a great place to stay. The best thing at Typeform is its culture. Benefits/perks are great, the product is good and co-workers talented.
+
+I joined a few months ago and I am seeing changes in a very good direction in terms of leadership. C level is almost completely new, but they are open, transparent and experienced.",The way the company is using OKR has to be improved.,None,Product Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW29031498.htm
+2019-09-02,1,The trends speak for themselves,The people still left are really great and talented.,"- New CEO =&gt; completely new leadership team =&gt; tons of avoidable big mistakes =&gt; A LOT of people left and leaving =&gt; understaffing =&gt; lowering hiring quality bar
+
+- Same old story: Let's try OKRs! Oh but we need to do this other thing not part of the objectives, it's very urgent, you need to drop everything and do this! Hey, how come you didn't hit your objectives? Well, let's define better objectives next quarter!","Typeform had a beautiful culture of good engineering, don't destroy it with random deadlines. You made it seem like you cared about people and company culture in our last crisis, it looks like everything is out the window again, please listen to employees.",Senior Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW28983204.htm
+2019-08-25,2,Hard to say,"As most reviews pointed out already
+
+- The perks are among the best you could find in Barcelona. 
+- The product and the offices 
+- The people you work with is quite good in Engineering, so many talented and skilled colleagues
+- Some people really want to make the company successful","- The amount of changes in management recently that come from nowhere is huge, and its getting worse every month
+- All C levels have been replaced by friends-of-friends of other C levels, with little to no diversity 
+- Some of the C level employees lack skills like communication and emotional intelligence
+- In the last months there have been direct hires with no process, which at some point could be ok, but some of those hires have caused entire departments to vanish or disappear, mostly because the lack of cultural fit in them, causing former employees with 2 years of experience, valuable employes to the company, to leave
+- One of those hires took more than a month for HR to act, even when lots of people were already complaining and saying that this specific person was not suitable or beneficial for the company. It took so much time for them to react that few people left the company in that time because working was unbearable
+- While right now the perks look amazing, its clear that this is not going to be last for long
+- Sending emails at 10 pm on the weekends, sometimes asking for you to work on something, has become more and more common
+- There are no almost no managers left, and the ones they are still around lack enough skills ( or better said, up to date skills ) to do their job properly
+- The whole company relies on something called OKRs, which are supposed to be objectives to aim for. You spend a month definining them, doing meetings and presentations just for the company to pop out a project out of nowhere that renders all that time spent useless
+- Some projects are being defined and estimated by people that doesnt have enough domain knowledge on the product, to the point of missing important features and setting up dates that are not realistic without compromising quality on what you deliver 
+- Theres flexible working and unlimited holidays. Some people is not making enough use of those, but others are abusing too much of it, to the point of being months or weeks completely away 
+- Engineering lacks leadership and lacks communication between the teams that are working in different features
+- You might have a team of 7-8 people for a project with low priority while you have 2-3 engineers for working with legacy and infrastructural stuff that is core to the platform
+- Instead of helping those small teams to get more resources the new hires go directly to new teams with new projects
+- Once an engineering project is done, the team gets disbanded and the ownership is lost
+- No career framework
+- Almost all HR has changed, to the point that only a few are keeping up to date with what they do and they can´t handle everything
+- Theres no help on where you want to go as an engineer
+- Too many useless meetings. We have spent more time on assemblies and ""clarity"" meetings lately than anything else. The processes are so shady and everything is so gossipy that everytime someone leaves we have to do a company wide meeting to explain what happened
+- Lack of clarity on processes
+- The few managers left and the C levels are not listening or seeing through their employees, when they act is too late
+- Theres a huge gap between old people in the company and new hires
+- The culture of the company is heading towards working more hours in the office, which doesnt mean being more efficient
+- People is afraid of speaking up, it went from open up forums to noone saying anything because of fear","- Listen to your employees, they are the ones who built the company and some of them have been there for more than 3 years, not just a few months. They understand more than you what was Typeform, they have more knowledge, context and wisdom than people who recently joined and you listen more to them just because their salary is higher
+- Stop the OKRs, they are completely useless when you dont follow or believe in them
+- Get some trainings either in public speaking or management
+- If your idea of working at Typeform involves working on weekends or nights, be clear about it and set some expectations
+- The best way of shutting down rumors or gossiping is being clear on what you do, not sending an email that generates even more rumors or calling for an assembly where you cant speak openly without fear
+
+As of now, the main danger for Typeform is not their competitors, is its management. It seems you are working really, really hard on making the company fail. Maybe you are not aware of but every week you loose someone with knowledge on something that noone else does. Every week the processes get worse, the quality of what we ship gets worse. Theres going to be a point of no return where the product will reach an state that recovering from it will be nearly impossible",Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW28831909.htm
+2019-08-22,2,Think twice,"Salaries are good and the perks (gym membership, healthy food, drinks, coffee, private health insurance, unlimited vacation, flexible work, language courses, learning &amp; development allowance) are fantastic. There are a lot of nice people willing to help each other and some teams have a good environment where you can have fun, collaborate and and learn while working.","1) We currently have a culture of fear, which means anyone can be fired on the spot for no reason. This has happened several times. One person got fired when a new hire took his position, only 10 days after being assured that this wouldn't happen. Another one got fired even though the entire team worked well with him and he proved to be one of the most efficient and innovative team members, bringing a lot of value and building bridges with other teams. Another one got fired because the newly hired boss didn't like him and the fact that the rest of the team did and valued his contributions didn't matter. Another one got fired leaving a team with only 1 person doing the job of 4. And so on, and so on. 
+
+2) Managers seem to be untouchable and can get away with anything. For example, they can lie to their employees' faces or prevent people from being promoted, making up rules that don't exist. They tend to be arrogant people with inflated egos who disregard any opinion coming from anyone at a more junior position. They favor employees they get on well with while bullying the ones they personally dislike.
+
+3) HR managed to make everyone in the team leave, so it's now composed of people who have been in the company not longer than 6-8 months. They consistently encourage employees to talk to them if they have any problem and promise to help. The reality is that they don't do anything to help because they don't acknowledge that in some cases, the problems are directly caused by the managers. On some occasions they have breached the confidentiality of those meetings.
+
+4) The members of the Leadership Team have neither people nor public speaking skills so Company meetings have become an unbearable ordeal where they either bore everyone or angrily explain data/decisions made.
+
+5) There is no clear direction and Company values and goals seem to change every few months.","- Be more humble, listen to the people, acknowledge their concerns and get involved in helping overcome them. You have excellent professionals working for you and you'll lose them all if you don't change your attitude.
+
+- Either get trained in public speaking or hire a professional speaker to present at meetings. Also, please don't go overtime in meetings and please, please stop telling us about your fantastic life experiences if they're not relevant to the company's present and future.
+
+- Be transparent and work towards restoring trust.",Anonymous,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW28789181.htm
+2019-08-21,5,It's really not that bad at Typeform! :),"I felt the need to write this review as there are quite a few really negative reviews on Glassdoor that do not represent the real picture of how things are at Typeform. 
+
+I've been at Typeform for almost a year and can see very clearly the good things this company has to offer. I've worked in many different companies before and I can tell you that what Typeformers get is unheard of in most companies in Barcelona. The flexibility, unlimited holidays, amazing organic lunch served for free every day, barception when you're served amazing coffee at any time,  initiatives that help people grow and learn, transparency from the top-level team.
+
+Typeform is going through a change. Yes, the entire leadership team changed. Yes, this company's has evolved and is evolving and it's no longer a merry-go-round that it used to be. Yes, this company has new values and the culture is changing. So what? All companies change at some point or another. This is the nature of any business. People go and are being let go and that's something that happens in every single company. Let's not forget how good we have it here and how many new people join Typeform, the talents they have and what they bring to the table. What I see when I come to work every day is not the drama and negativity, rather than people pushing their best, going an extra mile, caring for the team and building a great product, working hard, having fun, trying to deliver the best they can.","I would say the cons is the negativity that can drag the teams down right now, lack of trust in the leadership team and the mindset that it's all bad. It is not! 
+
+High workload which means the work-life balance can suffer.","Keep being open, fair and transparent. Give some time for the new values to settle.",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW28753629.htm
+2019-08-14,2,Complete lack of direction and bad work culture,"Great co-workers, smart and nice people. Barception. Lunch.","Really disappointed with the lack of preofiesionalism from the leadership team and founders. Lack of recognition to hard work, bad feedback and performance assestments (actually, inexistent). The new people coming to leadership (including the CEO) value more that you agree with them than actually having ideas and that you are doing your job well. The paths to professional growth are completely broken, so if you care about your career and growth, this is not the place. Really shady moves to let people go or firing them.","Listen to employees, prepare them and set the for success as professionals and you'll have a successful company. It's not the other way round.",Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW28623409.htm
+2019-08-10,2,Seemed different from the outside,"Great people overall, many professionals and many of them very dedicated. 
+The offices are spacious and modern.
+There’s catered lunch every day and a great selection of coffee and drinks, both always include vegan options.
+Flexible hours.","Management changed end 2018. Since then it’s been downhill. Not sure what’s going on but it’s bad. After the new CEO, CPO, CTO and a bunch of other C’s joined, there has been a continued talent escape and people are “disappearing” from one day to the next without obvious reasons. I mean, one could be understandable but there are so many disappearances lately.
+
+Morale has turned around 180 degrees. From a company that used to be transparent, it has turned into a company where you can’t even trust HR or Management. 
+
+With less knowledgeable people and more juniors joining in, teams struggle.
+
+The objectives seem to be ever changing and there isn’t clarity on which direction to follow. 
+
+Promoted people don’t make sense while new hires seem to be hired without even following hiring processes. 
+There is also little to none diversity within the new hires.
+
+The offices are not suitable to work.
+Meeting rooms are saunas and some areas of work feel like fridges.
+Most workspaces are super dark to be working for hours and there aren’t any adjustable desks.
+Company doesn’t seem to be willing to spend any money on this, yet they invest a lot on other stupid stuff (e.g. socks, weird workshops)","Some truth as to what’s going on, would be nice.
+If you promote new #values, you should be living up to them firstly.
+We aren’t buying it anymore. Half of the company is looking to get out of there asap and you don’t seem to care.",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW28550515.htm
+2019-07-27,5,Great company with a ton of opportunities and the most loved product in B2B SaaS,"- Lots talented people across the company, especially in engineering, design, marketing and data science
+- Highly dedicated colleagues working hard to get Typeform to the next level
+- People are very friendly
+- One of the most loved and lovable products in the B2B SaaS space
+- Innovation is picking up pace with a good pipeline of new products/features to bring to market
+- strong customer focus
+- strong leadership team with desire to do what's right for the company, not what's easy
+- much clearer focus, goals and strategy than previously
+- good cross-functional working relationships among the various teams
+- tons of perks, beautiful office, catered lunches everyday and great events!","- lots of change (which is to be expected for a company at this stage)
+- still tuning the goal setting process (OKRs) but it's getting better
+- more investment needed to scale up product development (more designers, developers, PMs) in order to meet the company goals over next 5 years",Keep the teams focused and reiterate the focus regularly. Keep making decisions and ensure the company moves forward as a single unit. Keep encouraging Typeformers to think big and challenge one another to improve in both the product and their processes.,Product Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW28278966.htm
+2019-06-06,4,Very fun but at times frustrating,"The people: talented, humble, fun and caring (for the most part). 
+
+The environment: great city, culture, offices and perks (coffee, lunch, beer, events, flexible hours, unlimited holidays &lt;3). 
+
+The product: loved by the customers, flexible enough to improve/extend and still growing in usage and popularity.","The management: hard work goes unrecognised, also doing next to no work seems acceptable at times, general lack of awareness from leadership and management.
+
+The opportunities: decision making is not really a team consensus, constant hiring of seniors means it's hard to progress, pushing through your own ideas is tough.","For a software company, I think there is way too few software development teams - focus on hiring designers/developers before other roles to help balance the ratio. 
+
+Implement a solid assessment system and take actions on good/bad results (why did we stop the 360 reviews?!).
+
+Try to unite the two offices and improve on the remote culture.
+
+Good luck!",Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW26516203.htm
+2019-05-12,2,Company is changing for bad in some key aspects,"- Work flexibility, great perks and very competitive salary for a Barcelona based company.
+- Good product with many opportunities to make it grow.
+- There is still some talented and hard working people, specially in engineering.
+- Modern tech stack and overall good delivery practices.
+- Depending on the team, great continuous improvement culture.
+- Senior leaders with deep business knowledge and results oriented.
+- Clear direction.","TL;DR Culture used to have cool things, enabling experimentation and professional growth. Now all the leaders have changed, and there is a more top-down approach. This allows less space for ideas and growth and makes Typeform a less appealing company to work for. Still good, but going downhill in some critical aspects.
+
+
+Since its start, Typeform had always suffered from a lack of good senior leadership. The model was far from perfect and caused unnecessary friction, pain, and many inefficiencies. Yet these leaders gave enough space for people to work free and grow. IMO they got a solid foundation; they encouraged people to do great work and results followed. Unfortunately, that is not enough for a company at the scale of Typeform.
+
+With its rapid growth, problems became bigger and bigger. No alignment between departments and an unclear working in direction led to political games. There weren't clear expectations from and for many roles neither a clear understanding of how promotions worked. Add to this a death start project (i.e., builder v2) and the results were way below expected. Another unpleasant effect was an increase in attrition. It was clear that Typeform needed changes.
+
+Last year those changes started to happen. First, the CTO got replaced. Then the co-CEOs(original founders) and after them COO(now CEO), CPO and CFO. Of course, this caused many changes in heads of departments as well. Now the last change is a new CTO. Yes two CTO changes in less than a year. The last one without an interview process and with by far the weakest background.
+
+All these changes have changed Typeform quite a lot. Some of the changes are good and long waited for. Like more data-informed decision taking or more practical approach to product design. But others are counterproductive.
+
+Now decisions are more top-down. Many people don't feel safe or encouraged enough to challenge upper management with concerns and alternatives. The main reason for this is because leaders are not listening to people and imposing their ideas. This undermines and underutilises people value and will cause even more significant employee turnover.
+
+For example, many people in engineering are worried about many of the changes the CTO is proposing. Their biggest fears are on their impact in collaboration and global team performance. They also have concerns about the adverse effects on quality. He already comes with solutions. Doesn't ask for context and is not open to alternatives neither challenges to his ideas. The worst is that most of his answers are against modern engineering practices.
+
+Very far from what many of us thought was Typeform's potential.","Find ways to listen more to people, so there are more inputs when in your decisions. It will also help to incorporate (better)changes more effectively and with less friction leading to better results.",Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW26099481.htm
+2019-04-30,1,Better times,"Barception, nice office, great food.","(Former) Co-CEOs struggled to lead resulting in chaos. Unfortunately, the more experienced leaders who helped create some clarity and direction have all left Typeform.",Hopefully the new CEO can rebuild the company.,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW25910000.htm
+2019-04-13,3,Very average place,"Some very talented people I worked with; however, they had all tough job to be appreciated, the leadership and the management have absolutely no idea about the customer-centered design and product design whatsoever.
+
+Some good ideas coming from the teams but that would be it, none of the innovation approaches worked, CEOs being clueless about the product design, lack of vision and the strategy.
+
+Have had a pleasure to be managed by a very talented designer and a woman but the toxicity of the teams injected by the very unhealthy culture and lack of support for the real talent.","The lack of clear direction where the product is headed.
+
+A non-supportive environment for the user-centered design and lack of understanding basics of the product design.
+
+Underestimating the knowledge coming from the other teams about the customer and fear of failure and innovation.",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW25665237.htm
+2019-04-13,3,It's a pretty great place to work,"There's a nice vibe in general, people are great. The office is modern and bright and we get some cool perks - working from home, flexi-time and we have our own barcerption.","- Unpredictable, reactive, overly-emotional middle young management. 
+- Plenty of changes of direction without communication, employees need to be masterful at second-guessing management decisions. 
+- Regular promotion of the wrong people into the wrong roles for the wrong reasons. 
+- High turnover of staff.",Value your employees and invest on them. Learn their strengths and weaknesses. Some of us were great but left because of the bad wages and better opportunities elsewhere. Give employees a better reason to stay on for more than a year. Choose better your middle managers and preferably bring managers with experience if you really want to grow.,Marketing,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW25658691.htm
+2019-04-06,1,Can't Recommend,"- many intelligent and hard working people overall
+- the product is good and there is plenty of work to do to grow it","-  leadership dysfunction is high, no improvement in the last year (seems opposite)
+-  surprising lack of professionalism, especially with co-founders
+-  low morale, high confusion and stress, even for a startup making changes its extreme
+- middle and senior management seems overwhelmed and set up to fail
+- Individual contributors who don't make a fuss and do good work are overlooked while those who are entitled and loud (even if incompetent) are rewarded
+- otherwise unacceptable work behavior is common and accepted",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW25546547.htm
+2019-04-01,5,Great overall experience.,"Beautiful premises, really good work atmosphere, charismatic and hardworking Co-Founders, an organization where one can grow and bring out the best.","Still a start-up, a lot to figure out but slowly getting there. The majority of employees are young and it´s their first work opportunity, so work sometimes feels like a University campus where individuals are given too much freedom, but not enough responsibility.","Structure your People Operations team better, set an example with high performing individuals who have knowledge of the local labor laws. Give people career paths, support them in getting more responsibility, stretch people to their full potential.","Director, Facilities Management",https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW25443904.htm
+2019-03-17,1,Sinking ship,Barception is good and that’s probably it sorry,"Leadership has no clue what it is doing and is completely disconnected from its struggling and unqualified staff. 
+
+The office is falling apart and needs a complete refit
+
+Most senior or experienced staff have left or been fired in poorly managed/non-transparent culls. 
+
+Pay isn’t great and those who have any experience are taken advantage of while everyone else thinks they are experienced and enjoys the lunches, coffee and front row seats to leadership chaos
+
+No one to learn from 
+
+Yes I am leaving","Get the co founders out the building - they are clueless. Get a decent CEO who is experienced, doesn’t talk for the sake of hearing his own nonsense and can relate to the staff. Best piece of advice may simply be to cut your losses",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW25204278.htm
+2019-01-04,4,Great company - great product - great culture,"Best of typeform, are the typeformers. Talented motivated people improving an awesome product","Slow pace, and final call sometimes are hard to understand by the individual contributors. Detachment between leadership and workers.","Focus, and trust more you individual contributors rather than your middle managers.",Data Scientist,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW24051189.htm
+2018-09-25,4,Great place to work,"Lot's of freedom, great culture and awesome people working there",Strategy has been a little all over the place. Currently getting better though with a new vision and mission.,None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW22645719.htm
+2018-05-15,5,Collaborate to thrive,"How many companies have values that are more than just some words on a website?  I have no idea, but what I do know is that at Typeform people really help and care for each other. 
+
+How many companies advertise flexible working hours and then you get frowned upon for taking a longer lunch break or working 3 days in a row from home? At Typeform trust is everything. I've never felt as free to make my own schedule before.
+
+How many companies encourage feedback? At Typeform I learned how to give feedback so that it's useful for the person who received it, without hurting their feelings. 
+
+These are only 3 things that make Typeform the best place I've ever worked till now.","I can't think of anything right now. The organization is growing fast, so keeping all the good stuff in place might become a challenge.",None,Customer Outcomes Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW20587312.htm
+2018-05-10,5,Project Manager,"Work - Life balance. So difficult to find a company that really cares for its employees and gives so much flexibility. As long as work gets done, you are free to work from wherever.","Startup issues, sometimes lack of focus, but this is being solved in many ways and the entrepreneurial spirit of many employees makes of this a great opportunity to grow within the company.",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW20534440.htm
+2018-05-10,5,Barceptionist,"people enjoy the day by day at the office, the vibe is always very good",sometimes I feel people are a bit lost or confused,None,Barception,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW20518688.htm
+2018-04-11,4,Great Company with Great People,Amazing design centric company with warm people who are building a top SASS product in a competitive space. Lot's of exciting career growth opportunities.,"Priorities for individual employees are not always clear, not that many perks, yet..",More mentorship and guidance can go a long way.,Business Development Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW20118202.htm
+2018-02-13,5,Amazing place to work,Environment focused on the people,Not really cons in Typeform,None,Testing Intern,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW19219948.htm
+2018-01-04,5,Great place to work and develop yourself,"After 2 years I'm still learning and finding enough challenges to keep me motivated, in fact, my job evolved twice in two years. 
+Nice people to collaborate with. Awesome perks and offices.","Fast-paced work that includes changes and new proposals very often. If you enjoy learning, facing new challenges and also have the curiosity to improve things it's your place. If you prefer more established and standard work environment it might be less enjoyable.",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW18576525.htm
+2017-12-20,5,"Awesome, challenging and human","I had the opportunity to be part of an exceptional data science team for 6 months at Typeform. Data team members have amazing technical and soft skills, I learnt a lot and happy to come back to work with them after graduation. 
+The company culture is amazing, every single employee is super helpful and nice. Problems are challenging on a good way. Working here is also a lot of fun, many nice optional social events, really nice perks and super nice coffee by our own baristas.","Sometimes too many meetings, rapidly growing company",Try to keep up this amazing culture while growing,Data Scientist,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW18425282.htm
+2017-10-23,4,"Awesome offices, great people ... non coherent company","Great place to work with awesome office and perks. 
+Friendly environment, very open with a lot of freedom to try and learn.
+The culture is people oriented and quite agile.
+You have a lot of autonomy.
+Very successful and interesting product.
+New and trendy methodologies.
+If you love the company and don't find issues everything is great.","Company growing very very fast, learning how to keep their culture.
+Not everybody aligned with the company culture.
+Some kind of cool, hipster, trend environment, few pragmatism.
+No clear decision making process and responsibility from teams/people.
+Paternalism, protecting the people more screaming and giving them what they want although goes against teams or other people.
+People oriented culture but a lot of times acting against this principle.
+If you disagree or see things to change is difficult to find supports and sometimes also your age going to be left alone.
+No clear career path, sometimes impossible to change role or move to an other team","Please align the management, not everybody is aligned with the company culture.
+Start taking actions against not acceptable behaviors like set before personal needs against team or company needs.
+Don't throw the problems to the people, some time management has to align people and act instead of avoid problems and hide it.
+Start thinking and understanding the company issues, not everything what is happening is not for personal situations, there are also part of company issues affecting people decisions.",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW17501604.htm
+2017-05-09,5,Great place to work,Amazing familial culture with a completely unique trust in the employees. When challenges arise as the company scales Typeform takes a proactive approach to tackling these problems head on.,Relatively 'green' group of employees. They put a lot of confidence in people growing into roles which is empowering but sometimes they could benefit from more experienced professionals helping to guide the company's growth.,None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW14979815.htm
+2017-05-01,5,Typeform is an incredible place to work!,"Amazing culture, smart, humble and international environment. Located in an incredible city with a great work-life balance, company stays true to its values and emphasises quality over speed which is rare in most companies. Cross-functional teams allow people to work together. Founded by creative minds, so great for people who value vision over structure.","Start-up environment, so you have to be able to handle unfinished projects, uncertainty and adaptability. Suited for those who fit in and understand the culture, but if you like structure, hierarchal management systems and certainty  you may not enjoy the working environment.","The culture, brand and vision is the best part of this company- although the product is great too, it's everything that goes with it that makes Typeform so great! Keep doing what you're doing.",Digital Marketing Intern,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW14866350.htm
+2017-04-27,5,Best place to work for in Barcelona,"Great culture, great product and lots of opportunities to grow!","Sometimes a bit chaotic, not surprising for a startup","Keep focusing on culture, it is your strongest asset!",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW14810113.htm
+2017-04-02,5,One of the bests companies in Barcelona,"Amazing culture, international atmosphere and amazing colleagues.","It grew a lot the last year, some gears are still being adjusted, but so far management it´s solving most of the problems.","Focus a lot on the culture, keep it as it is without forcing it. Sometimes there is a little bit of micromanagement, try to empower more the workers.",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW14455449.htm
+2017-03-19,5,Great place to work at!,"The opportunity to become part of a united team was amazing. Great support within each other, we always had each other's back. Working as a team was wonderful and there was lots os space for bringing in your own ideas.",None really... Maybe sometimes communication was a bit complicated with other teams but we were working on getting it improved.,None,Account Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW14246448.htm
+2017-01-25,5,"A great place to work, amazing people","Great people and culture. International environment and open - minded attitude, autonomy, agile and good relationship both in professional, and even personal sense. 
+
+Most of the managers are good in giving us space to be autonomous and not micro-manage or control. They are also starting to work on career development more. 
+
+A lot of people relocated to Barcelona for Typeform, so we formed a great community
+y of expats (and locals of course) learning and progressing as well as enjoying activities after work together. We have a lot of different hobbies and activities that anyone can join to get to know people and integrate within the team and the city.","-Last year Typeform grew a lot. It's natural that it's having some challenges with this fast change that is mostly related to communication and effective collaboration. It's hard to know all the people now.
+
+-There is no clear remote work policy, it is in a way OK to work remotely but, in reality, it's not used very much by some teams. More holidays or/ and flexibility would be a good improvement for such an international crowd. 
+
+-Dependent on the role the salary can be quite low, especially if comparing with other startup hubs like Berlin (with similar costs). Some positions are valued more than others and it feels too much sometimes.
+
+-Some managers are new in this role or don't know how to lead in our kind of culture (startup, dynamic, open). This results in some of them wanting to control and micro-manage occasionally as well as failing in communication.","Keep focusing on career development and giving opportunities for people who deserve it, nurture open culture and proactivity, set a clear vision and goals and improve communication. On the other hand, be careful on promotions based on friendships and personal relationships as well as managers who are trying to move the direction to a corporate and rigid environment.",None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW13478703.htm
+2016-11-22,2,Room of improvement,"Cool people and good environment, good technical people working there.
+Small and evolving teams which give a visibility of what the company is doing and developing.
+Every 2 weeks internal meetings to show the development of the company that is cool.","Do not trust on people when they hire them. Too much old stuff to support and with a difficult initial development deploy.
+Management is not technical and they trust completely to an external resource, which is/was PHP minded.
+I was hired by an external hiring company and in 3 weeks they hire another developer in house and fired me, without a chance of doing something for the compay.",None,Nodejs Developer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW12754819.htm
+2016-10-13,5,Product Designer,Great people that really care about culture and building positive workspace. You get a lot of freedom as a employee and you also have the chance to enjoy Barcelona while building an awesome product.,"Living in a country with a relatively weak and recovering economy like Spain may not suit everyone, especially those who are looking to save money or live certain lifestyles.",Keep being awesome and hopefully stay as well organized as the company grows more and more!,Product Designer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW12299345.htm
+2016-03-10,5,Best place I have ever worked,"- Great culture
+- All your ideas are welcome
+- The place to work with cutting edge technology
+- Nice perks","- Prioritization is sometimes a problem
+- Yet looking for a way to organize the teams (we must recognize it is not easy in such a growing company)","Keep the great job, canalize the decisions.",Full Stack Developer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9873094.htm
+2016-03-07,4,Good Company With Growing Pains,"For the most part, the team and environment are great and I learned a lot from my time there.","No mentorship, overworked founders, and typical territorial office politics by certain managers.",Don't lose good people because you didn't invest in mentorship.,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9834477.htm
+2016-03-05,5,Just great and nothing more to add.,"- Open minded management;
+- Well balanced company culture. A lot of things is going on around but there is no pressure to spend your private time with coworkers. Also, there main focus is still on a product and work, all the fun happens if you really need/want it;
+- A lot of attention to promote cooperation and kindness among coworkers;
+- Although a HR people put a lot of effort during selection process, to pick people who don't need to be reminded about those values;
+- Focus on an effective performance, no one will be pushing you to work long hours as long as you get the job done. 
+- Strong encouragement of a personal growth and team diversity
+- The food is delicious :)","- If you are competitive person who prefers to work in an environment that validates you by numbers you might not find this place challenging
+- As a company is hiring a lot of a new people and change a structure it might be challenging to lose a good vibe",Please pay attention to a growing process to not to loose the company's culture and a general mindset.,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9808385.htm
+2016-03-03,5,Barceptionist in Typeform,"For sure the best feeling I had starting from my first day is been about how comfortable i felt to be surrounded of so many happy people in the home.
+In my day 4 I´m very surprised to how people they organize themselves and they support each others with a fast and sincer help.
+Wide and clean space office,yummy food, latest technology and a lot of good vibes.","at the moment I have not found any, sorry....!!!","no one, you are doing greate.",Barceptionist,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9784038.htm
+2016-03-02,5,Good company to work for,"- Good company culture
+- Nice perks and always trying to bring more
+- Transparency regarding company performance
+- Encouraging good practices, good liberty left to developers on how to conduct their projects","- Salaries lower than other cities, but compensated by cheaper cost of life
+- Communication not always optimal
+- hard to get proper focus time",None,Software Developer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9770169.htm
+2016-03-02,5,There are special companies out there,"Open space, ease of access to anyone you wanna talk to, people listen to advice and suggestions, lot's ot things to do in the future as it's a growing company.
+Special benefits are also awesome.",Lack of some procedures that will be needed when a larger amount of workers is here.,None,IT Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9769892.htm
+2016-03-02,5,Amazing culture,"I joined Typeform 2 year ago and I'm still in love with the company. It's such a fantastic workplace that I don't see the hours passing by, I really have a good time with my colleagues. Of course, there are stressful times, but even then everybody jumps in to help and always with a smile on their faces.
+
+Just a couple of PROS:
+- amazing culture
+- flat hierarchy: there are management levels, of course, but not in the traditional and corporate way, you can speak your mind to your director and even to CEOs
+- career opportunities
+- the perks!! Amazing lunch, gym membership, health insurance, free beer friday's afternoon :)","Cons.. being a startup, you have to be flexible.. you know that today's priorities may not be the same tomorrow and maybe you worked hard on something that is going to be deprioritized. You also have to juggle around different projects at the same time. Another con is off-topic communication because we enjoy working and hanging out with each others so much, sometimes your email is full of non-work related stuff that gets in the way of important messages.",None,Customer Success Manager,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9770143.htm
+2016-03-02,1,Worst place I've ever worked in. Just a bunch of hipsters!,"* None - they say that one of the perks is the dog they have in the office, but it's just another of the many annoyances in the office.","* They're all trying too hard to promote a hipster startup culture. You aren't thought leaders, you're just following sheep... accept it and move on.
+* Most staff are under-qualified, but persist in trying to give an image that they come from top-schools etc. (think people who put ""Stanford"" as their education on LinkedIn when they've only done a coursera online course.
+* ""Who you know"" environment","* Re-think the HR function - those people are useless.
+* Get rid of the dog
+* Please, for the love of god, stop trying to cram the word ""Awesome"" everywhere you can. You work on ""online forms""... get over it.",Anonymous,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9770882.htm
+2016-03-02,5,"A wonderful, warm, and welcoming company that values human interaction above all else","The sheer diversity of the backgrounds of each Typeformer is astounding! The culture of sharing those passions amongst others, to give them an insight into what they enjoy and an opportunity to participate, makes Typeform the most humanistic and dare I say loving company I've ever had the joy of working at. Nobody is just a programmer, or just a product owner, or just a CEO or hiring manager. For someone looking to relocate this is a boon as it provides many opportunities to integrate with a new country, society. and culture.
+
+Similarly there is a strong culture of healthy living, expressed through the catering and other perks.
+
+The diversity is reflected in the organisation - teams adapt to their size and are given some flexibility to implement the processes they require to make the day-to-day life more productive. I think this is the most accurate for the development teams where scrum, kanban, XP, and so on have different benefits depending on team dynamic. 
+
+There is a strong focus on self-improvement and innovation in favour of catching up with the competition.
+
+I find life at Typeform to be exciting.",The term 'headless chickens' occasionally comes to mind ;) the semi-agile way of working can promote a state of flux and sometimes it's hard to know exactly what is going on. Combined with rapid expansion it can sometimes make it a bit more difficult to see the transparency in the operation.,None,Developer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9771149.htm
+2016-03-02,5,Best Company Ever,"- Flexible working hours and holidays
+
+- So many perks: quarterly massage, half-day Fridays, macbook laptop, big daily hot lunches,  team-building events, rollerblading/football/beach volleyball, cake for all birthdays, BBQs
+
+- Working with talented and entrepreneurial people - you learn a lot and its really motivating; this is one of the top reasons why I don't want to leave Typeform
+
+- Its more than just work, we're a great friendly and social community and help one-another out
+
+- Typeform is experiencing hyper growth so there is plenty of room for career opportunities and owning part of the product. We're moving to a new custom-designed office soon and it's a really exciting journey to be on.","- Too many meetings which may not be necessary
+
+- Most of the decision making is done by management 
+
+- Slow to focus and take advantage of the big opportunities out there but we're getting there",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9774177.htm
+2016-03-02,5,"Great culture, great product","- Culture and mood
+- Amazing city
+- People is proactive and very helpful
+- You're doing something that is changing the way forms were.","- Hard to get visa 
+- Difficult communication something for multiple projects",None,Developer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW9775593.htm
+2015-09-21,4,Love Typeforming,Great people and environment. The is place to learn and take ownership of the work being developed. Open offices. People willing to make the best. Beautiful culture.,A lot of changes in vision and a bit of disorganisation sometimes. Not everybody is recognised for the hard work. Salaries are a bit lower than in market. Non devs managing dev teams.,To achieve the best culture you need to look into workers real necessities also.,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW8026348.htm
+2015-09-21,5,Becoming one of the best places to work in Europe.,"Really cool & smart people, creative environment, good energy. Open minded people & management. Management are always open to listening to what you have to say and everyone works hard at improving their processes. Great focus on company culture. Open to new ideas. +20 different nationalities. We're in sunny Barcelona!","Salaries start low in some positions, but you can grow pretty fast. All processes are kind of new, which is normal at a start-up, this is also an opportunity to implement new ideas or bring your knowledge and experience on-board.","Keep listening, keep being in touch with your team as you are now. Managing people will always be a challenge but you're doing really well. Thank you for that awesome sense of humor!",Happiness & Culture Lead,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW8020564.htm
+2015-09-18,5,"A place to learn, grow and have fun","Typeform isn't just an amazing, innovative product, it is also revolutionary in the way it works internally. Before even starting your journey at Typeform you get more involved with how the product works, how our customers interact with it and on your first week regardless of your department of destination you get to know more about what Typeform users need and want. That adds purpose to your final job, as you know why and who you're doing things for.
+The most important Pros for me:
+- Multi-cultural team
+- Equality in gender, believes, age, nationalities, colour.
+- Transparency of the board (where we're going, what's being done, what wants to be achieved)
+- Yoga and overall wellness tips
+- Interaction of the teams is honest, respectful and target driven
+- The opportunity to have a say, express your thoughts and suggestion to make the product and service improve
+- Free lunch (with vegetarian options ) and occasional BBQs, free beverages
+- An office dog, who's very friendly and funny
+- Constant support from management and HR
+- Ability to park your bike inside the office
+- A huge terrace to have lunch outside or walk a little
+- Flexibility
+- Private insurance
+- Wonderful organic and fair trade tea.
+- Wonderful people to share that tea with.","- Location of the offices (might be a Pro or a Con, this is just my personal opinion)
+- How space in the office is currently distributed and shared (it's nice to be around everyone but very difficult to focus)
+- At times the office, the teams and projects can be a little disorganized but this has been improving considerably.",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW7992815.htm
+2015-09-18,5,Awesome Community,"As a filmmaker I never expected ending up working at a startup... but hey, here I am, and that's because of the people who work here. Everyone is so nice and the whole project is so full of energy that Typeform becomes a really good environment to play and use your creativity. There's always room to try new things and in my opinion it's a very healthy environment to work at.",??? I can't think of any bad aspect about working here... really.,None,Videographer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW7992296.htm
+2015-09-18,5,Company with friendly environment and high quality product,"The environment in the company is open and friendly. The people is from many different countries and they're ambitious so it's always interesting to speak. The code wasn't great at the beginning but it's continually improved thanks to developers afford and different levels of validations of the quality.
+At the end it's great place to apply your knowledge, try new things, learn, grow in nice environment.",Open office isn't always very nice place to work. People are sometimes rushed into projects that might not be well analyzed.,"We should invest more in developing own tools (superadmin) having dedicated developers for this.
+Company needs data science department, what marketing already look for.
+Looking to the feature would be nice have at less 2 developers investigating about feature functionality like machine learning to create forms. Also it's possible to make it like bug station for interested developers.
+Make Typeform|IO more HATEOAS.",Developer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW7992118.htm
+2015-09-18,5,"Challenging and fun, but not for the faint-hearted","- The opportunity to build something really disruptive
+- No two days are the same
+- The team is superb: people to look up to and have fun with
+- A place to give, learn and grow
+- Goal-oriented culture
+- Flexible working hours
+- Extremely multicultural
+- Mamon (office dog)","- You better be good dealing with stress and uncertainty (remember, it's a startup)
+- Huge quantity of goals and projects to balance on a daily basis
+- Sometimes goals are changed overnight, you should be really flexible and smart at prioritizing
+- Structure of the company is still in progress and they are hiring a lot, so sometimes you need to do some research to discover who's in charge of what",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW7992135.htm
+2015-09-17,5,Work awesomely!,"- The people 
+- Good perks
+- You can learn so much as they use many technologies 
+- They care a lot for their employees
+- Lot of room to improve yourself
+- Having fun while working, it's impossible getting bored","- If you don't like forms
+- If you don't like challenges
+- Lots of things to learn when you join",More focus on what to prioritize on projects,Software Engineer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW7992140.htm
+2015-09-17,5,"Chill workplace, vibrant culture, and great people","The people are the best reason to work anywhere, and Typeform delivers here. From the top down, everybody works hard while still keeping a chill attitude. 
+
+Let's start with the founders. They compliment each other well, and are open to new ideas. They welcome good debate, and that's something that's been sorely lacking in my previous positions. They strongly believe in transparency, and that's something I'm not used to, but deeply appreciate.
+
+The culture is laid back, but still vibrant. People want to work hard for each other. There are team lunches 5 days a week. People regularly get together after work, probably because staff is a mishmash of people from all over Europe. English is the primary language with Spanish right behind. People are supportive of each other in ways that go beyond the workplace.
+
+As first glance, you might see the product as another form or survey tool, but it's much more than that. Typeform is a data collection tool most of all, but with a heavy emphasis on UX (user experience). This is its bread and butter and it's easy to get behind a quality product that has more depth than at first glance. Product versatility also allows ""users"" to do things that even the developers haven't imagined. That seems to keep staff inspired to keep adding more features and enhancements.
+
+Finally, there's a desire to help people do their best work. What good is talent if you don't get the most out of them? Typeform is putting into place a system of ongoing staff evaluations to ensure the talent fits the job to be done. This is so important to keeping and retaining the best talent. I want to grow professionally, and I feel that I will be supported in that growth. I get feedback from more than one person about what else I can bring to the company, and it's always encouraging to know that people care and want to see you do your best.
+
+People, product, purpose = optimistic that we can really build something great together.","It's a startup, so many systems and processes are being developed on the fly. I appreciate the pickiness of the founders, but as a candidate, I could've been better informed regarding how the interview process would play out.",Stay the course. Don't ruin a great thing. Keep a strong culture while the company grows. Listen and listen some more.,Writer,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW7991677.htm
+2015-09-17,5,Amazing and dynamic place for people who love to make the web a better place,"Typeform have been one of the most exciting places for me to work at. Everyone in the company is ambitious and want the company to get better. Interesting characters and the product is amazing. The current code could be better, but thankfully is actively being worked on.
+
+Management is good when it comes to recognize that sometimes you have to work on your technical debt, which is amazing. 
+
+All teams work together well and communicates across the board.","Open office environment, everyone is in the same room.
+
+People could be more recognized for their accomplishments.
+
+People are sometimes rushed into projects that might not be well thought for.",None,None,https://www.glassdoor.com/Reviews/Employee-Review-Typeform-RVW7982508.htm
