@@ -7,10 +7,8 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Rules](#rules)
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
+- [Technical Requirements](#technical-requirements)
+- [Necessary Deliverables](#necessary-deliverables)
 
 ## Project Description
 
@@ -18,8 +16,6 @@ The main goal of this project was to practice APIs and Web Scraping. Since I'm p
 1. Have a good overview of the current status of the company from an employee perspective, by extracting all the [Glassdoor reviews](https://www.glassdoor.com/Reviews/Typeform-Reviews-E991912.htm).
 2. With these, you can make your own judgement call on whether you would like to join this rocketship, and
 3. If you do, go and check the jobs we are hiring for!
-
----
 
 ## Technical Requirements
 
@@ -37,4 +33,4 @@ The following deliverables have been pushed to this Github repository:
 
 * **2 Jupyter Notebook (.ipynb) files** that contains the code used to work with your API ([``1-API.ipynb``](https://github.com/p-barrantes/PR03-project-web/blob/master/1-API.ipynb)) and scrape your web page ([``2-web-scraping.ipynb``](https://github.com/p-barrantes/PR03-project-web/blob/master/2-web-scraping.ipynb)).
 * **An output folder** containing the outputs of your API and scraping efforts ([``output`` folder](https://github.com/p-barrantes/PR03-project-web/tree/master/output)).
-* **A ``README.md`` file** containing a detailed explanation of your approach and code for retrieving data from the API and scraping the web page. _This one_ :smile:
+* **A ``README.md`` file** containing a detailed explanation of your approach and code for retrieving data from the API and scraping the web page. - _This one_ :smile:
