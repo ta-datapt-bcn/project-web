@@ -6,7 +6,6 @@
 
 In this project I have imagined that I work for Revlon Professional, a brand of professional haircare products. 
 I wish to improve the positioning of our products on the Amazon search results, so I need to scrape Amazon data to analyze it and understand why some products rank higher than others. 
----
 
 ## Objectives
 
