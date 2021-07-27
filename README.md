@@ -4,13 +4,13 @@
 
 ## Overview
 
-In this project I have imagined that I work for Revlon Professional, a brand of professional haircare products. 
-I wish to improve the positioning of our products on the Amazon search results, so I need to scrape Amazon data to analyze it and understand why some products rank higher than others. 
+In this project I have scraped data from the professional haircare products sold in Amazon Spain. 
+This data could be used by a hair care products company to improve their ranking on the Amazon search results. 
 
 ## Objectives
 
-* Objective 1: obtain data from the Haircare products section when a user perfroms a search of our brand ("revlon professional"). We want to check which articles rank higher to see if they are the ones we want to prioritise or not, and if not, take actions to change the order. Total products: 796.
-* Objective 2: obtain data from the Haircare products section when a user perfroms a search for professional products ("profesional"). We want to check how we rank compared to our competitors, and identify trends for the top ranking products to improve our ranking. Total products: 5.000+.
+* Objective 1: obtain data from the Haircare products section when a user perfroms a search of a specific brand. This brand would hypothetically want to check which articles rank higher to see if they are the ones they want to prioritise or not, and if not, take actions to change the order. Total products: 796.
+* Objective 2: obtain data from the Haircare products section when a user perfroms a search for professional products ("profesional"). A brand would hypothetically want to check how they rank compared to their competitors, and identify trends for the top ranking products to improve their ranking. Total products: 5.000+.
 
 ## Necessary Data
 
@@ -36,7 +36,6 @@ I also did some scraping with Selenium, but it was too slow and I did not contin
 * The brand is not in a separate HTML object, it's contained in the title.
 * Some products have some empty fields (solved with default=None or with try/except).
 * User Agent not added on Scrapy (solved it adding it in settings.py)
-* Identation error (solved it by converting it to spaces with Sublime)
 
 ## Learnings
 
